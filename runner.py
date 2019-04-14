@@ -22,14 +22,6 @@ given_notgiven_df = pd.DataFrame.from_dict(given_notgiven, orient='index', colum
 given_notgiven_df.to_csv('primary_given.csv')
 
 
-
-
-
-
-
-
-
-
 # y_x = Opinion(belief=0.55, disbelief=0.15, uncertainty=0.3, baserate=0.39)
 # y_notx = Opinion(belief=0.15, disbelief=0.7, uncertainty=0.15, baserate=0.39)
 # x = Opinion(belief=0.48, disbelief=0.22, uncertainty=0.3, baserate=0.4)
