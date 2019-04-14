@@ -1,0 +1,55 @@
+Primary Description,COUNT(correct Dispatch Description),COUNT(wrong Dispatch Description)
+Other Medical/Trauma,3567,5740
+Ischemic Chest Pain,14793,5426
+General Illness/Weakness,1618,2404
+Obstetrical Emergency,246,116
+Stroke/TIA,1035,706
+Other Cardiac,599,1046
+Resp. Distress,8237,2508
+Altered LOC,402,867
+Diabetic Emergency,2316,1670
+Infectious Disease,0,29
+Unconscious,767,412
+Musk/Skel Trauma,1447,1064
+Abdominal Pain NYD,1650,1348
+Resp. Arrest,26,34
+Resp. Disease,680,1036
+,0,2753
+Anaphylaxis,199,133
+Myocardial Infarction(Dx),43,136
+Seizure/Post Ictal,1905,865
+Cardiac/Medical Arrest,275,158
+Obstruc./Anatomical/Med/Other,9,8
+Back Pain,133,215
+Syncope,1062,1479
+Hypotension Non-Traumatic,226,792
+Palpitations,142,384
+GI Problems/Pain/Vomiting/Nausea,928,1176
+Newborn/Neonatal,6,3
+CHF,93,385
+Drug Overdose,681,486
+Cardiogenic Shock,0,28
+Confusion/Disorientation,265,312
+Headache,158,253
+Head/Brain Trauma,102,214
+Hemorrhage Minor,157,214
+Treatment - Diagnostic/Return,84,79
+Exposure,51,90
+Paralysis/Spinal Trauma,0,27
+Behaviour/Psychiatric,156,142
+GU Problem/Pain,51,95
+Hemorrhage/Hypovolemia Major,75,195
+Alcohol Intoxication,187,262
+Gynecological Emergency,66,34
+Obstruc./Foreign Body,20,28
+Cardiac Trauma,7,21
+Traumatic Arrest,18,15
+Convalescent/Invalid/Return Home,0,12
+Chest Trauma,14,11
+Poisoning/Toxic Exposure,51,39
+Organ Recipient,0,17
+Near Drowning,0,11
+Local Allergic Reaction,52,124
+Organ Retrieval,0,14
+Drowning,0,5
+Inhalation Injury,12,0
