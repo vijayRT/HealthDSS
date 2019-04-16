@@ -31,7 +31,8 @@ class BinomialOperators:
         temp = ((((1 - x.a) * y.a * x.b * y.u) + ((1 - y.a) * x.a * y.b * x.u)) / (1 - x.a * y.a))
         b = (x.b * y.b) + temp
         d = x.d + y.d - (x.d * y.d)
-        u = (x.u * y.u) + temp
+        temp2 = ((((1 - y.a) * x.b * y.u) + ((1 - x.a) * y.b * x.u)) / (1 - x.a * y.a))
+        u = (x.u * y.u) + temp2
         a = (x.a * y.a)
         return Opinion(belief=b, disbelief=d, uncertainty=u, baserate=a)
     
@@ -59,7 +60,7 @@ class BinomialOperators:
         if not x.u >= u_constraint:
             print("Uncertainty Constraint not satisfied")
             return None
-        b = (((y.a * (x.b + y.a * y.u)) / ((y.a - x.a) * (y.b + y.a * y.u))) - ((x.a * (1 - x.d)) / ((y.a - x.a) * (1 - y.d))))
+        b = (((y.a * (x.b + x.a * x.u)) / ((y.a - x.a) * (y.b + y.a * y.u))) - ((x.a * (1 - x.d)) / ((y.a - x.a) * (1 - y.d))))
         d = (x.d - y.d) / (1 - y.d)
         u = (((y.a * (1 - x.d)) / ((y.a - x.a) * (1 - y.d))) - ((y.a * (x.b + x.a * x.u)) / ((y.a - x.a) * (y.b + y.a * y.u))))
         a = x.a / y.a
@@ -73,7 +74,7 @@ class BinomialOperators:
             print("Belief Constraint not satisfied")
             return None
         d_constraint = (((1 - x.a) * y.a * (1 - y.b) * y.d)/(x.a* (1 - y.a) * (1 - y.b)))
-        u_constraint = ((y.a * (1 - y.b) * y.u ) / (x.a * (1 - y.b)))
+        u_constraint = ((y.a * (1 - x.b) * y.u ) / (x.a * (1 - y.b)))
         if not x.d >= d_constraint:
             print("Disbelief Constraint not satisfied")
             return None
@@ -81,7 +82,7 @@ class BinomialOperators:
             print("Uncertainty constraint not satisfied")
             return None
         b = ((x.b - y.b) / (1 - y.b))
-        d = ((((1 - y.a)* (y.d + ((1 - x.a) * x.u))) / ((x.a - y.a) * (y.d + ((1 - y.a)* y.u)))) - (((1 - x.a) * (1 - x.b)) / ((x.a - y.a) * (1 - y.b))))
+        d = ((((1 - y.a)* (x.d + ((1 - x.a) * x.u))) / ((x.a - y.a) * (y.d + ((1 - y.a)* y.u)))) - (((1 - x.a) * (1 - x.b)) / ((x.a - y.a) * (1 - y.b))))
         u = (((1 - y.a) * (1 - x.b)) / ((x.a - y.a) * (1 - y.b))) - (((1 - y.a) * (x.d + (1 - x.a) * x.u)) / ((x.a - y.a) * (y.d + (1 - y.a) * y.u)))
         a = (x.a - y.a) / (1 - y.a)
         return Opinion(belief=b, disbelief=d, uncertainty=u, baserate=a)
