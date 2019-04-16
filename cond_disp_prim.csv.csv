@@ -1,0 +1,3079 @@
+"","data3.DspProbCodeDescription","data3.PrimaryProbDescription","Freq"
+"1","","",118
+"2","Abdominal Pain NYD","",3
+"3","Abdominal Trauma","",0
+"4","Airway Trauma","",0
+"5","Alcohol Intoxication","",0
+"6","Altered LOC","",2
+"7","Anaphylaxis","",2
+"8","Back Pain","",2
+"9","Behaviour/Psychiatric","",2
+"10","Cardiac Trauma","",0
+"11","Cardiac/Medical Arrest","",4
+"12","Chest Trauma","",0
+"13","CHF","",0
+"14","Confusion/Disorientation","",1
+"15","Convalescent/Invalid/Return Home","",2
+"16","Diabetic Emergency","",8
+"17","Drug Overdose","",1
+"18","Exposure","",0
+"19","General Illness/Weakness","",7
+"20","GI Problems/Pain/Vomiting/Nausea","",2
+"21","GU Problem/Pain","",0
+"22","Gynecological Emergency","",0
+"23","Head/Brain Trauma","",0
+"24","Headache","",0
+"25","Hemorrhage Minor","",2
+"26","Hemorrhage/Hypovolemia Major","",0
+"27","Hypotension Non-Traumatic","",2
+"28","Inhalation Injury","",0
+"29","Ischemic Chest Pain","",26
+"30","Lift Assist (Dispatch Only)","",1
+"31","Local Allergic Reaction","",0
+"32","Musk/Skel Trauma","",6
+"33","MVC (Dispatch Only)","",15
+"34","Myocardial Infarction(Dx)","",2
+"35","Newborn/Neonatal","",0
+"36","Obstetrical Emergency","",1
+"37","Obstruc./Anatomical/Med/Other","",0
+"38","Obstruc./Foreign Body","",0
+"39","Organ Donor","",0
+"40","Organ Retrieval","",0
+"41","Other Cardiac","",4
+"42","Other Medical/Trauma","",19
+"43","Palpitations","",2
+"44","Paralysis/Spinal Trauma","",0
+"45","Poisoning/Toxic Exposure","",0
+"46","Resp. Arrest","",0
+"47","Resp. Disease","",3
+"48","Resp. Distress","",38
+"49","Seizure/Post Ictal","",4
+"50","Sepsis (Prev. Dx)","",0
+"51","Stroke/TIA","",3
+"52","Syncope","",3
+"53","Trauma Unknown (Dispatch Only)","",5
+"54","Traumatic Arrest","",0
+"55","Treatment - Diagnostic/Return","",0
+"56","Unconscious","",5
+"57","Unknown (Dispatch Only)","",2
+"58","","Abdominal Pain NYD",65
+"59","Abdominal Pain NYD","Abdominal Pain NYD",201
+"60","Abdominal Trauma","Abdominal Pain NYD",0
+"61","Airway Trauma","Abdominal Pain NYD",0
+"62","Alcohol Intoxication","Abdominal Pain NYD",0
+"63","Altered LOC","Abdominal Pain NYD",2
+"64","Anaphylaxis","Abdominal Pain NYD",2
+"65","Back Pain","Abdominal Pain NYD",0
+"66","Behaviour/Psychiatric","Abdominal Pain NYD",0
+"67","Cardiac Trauma","Abdominal Pain NYD",0
+"68","Cardiac/Medical Arrest","Abdominal Pain NYD",1
+"69","Chest Trauma","Abdominal Pain NYD",0
+"70","CHF","Abdominal Pain NYD",0
+"71","Confusion/Disorientation","Abdominal Pain NYD",0
+"72","Convalescent/Invalid/Return Home","Abdominal Pain NYD",0
+"73","Diabetic Emergency","Abdominal Pain NYD",0
+"74","Drug Overdose","Abdominal Pain NYD",0
+"75","Exposure","Abdominal Pain NYD",0
+"76","General Illness/Weakness","Abdominal Pain NYD",3
+"77","GI Problems/Pain/Vomiting/Nausea","Abdominal Pain NYD",7
+"78","GU Problem/Pain","Abdominal Pain NYD",1
+"79","Gynecological Emergency","Abdominal Pain NYD",0
+"80","Head/Brain Trauma","Abdominal Pain NYD",0
+"81","Headache","Abdominal Pain NYD",0
+"82","Hemorrhage Minor","Abdominal Pain NYD",0
+"83","Hemorrhage/Hypovolemia Major","Abdominal Pain NYD",0
+"84","Hypotension Non-Traumatic","Abdominal Pain NYD",0
+"85","Inhalation Injury","Abdominal Pain NYD",0
+"86","Ischemic Chest Pain","Abdominal Pain NYD",31
+"87","Lift Assist (Dispatch Only)","Abdominal Pain NYD",0
+"88","Local Allergic Reaction","Abdominal Pain NYD",0
+"89","Musk/Skel Trauma","Abdominal Pain NYD",1
+"90","MVC (Dispatch Only)","Abdominal Pain NYD",1
+"91","Myocardial Infarction(Dx)","Abdominal Pain NYD",0
+"92","Newborn/Neonatal","Abdominal Pain NYD",0
+"93","Obstetrical Emergency","Abdominal Pain NYD",1
+"94","Obstruc./Anatomical/Med/Other","Abdominal Pain NYD",0
+"95","Obstruc./Foreign Body","Abdominal Pain NYD",0
+"96","Organ Donor","Abdominal Pain NYD",0
+"97","Organ Retrieval","Abdominal Pain NYD",0
+"98","Other Cardiac","Abdominal Pain NYD",0
+"99","Other Medical/Trauma","Abdominal Pain NYD",6
+"100","Palpitations","Abdominal Pain NYD",0
+"101","Paralysis/Spinal Trauma","Abdominal Pain NYD",0
+"102","Poisoning/Toxic Exposure","Abdominal Pain NYD",1
+"103","Resp. Arrest","Abdominal Pain NYD",0
+"104","Resp. Disease","Abdominal Pain NYD",0
+"105","Resp. Distress","Abdominal Pain NYD",21
+"106","Seizure/Post Ictal","Abdominal Pain NYD",1
+"107","Sepsis (Prev. Dx)","Abdominal Pain NYD",0
+"108","Stroke/TIA","Abdominal Pain NYD",1
+"109","Syncope","Abdominal Pain NYD",0
+"110","Trauma Unknown (Dispatch Only)","Abdominal Pain NYD",1
+"111","Traumatic Arrest","Abdominal Pain NYD",0
+"112","Treatment - Diagnostic/Return","Abdominal Pain NYD",0
+"113","Unconscious","Abdominal Pain NYD",1
+"114","Unknown (Dispatch Only)","Abdominal Pain NYD",0
+"115","","Alcohol Intoxication",6
+"116","Abdominal Pain NYD","Alcohol Intoxication",0
+"117","Abdominal Trauma","Alcohol Intoxication",0
+"118","Airway Trauma","Alcohol Intoxication",1
+"119","Alcohol Intoxication","Alcohol Intoxication",26
+"120","Altered LOC","Alcohol Intoxication",1
+"121","Anaphylaxis","Alcohol Intoxication",0
+"122","Back Pain","Alcohol Intoxication",1
+"123","Behaviour/Psychiatric","Alcohol Intoxication",0
+"124","Cardiac Trauma","Alcohol Intoxication",0
+"125","Cardiac/Medical Arrest","Alcohol Intoxication",0
+"126","Chest Trauma","Alcohol Intoxication",0
+"127","CHF","Alcohol Intoxication",0
+"128","Confusion/Disorientation","Alcohol Intoxication",0
+"129","Convalescent/Invalid/Return Home","Alcohol Intoxication",0
+"130","Diabetic Emergency","Alcohol Intoxication",0
+"131","Drug Overdose","Alcohol Intoxication",2
+"132","Exposure","Alcohol Intoxication",1
+"133","General Illness/Weakness","Alcohol Intoxication",0
+"134","GI Problems/Pain/Vomiting/Nausea","Alcohol Intoxication",1
+"135","GU Problem/Pain","Alcohol Intoxication",0
+"136","Gynecological Emergency","Alcohol Intoxication",0
+"137","Head/Brain Trauma","Alcohol Intoxication",0
+"138","Headache","Alcohol Intoxication",0
+"139","Hemorrhage Minor","Alcohol Intoxication",0
+"140","Hemorrhage/Hypovolemia Major","Alcohol Intoxication",0
+"141","Hypotension Non-Traumatic","Alcohol Intoxication",0
+"142","Inhalation Injury","Alcohol Intoxication",0
+"143","Ischemic Chest Pain","Alcohol Intoxication",1
+"144","Lift Assist (Dispatch Only)","Alcohol Intoxication",0
+"145","Local Allergic Reaction","Alcohol Intoxication",0
+"146","Musk/Skel Trauma","Alcohol Intoxication",0
+"147","MVC (Dispatch Only)","Alcohol Intoxication",0
+"148","Myocardial Infarction(Dx)","Alcohol Intoxication",0
+"149","Newborn/Neonatal","Alcohol Intoxication",0
+"150","Obstetrical Emergency","Alcohol Intoxication",0
+"151","Obstruc./Anatomical/Med/Other","Alcohol Intoxication",0
+"152","Obstruc./Foreign Body","Alcohol Intoxication",0
+"153","Organ Donor","Alcohol Intoxication",0
+"154","Organ Retrieval","Alcohol Intoxication",0
+"155","Other Cardiac","Alcohol Intoxication",0
+"156","Other Medical/Trauma","Alcohol Intoxication",5
+"157","Palpitations","Alcohol Intoxication",0
+"158","Paralysis/Spinal Trauma","Alcohol Intoxication",0
+"159","Poisoning/Toxic Exposure","Alcohol Intoxication",0
+"160","Resp. Arrest","Alcohol Intoxication",0
+"161","Resp. Disease","Alcohol Intoxication",0
+"162","Resp. Distress","Alcohol Intoxication",1
+"163","Seizure/Post Ictal","Alcohol Intoxication",1
+"164","Sepsis (Prev. Dx)","Alcohol Intoxication",0
+"165","Stroke/TIA","Alcohol Intoxication",0
+"166","Syncope","Alcohol Intoxication",0
+"167","Trauma Unknown (Dispatch Only)","Alcohol Intoxication",0
+"168","Traumatic Arrest","Alcohol Intoxication",0
+"169","Treatment - Diagnostic/Return","Alcohol Intoxication",0
+"170","Unconscious","Alcohol Intoxication",12
+"171","Unknown (Dispatch Only)","Alcohol Intoxication",1
+"172","","Altered LOC",19
+"173","Abdominal Pain NYD","Altered LOC",0
+"174","Abdominal Trauma","Altered LOC",0
+"175","Airway Trauma","Altered LOC",0
+"176","Alcohol Intoxication","Altered LOC",0
+"177","Altered LOC","Altered LOC",43
+"178","Anaphylaxis","Altered LOC",0
+"179","Back Pain","Altered LOC",0
+"180","Behaviour/Psychiatric","Altered LOC",0
+"181","Cardiac Trauma","Altered LOC",0
+"182","Cardiac/Medical Arrest","Altered LOC",2
+"183","Chest Trauma","Altered LOC",0
+"184","CHF","Altered LOC",0
+"185","Confusion/Disorientation","Altered LOC",3
+"186","Convalescent/Invalid/Return Home","Altered LOC",0
+"187","Diabetic Emergency","Altered LOC",4
+"188","Drug Overdose","Altered LOC",2
+"189","Exposure","Altered LOC",0
+"190","General Illness/Weakness","Altered LOC",1
+"191","GI Problems/Pain/Vomiting/Nausea","Altered LOC",0
+"192","GU Problem/Pain","Altered LOC",0
+"193","Gynecological Emergency","Altered LOC",0
+"194","Head/Brain Trauma","Altered LOC",1
+"195","Headache","Altered LOC",0
+"196","Hemorrhage Minor","Altered LOC",0
+"197","Hemorrhage/Hypovolemia Major","Altered LOC",1
+"198","Hypotension Non-Traumatic","Altered LOC",0
+"199","Inhalation Injury","Altered LOC",0
+"200","Ischemic Chest Pain","Altered LOC",1
+"201","Lift Assist (Dispatch Only)","Altered LOC",0
+"202","Local Allergic Reaction","Altered LOC",0
+"203","Musk/Skel Trauma","Altered LOC",0
+"204","MVC (Dispatch Only)","Altered LOC",4
+"205","Myocardial Infarction(Dx)","Altered LOC",0
+"206","Newborn/Neonatal","Altered LOC",0
+"207","Obstetrical Emergency","Altered LOC",0
+"208","Obstruc./Anatomical/Med/Other","Altered LOC",0
+"209","Obstruc./Foreign Body","Altered LOC",0
+"210","Organ Donor","Altered LOC",0
+"211","Organ Retrieval","Altered LOC",0
+"212","Other Cardiac","Altered LOC",0
+"213","Other Medical/Trauma","Altered LOC",2
+"214","Palpitations","Altered LOC",0
+"215","Paralysis/Spinal Trauma","Altered LOC",0
+"216","Poisoning/Toxic Exposure","Altered LOC",0
+"217","Resp. Arrest","Altered LOC",0
+"218","Resp. Disease","Altered LOC",0
+"219","Resp. Distress","Altered LOC",7
+"220","Seizure/Post Ictal","Altered LOC",4
+"221","Sepsis (Prev. Dx)","Altered LOC",0
+"222","Stroke/TIA","Altered LOC",5
+"223","Syncope","Altered LOC",1
+"224","Trauma Unknown (Dispatch Only)","Altered LOC",0
+"225","Traumatic Arrest","Altered LOC",0
+"226","Treatment - Diagnostic/Return","Altered LOC",1
+"227","Unconscious","Altered LOC",25
+"228","Unknown (Dispatch Only)","Altered LOC",2
+"229","","Anaphylaxis",7
+"230","Abdominal Pain NYD","Anaphylaxis",0
+"231","Abdominal Trauma","Anaphylaxis",0
+"232","Airway Trauma","Anaphylaxis",0
+"233","Alcohol Intoxication","Anaphylaxis",0
+"234","Altered LOC","Anaphylaxis",0
+"235","Anaphylaxis","Anaphylaxis",22
+"236","Back Pain","Anaphylaxis",0
+"237","Behaviour/Psychiatric","Anaphylaxis",0
+"238","Cardiac Trauma","Anaphylaxis",0
+"239","Cardiac/Medical Arrest","Anaphylaxis",0
+"240","Chest Trauma","Anaphylaxis",0
+"241","CHF","Anaphylaxis",0
+"242","Confusion/Disorientation","Anaphylaxis",0
+"243","Convalescent/Invalid/Return Home","Anaphylaxis",0
+"244","Diabetic Emergency","Anaphylaxis",0
+"245","Drug Overdose","Anaphylaxis",0
+"246","Exposure","Anaphylaxis",0
+"247","General Illness/Weakness","Anaphylaxis",0
+"248","GI Problems/Pain/Vomiting/Nausea","Anaphylaxis",0
+"249","GU Problem/Pain","Anaphylaxis",0
+"250","Gynecological Emergency","Anaphylaxis",0
+"251","Head/Brain Trauma","Anaphylaxis",0
+"252","Headache","Anaphylaxis",0
+"253","Hemorrhage Minor","Anaphylaxis",0
+"254","Hemorrhage/Hypovolemia Major","Anaphylaxis",0
+"255","Hypotension Non-Traumatic","Anaphylaxis",0
+"256","Inhalation Injury","Anaphylaxis",0
+"257","Ischemic Chest Pain","Anaphylaxis",0
+"258","Lift Assist (Dispatch Only)","Anaphylaxis",0
+"259","Local Allergic Reaction","Anaphylaxis",1
+"260","Musk/Skel Trauma","Anaphylaxis",0
+"261","MVC (Dispatch Only)","Anaphylaxis",0
+"262","Myocardial Infarction(Dx)","Anaphylaxis",0
+"263","Newborn/Neonatal","Anaphylaxis",0
+"264","Obstetrical Emergency","Anaphylaxis",0
+"265","Obstruc./Anatomical/Med/Other","Anaphylaxis",0
+"266","Obstruc./Foreign Body","Anaphylaxis",1
+"267","Organ Donor","Anaphylaxis",0
+"268","Organ Retrieval","Anaphylaxis",0
+"269","Other Cardiac","Anaphylaxis",0
+"270","Other Medical/Trauma","Anaphylaxis",1
+"271","Palpitations","Anaphylaxis",0
+"272","Paralysis/Spinal Trauma","Anaphylaxis",0
+"273","Poisoning/Toxic Exposure","Anaphylaxis",0
+"274","Resp. Arrest","Anaphylaxis",0
+"275","Resp. Disease","Anaphylaxis",0
+"276","Resp. Distress","Anaphylaxis",3
+"277","Seizure/Post Ictal","Anaphylaxis",0
+"278","Sepsis (Prev. Dx)","Anaphylaxis",0
+"279","Stroke/TIA","Anaphylaxis",0
+"280","Syncope","Anaphylaxis",0
+"281","Trauma Unknown (Dispatch Only)","Anaphylaxis",0
+"282","Traumatic Arrest","Anaphylaxis",0
+"283","Treatment - Diagnostic/Return","Anaphylaxis",0
+"284","Unconscious","Anaphylaxis",1
+"285","Unknown (Dispatch Only)","Anaphylaxis",0
+"286","","Back Pain",3
+"287","Abdominal Pain NYD","Back Pain",3
+"288","Abdominal Trauma","Back Pain",0
+"289","Airway Trauma","Back Pain",0
+"290","Alcohol Intoxication","Back Pain",0
+"291","Altered LOC","Back Pain",0
+"292","Anaphylaxis","Back Pain",0
+"293","Back Pain","Back Pain",18
+"294","Behaviour/Psychiatric","Back Pain",0
+"295","Cardiac Trauma","Back Pain",0
+"296","Cardiac/Medical Arrest","Back Pain",0
+"297","Chest Trauma","Back Pain",0
+"298","CHF","Back Pain",0
+"299","Confusion/Disorientation","Back Pain",0
+"300","Convalescent/Invalid/Return Home","Back Pain",0
+"301","Diabetic Emergency","Back Pain",1
+"302","Drug Overdose","Back Pain",0
+"303","Exposure","Back Pain",0
+"304","General Illness/Weakness","Back Pain",0
+"305","GI Problems/Pain/Vomiting/Nausea","Back Pain",1
+"306","GU Problem/Pain","Back Pain",0
+"307","Gynecological Emergency","Back Pain",0
+"308","Head/Brain Trauma","Back Pain",0
+"309","Headache","Back Pain",0
+"310","Hemorrhage Minor","Back Pain",0
+"311","Hemorrhage/Hypovolemia Major","Back Pain",0
+"312","Hypotension Non-Traumatic","Back Pain",0
+"313","Inhalation Injury","Back Pain",0
+"314","Ischemic Chest Pain","Back Pain",7
+"315","Lift Assist (Dispatch Only)","Back Pain",0
+"316","Local Allergic Reaction","Back Pain",0
+"317","Musk/Skel Trauma","Back Pain",0
+"318","MVC (Dispatch Only)","Back Pain",1
+"319","Myocardial Infarction(Dx)","Back Pain",0
+"320","Newborn/Neonatal","Back Pain",0
+"321","Obstetrical Emergency","Back Pain",0
+"322","Obstruc./Anatomical/Med/Other","Back Pain",0
+"323","Obstruc./Foreign Body","Back Pain",0
+"324","Organ Donor","Back Pain",0
+"325","Organ Retrieval","Back Pain",0
+"326","Other Cardiac","Back Pain",0
+"327","Other Medical/Trauma","Back Pain",2
+"328","Palpitations","Back Pain",0
+"329","Paralysis/Spinal Trauma","Back Pain",0
+"330","Poisoning/Toxic Exposure","Back Pain",0
+"331","Resp. Arrest","Back Pain",0
+"332","Resp. Disease","Back Pain",0
+"333","Resp. Distress","Back Pain",3
+"334","Seizure/Post Ictal","Back Pain",0
+"335","Sepsis (Prev. Dx)","Back Pain",0
+"336","Stroke/TIA","Back Pain",0
+"337","Syncope","Back Pain",1
+"338","Trauma Unknown (Dispatch Only)","Back Pain",0
+"339","Traumatic Arrest","Back Pain",1
+"340","Treatment - Diagnostic/Return","Back Pain",0
+"341","Unconscious","Back Pain",0
+"342","Unknown (Dispatch Only)","Back Pain",0
+"343","","Behaviour/Psychiatric",6
+"344","Abdominal Pain NYD","Behaviour/Psychiatric",0
+"345","Abdominal Trauma","Behaviour/Psychiatric",0
+"346","Airway Trauma","Behaviour/Psychiatric",0
+"347","Alcohol Intoxication","Behaviour/Psychiatric",0
+"348","Altered LOC","Behaviour/Psychiatric",0
+"349","Anaphylaxis","Behaviour/Psychiatric",0
+"350","Back Pain","Behaviour/Psychiatric",0
+"351","Behaviour/Psychiatric","Behaviour/Psychiatric",26
+"352","Cardiac Trauma","Behaviour/Psychiatric",0
+"353","Cardiac/Medical Arrest","Behaviour/Psychiatric",0
+"354","Chest Trauma","Behaviour/Psychiatric",0
+"355","CHF","Behaviour/Psychiatric",0
+"356","Confusion/Disorientation","Behaviour/Psychiatric",0
+"357","Convalescent/Invalid/Return Home","Behaviour/Psychiatric",0
+"358","Diabetic Emergency","Behaviour/Psychiatric",0
+"359","Drug Overdose","Behaviour/Psychiatric",2
+"360","Exposure","Behaviour/Psychiatric",0
+"361","General Illness/Weakness","Behaviour/Psychiatric",0
+"362","GI Problems/Pain/Vomiting/Nausea","Behaviour/Psychiatric",0
+"363","GU Problem/Pain","Behaviour/Psychiatric",0
+"364","Gynecological Emergency","Behaviour/Psychiatric",0
+"365","Head/Brain Trauma","Behaviour/Psychiatric",0
+"366","Headache","Behaviour/Psychiatric",0
+"367","Hemorrhage Minor","Behaviour/Psychiatric",0
+"368","Hemorrhage/Hypovolemia Major","Behaviour/Psychiatric",0
+"369","Hypotension Non-Traumatic","Behaviour/Psychiatric",0
+"370","Inhalation Injury","Behaviour/Psychiatric",0
+"371","Ischemic Chest Pain","Behaviour/Psychiatric",5
+"372","Lift Assist (Dispatch Only)","Behaviour/Psychiatric",0
+"373","Local Allergic Reaction","Behaviour/Psychiatric",0
+"374","Musk/Skel Trauma","Behaviour/Psychiatric",0
+"375","MVC (Dispatch Only)","Behaviour/Psychiatric",0
+"376","Myocardial Infarction(Dx)","Behaviour/Psychiatric",0
+"377","Newborn/Neonatal","Behaviour/Psychiatric",0
+"378","Obstetrical Emergency","Behaviour/Psychiatric",0
+"379","Obstruc./Anatomical/Med/Other","Behaviour/Psychiatric",0
+"380","Obstruc./Foreign Body","Behaviour/Psychiatric",0
+"381","Organ Donor","Behaviour/Psychiatric",0
+"382","Organ Retrieval","Behaviour/Psychiatric",0
+"383","Other Cardiac","Behaviour/Psychiatric",0
+"384","Other Medical/Trauma","Behaviour/Psychiatric",0
+"385","Palpitations","Behaviour/Psychiatric",0
+"386","Paralysis/Spinal Trauma","Behaviour/Psychiatric",0
+"387","Poisoning/Toxic Exposure","Behaviour/Psychiatric",0
+"388","Resp. Arrest","Behaviour/Psychiatric",0
+"389","Resp. Disease","Behaviour/Psychiatric",0
+"390","Resp. Distress","Behaviour/Psychiatric",0
+"391","Seizure/Post Ictal","Behaviour/Psychiatric",0
+"392","Sepsis (Prev. Dx)","Behaviour/Psychiatric",0
+"393","Stroke/TIA","Behaviour/Psychiatric",1
+"394","Syncope","Behaviour/Psychiatric",0
+"395","Trauma Unknown (Dispatch Only)","Behaviour/Psychiatric",0
+"396","Traumatic Arrest","Behaviour/Psychiatric",0
+"397","Treatment - Diagnostic/Return","Behaviour/Psychiatric",0
+"398","Unconscious","Behaviour/Psychiatric",2
+"399","Unknown (Dispatch Only)","Behaviour/Psychiatric",2
+"400","","Cardiac Trauma",0
+"401","Abdominal Pain NYD","Cardiac Trauma",0
+"402","Abdominal Trauma","Cardiac Trauma",0
+"403","Airway Trauma","Cardiac Trauma",0
+"404","Alcohol Intoxication","Cardiac Trauma",0
+"405","Altered LOC","Cardiac Trauma",0
+"406","Anaphylaxis","Cardiac Trauma",0
+"407","Back Pain","Cardiac Trauma",0
+"408","Behaviour/Psychiatric","Cardiac Trauma",0
+"409","Cardiac Trauma","Cardiac Trauma",1
+"410","Cardiac/Medical Arrest","Cardiac Trauma",0
+"411","Chest Trauma","Cardiac Trauma",0
+"412","CHF","Cardiac Trauma",0
+"413","Confusion/Disorientation","Cardiac Trauma",0
+"414","Convalescent/Invalid/Return Home","Cardiac Trauma",0
+"415","Diabetic Emergency","Cardiac Trauma",0
+"416","Drug Overdose","Cardiac Trauma",0
+"417","Exposure","Cardiac Trauma",0
+"418","General Illness/Weakness","Cardiac Trauma",0
+"419","GI Problems/Pain/Vomiting/Nausea","Cardiac Trauma",0
+"420","GU Problem/Pain","Cardiac Trauma",0
+"421","Gynecological Emergency","Cardiac Trauma",0
+"422","Head/Brain Trauma","Cardiac Trauma",0
+"423","Headache","Cardiac Trauma",0
+"424","Hemorrhage Minor","Cardiac Trauma",0
+"425","Hemorrhage/Hypovolemia Major","Cardiac Trauma",0
+"426","Hypotension Non-Traumatic","Cardiac Trauma",0
+"427","Inhalation Injury","Cardiac Trauma",0
+"428","Ischemic Chest Pain","Cardiac Trauma",1
+"429","Lift Assist (Dispatch Only)","Cardiac Trauma",0
+"430","Local Allergic Reaction","Cardiac Trauma",0
+"431","Musk/Skel Trauma","Cardiac Trauma",0
+"432","MVC (Dispatch Only)","Cardiac Trauma",0
+"433","Myocardial Infarction(Dx)","Cardiac Trauma",0
+"434","Newborn/Neonatal","Cardiac Trauma",0
+"435","Obstetrical Emergency","Cardiac Trauma",0
+"436","Obstruc./Anatomical/Med/Other","Cardiac Trauma",0
+"437","Obstruc./Foreign Body","Cardiac Trauma",0
+"438","Organ Donor","Cardiac Trauma",0
+"439","Organ Retrieval","Cardiac Trauma",0
+"440","Other Cardiac","Cardiac Trauma",0
+"441","Other Medical/Trauma","Cardiac Trauma",0
+"442","Palpitations","Cardiac Trauma",0
+"443","Paralysis/Spinal Trauma","Cardiac Trauma",0
+"444","Poisoning/Toxic Exposure","Cardiac Trauma",0
+"445","Resp. Arrest","Cardiac Trauma",0
+"446","Resp. Disease","Cardiac Trauma",0
+"447","Resp. Distress","Cardiac Trauma",0
+"448","Seizure/Post Ictal","Cardiac Trauma",0
+"449","Sepsis (Prev. Dx)","Cardiac Trauma",0
+"450","Stroke/TIA","Cardiac Trauma",0
+"451","Syncope","Cardiac Trauma",0
+"452","Trauma Unknown (Dispatch Only)","Cardiac Trauma",0
+"453","Traumatic Arrest","Cardiac Trauma",0
+"454","Treatment - Diagnostic/Return","Cardiac Trauma",0
+"455","Unconscious","Cardiac Trauma",0
+"456","Unknown (Dispatch Only)","Cardiac Trauma",1
+"457","","Cardiac/Medical Arrest",18
+"458","Abdominal Pain NYD","Cardiac/Medical Arrest",1
+"459","Abdominal Trauma","Cardiac/Medical Arrest",0
+"460","Airway Trauma","Cardiac/Medical Arrest",0
+"461","Alcohol Intoxication","Cardiac/Medical Arrest",0
+"462","Altered LOC","Cardiac/Medical Arrest",0
+"463","Anaphylaxis","Cardiac/Medical Arrest",0
+"464","Back Pain","Cardiac/Medical Arrest",0
+"465","Behaviour/Psychiatric","Cardiac/Medical Arrest",0
+"466","Cardiac Trauma","Cardiac/Medical Arrest",0
+"467","Cardiac/Medical Arrest","Cardiac/Medical Arrest",90
+"468","Chest Trauma","Cardiac/Medical Arrest",0
+"469","CHF","Cardiac/Medical Arrest",0
+"470","Confusion/Disorientation","Cardiac/Medical Arrest",0
+"471","Convalescent/Invalid/Return Home","Cardiac/Medical Arrest",0
+"472","Diabetic Emergency","Cardiac/Medical Arrest",0
+"473","Drug Overdose","Cardiac/Medical Arrest",0
+"474","Exposure","Cardiac/Medical Arrest",0
+"475","General Illness/Weakness","Cardiac/Medical Arrest",0
+"476","GI Problems/Pain/Vomiting/Nausea","Cardiac/Medical Arrest",0
+"477","GU Problem/Pain","Cardiac/Medical Arrest",0
+"478","Gynecological Emergency","Cardiac/Medical Arrest",0
+"479","Head/Brain Trauma","Cardiac/Medical Arrest",0
+"480","Headache","Cardiac/Medical Arrest",0
+"481","Hemorrhage Minor","Cardiac/Medical Arrest",0
+"482","Hemorrhage/Hypovolemia Major","Cardiac/Medical Arrest",0
+"483","Hypotension Non-Traumatic","Cardiac/Medical Arrest",0
+"484","Inhalation Injury","Cardiac/Medical Arrest",0
+"485","Ischemic Chest Pain","Cardiac/Medical Arrest",2
+"486","Lift Assist (Dispatch Only)","Cardiac/Medical Arrest",0
+"487","Local Allergic Reaction","Cardiac/Medical Arrest",0
+"488","Musk/Skel Trauma","Cardiac/Medical Arrest",0
+"489","MVC (Dispatch Only)","Cardiac/Medical Arrest",1
+"490","Myocardial Infarction(Dx)","Cardiac/Medical Arrest",0
+"491","Newborn/Neonatal","Cardiac/Medical Arrest",0
+"492","Obstetrical Emergency","Cardiac/Medical Arrest",1
+"493","Obstruc./Anatomical/Med/Other","Cardiac/Medical Arrest",0
+"494","Obstruc./Foreign Body","Cardiac/Medical Arrest",0
+"495","Organ Donor","Cardiac/Medical Arrest",0
+"496","Organ Retrieval","Cardiac/Medical Arrest",0
+"497","Other Cardiac","Cardiac/Medical Arrest",0
+"498","Other Medical/Trauma","Cardiac/Medical Arrest",3
+"499","Palpitations","Cardiac/Medical Arrest",0
+"500","Paralysis/Spinal Trauma","Cardiac/Medical Arrest",0
+"501","Poisoning/Toxic Exposure","Cardiac/Medical Arrest",0
+"502","Resp. Arrest","Cardiac/Medical Arrest",0
+"503","Resp. Disease","Cardiac/Medical Arrest",0
+"504","Resp. Distress","Cardiac/Medical Arrest",0
+"505","Seizure/Post Ictal","Cardiac/Medical Arrest",0
+"506","Sepsis (Prev. Dx)","Cardiac/Medical Arrest",0
+"507","Stroke/TIA","Cardiac/Medical Arrest",0
+"508","Syncope","Cardiac/Medical Arrest",0
+"509","Trauma Unknown (Dispatch Only)","Cardiac/Medical Arrest",3
+"510","Traumatic Arrest","Cardiac/Medical Arrest",1
+"511","Treatment - Diagnostic/Return","Cardiac/Medical Arrest",0
+"512","Unconscious","Cardiac/Medical Arrest",6
+"513","Unknown (Dispatch Only)","Cardiac/Medical Arrest",3
+"514","","Cardiogenic Shock",2
+"515","Abdominal Pain NYD","Cardiogenic Shock",0
+"516","Abdominal Trauma","Cardiogenic Shock",0
+"517","Airway Trauma","Cardiogenic Shock",0
+"518","Alcohol Intoxication","Cardiogenic Shock",0
+"519","Altered LOC","Cardiogenic Shock",0
+"520","Anaphylaxis","Cardiogenic Shock",0
+"521","Back Pain","Cardiogenic Shock",0
+"522","Behaviour/Psychiatric","Cardiogenic Shock",0
+"523","Cardiac Trauma","Cardiogenic Shock",0
+"524","Cardiac/Medical Arrest","Cardiogenic Shock",0
+"525","Chest Trauma","Cardiogenic Shock",0
+"526","CHF","Cardiogenic Shock",0
+"527","Confusion/Disorientation","Cardiogenic Shock",0
+"528","Convalescent/Invalid/Return Home","Cardiogenic Shock",0
+"529","Diabetic Emergency","Cardiogenic Shock",0
+"530","Drug Overdose","Cardiogenic Shock",0
+"531","Exposure","Cardiogenic Shock",0
+"532","General Illness/Weakness","Cardiogenic Shock",0
+"533","GI Problems/Pain/Vomiting/Nausea","Cardiogenic Shock",0
+"534","GU Problem/Pain","Cardiogenic Shock",0
+"535","Gynecological Emergency","Cardiogenic Shock",0
+"536","Head/Brain Trauma","Cardiogenic Shock",0
+"537","Headache","Cardiogenic Shock",0
+"538","Hemorrhage Minor","Cardiogenic Shock",0
+"539","Hemorrhage/Hypovolemia Major","Cardiogenic Shock",0
+"540","Hypotension Non-Traumatic","Cardiogenic Shock",0
+"541","Inhalation Injury","Cardiogenic Shock",0
+"542","Ischemic Chest Pain","Cardiogenic Shock",0
+"543","Lift Assist (Dispatch Only)","Cardiogenic Shock",0
+"544","Local Allergic Reaction","Cardiogenic Shock",0
+"545","Musk/Skel Trauma","Cardiogenic Shock",0
+"546","MVC (Dispatch Only)","Cardiogenic Shock",0
+"547","Myocardial Infarction(Dx)","Cardiogenic Shock",0
+"548","Newborn/Neonatal","Cardiogenic Shock",0
+"549","Obstetrical Emergency","Cardiogenic Shock",0
+"550","Obstruc./Anatomical/Med/Other","Cardiogenic Shock",0
+"551","Obstruc./Foreign Body","Cardiogenic Shock",0
+"552","Organ Donor","Cardiogenic Shock",0
+"553","Organ Retrieval","Cardiogenic Shock",0
+"554","Other Cardiac","Cardiogenic Shock",0
+"555","Other Medical/Trauma","Cardiogenic Shock",0
+"556","Palpitations","Cardiogenic Shock",0
+"557","Paralysis/Spinal Trauma","Cardiogenic Shock",0
+"558","Poisoning/Toxic Exposure","Cardiogenic Shock",0
+"559","Resp. Arrest","Cardiogenic Shock",0
+"560","Resp. Disease","Cardiogenic Shock",0
+"561","Resp. Distress","Cardiogenic Shock",1
+"562","Seizure/Post Ictal","Cardiogenic Shock",0
+"563","Sepsis (Prev. Dx)","Cardiogenic Shock",0
+"564","Stroke/TIA","Cardiogenic Shock",0
+"565","Syncope","Cardiogenic Shock",0
+"566","Trauma Unknown (Dispatch Only)","Cardiogenic Shock",0
+"567","Traumatic Arrest","Cardiogenic Shock",0
+"568","Treatment - Diagnostic/Return","Cardiogenic Shock",0
+"569","Unconscious","Cardiogenic Shock",0
+"570","Unknown (Dispatch Only)","Cardiogenic Shock",0
+"571","","Chest Trauma",0
+"572","Abdominal Pain NYD","Chest Trauma",0
+"573","Abdominal Trauma","Chest Trauma",0
+"574","Airway Trauma","Chest Trauma",0
+"575","Alcohol Intoxication","Chest Trauma",0
+"576","Altered LOC","Chest Trauma",0
+"577","Anaphylaxis","Chest Trauma",0
+"578","Back Pain","Chest Trauma",0
+"579","Behaviour/Psychiatric","Chest Trauma",0
+"580","Cardiac Trauma","Chest Trauma",0
+"581","Cardiac/Medical Arrest","Chest Trauma",0
+"582","Chest Trauma","Chest Trauma",3
+"583","CHF","Chest Trauma",0
+"584","Confusion/Disorientation","Chest Trauma",0
+"585","Convalescent/Invalid/Return Home","Chest Trauma",0
+"586","Diabetic Emergency","Chest Trauma",0
+"587","Drug Overdose","Chest Trauma",0
+"588","Exposure","Chest Trauma",0
+"589","General Illness/Weakness","Chest Trauma",0
+"590","GI Problems/Pain/Vomiting/Nausea","Chest Trauma",0
+"591","GU Problem/Pain","Chest Trauma",0
+"592","Gynecological Emergency","Chest Trauma",0
+"593","Head/Brain Trauma","Chest Trauma",0
+"594","Headache","Chest Trauma",0
+"595","Hemorrhage Minor","Chest Trauma",0
+"596","Hemorrhage/Hypovolemia Major","Chest Trauma",0
+"597","Hypotension Non-Traumatic","Chest Trauma",0
+"598","Inhalation Injury","Chest Trauma",0
+"599","Ischemic Chest Pain","Chest Trauma",0
+"600","Lift Assist (Dispatch Only)","Chest Trauma",0
+"601","Local Allergic Reaction","Chest Trauma",0
+"602","Musk/Skel Trauma","Chest Trauma",0
+"603","MVC (Dispatch Only)","Chest Trauma",1
+"604","Myocardial Infarction(Dx)","Chest Trauma",0
+"605","Newborn/Neonatal","Chest Trauma",0
+"606","Obstetrical Emergency","Chest Trauma",0
+"607","Obstruc./Anatomical/Med/Other","Chest Trauma",0
+"608","Obstruc./Foreign Body","Chest Trauma",0
+"609","Organ Donor","Chest Trauma",0
+"610","Organ Retrieval","Chest Trauma",0
+"611","Other Cardiac","Chest Trauma",0
+"612","Other Medical/Trauma","Chest Trauma",0
+"613","Palpitations","Chest Trauma",0
+"614","Paralysis/Spinal Trauma","Chest Trauma",0
+"615","Poisoning/Toxic Exposure","Chest Trauma",0
+"616","Resp. Arrest","Chest Trauma",0
+"617","Resp. Disease","Chest Trauma",0
+"618","Resp. Distress","Chest Trauma",0
+"619","Seizure/Post Ictal","Chest Trauma",0
+"620","Sepsis (Prev. Dx)","Chest Trauma",0
+"621","Stroke/TIA","Chest Trauma",0
+"622","Syncope","Chest Trauma",0
+"623","Trauma Unknown (Dispatch Only)","Chest Trauma",0
+"624","Traumatic Arrest","Chest Trauma",0
+"625","Treatment - Diagnostic/Return","Chest Trauma",0
+"626","Unconscious","Chest Trauma",0
+"627","Unknown (Dispatch Only)","Chest Trauma",0
+"628","","CHF",14
+"629","Abdominal Pain NYD","CHF",0
+"630","Abdominal Trauma","CHF",0
+"631","Airway Trauma","CHF",0
+"632","Alcohol Intoxication","CHF",0
+"633","Altered LOC","CHF",1
+"634","Anaphylaxis","CHF",0
+"635","Back Pain","CHF",0
+"636","Behaviour/Psychiatric","CHF",0
+"637","Cardiac Trauma","CHF",0
+"638","Cardiac/Medical Arrest","CHF",0
+"639","Chest Trauma","CHF",0
+"640","CHF","CHF",10
+"641","Confusion/Disorientation","CHF",0
+"642","Convalescent/Invalid/Return Home","CHF",0
+"643","Diabetic Emergency","CHF",0
+"644","Drug Overdose","CHF",0
+"645","Exposure","CHF",0
+"646","General Illness/Weakness","CHF",0
+"647","GI Problems/Pain/Vomiting/Nausea","CHF",0
+"648","GU Problem/Pain","CHF",0
+"649","Gynecological Emergency","CHF",0
+"650","Head/Brain Trauma","CHF",0
+"651","Headache","CHF",0
+"652","Hemorrhage Minor","CHF",0
+"653","Hemorrhage/Hypovolemia Major","CHF",0
+"654","Hypotension Non-Traumatic","CHF",0
+"655","Inhalation Injury","CHF",0
+"656","Ischemic Chest Pain","CHF",4
+"657","Lift Assist (Dispatch Only)","CHF",0
+"658","Local Allergic Reaction","CHF",0
+"659","Musk/Skel Trauma","CHF",0
+"660","MVC (Dispatch Only)","CHF",0
+"661","Myocardial Infarction(Dx)","CHF",0
+"662","Newborn/Neonatal","CHF",0
+"663","Obstetrical Emergency","CHF",0
+"664","Obstruc./Anatomical/Med/Other","CHF",0
+"665","Obstruc./Foreign Body","CHF",0
+"666","Organ Donor","CHF",0
+"667","Organ Retrieval","CHF",0
+"668","Other Cardiac","CHF",0
+"669","Other Medical/Trauma","CHF",0
+"670","Palpitations","CHF",0
+"671","Paralysis/Spinal Trauma","CHF",0
+"672","Poisoning/Toxic Exposure","CHF",0
+"673","Resp. Arrest","CHF",0
+"674","Resp. Disease","CHF",0
+"675","Resp. Distress","CHF",17
+"676","Seizure/Post Ictal","CHF",0
+"677","Sepsis (Prev. Dx)","CHF",0
+"678","Stroke/TIA","CHF",0
+"679","Syncope","CHF",0
+"680","Trauma Unknown (Dispatch Only)","CHF",0
+"681","Traumatic Arrest","CHF",0
+"682","Treatment - Diagnostic/Return","CHF",0
+"683","Unconscious","CHF",0
+"684","Unknown (Dispatch Only)","CHF",0
+"685","","Confusion/Disorientation",3
+"686","Abdominal Pain NYD","Confusion/Disorientation",0
+"687","Abdominal Trauma","Confusion/Disorientation",0
+"688","Airway Trauma","Confusion/Disorientation",0
+"689","Alcohol Intoxication","Confusion/Disorientation",1
+"690","Altered LOC","Confusion/Disorientation",1
+"691","Anaphylaxis","Confusion/Disorientation",0
+"692","Back Pain","Confusion/Disorientation",0
+"693","Behaviour/Psychiatric","Confusion/Disorientation",0
+"694","Cardiac Trauma","Confusion/Disorientation",0
+"695","Cardiac/Medical Arrest","Confusion/Disorientation",0
+"696","Chest Trauma","Confusion/Disorientation",0
+"697","CHF","Confusion/Disorientation",0
+"698","Confusion/Disorientation","Confusion/Disorientation",27
+"699","Convalescent/Invalid/Return Home","Confusion/Disorientation",0
+"700","Diabetic Emergency","Confusion/Disorientation",1
+"701","Drug Overdose","Confusion/Disorientation",1
+"702","Exposure","Confusion/Disorientation",0
+"703","General Illness/Weakness","Confusion/Disorientation",2
+"704","GI Problems/Pain/Vomiting/Nausea","Confusion/Disorientation",0
+"705","GU Problem/Pain","Confusion/Disorientation",0
+"706","Gynecological Emergency","Confusion/Disorientation",0
+"707","Head/Brain Trauma","Confusion/Disorientation",1
+"708","Headache","Confusion/Disorientation",0
+"709","Hemorrhage Minor","Confusion/Disorientation",0
+"710","Hemorrhage/Hypovolemia Major","Confusion/Disorientation",0
+"711","Hypotension Non-Traumatic","Confusion/Disorientation",0
+"712","Inhalation Injury","Confusion/Disorientation",0
+"713","Ischemic Chest Pain","Confusion/Disorientation",1
+"714","Lift Assist (Dispatch Only)","Confusion/Disorientation",0
+"715","Local Allergic Reaction","Confusion/Disorientation",0
+"716","Musk/Skel Trauma","Confusion/Disorientation",0
+"717","MVC (Dispatch Only)","Confusion/Disorientation",2
+"718","Myocardial Infarction(Dx)","Confusion/Disorientation",0
+"719","Newborn/Neonatal","Confusion/Disorientation",0
+"720","Obstetrical Emergency","Confusion/Disorientation",0
+"721","Obstruc./Anatomical/Med/Other","Confusion/Disorientation",0
+"722","Obstruc./Foreign Body","Confusion/Disorientation",0
+"723","Organ Donor","Confusion/Disorientation",0
+"724","Organ Retrieval","Confusion/Disorientation",0
+"725","Other Cardiac","Confusion/Disorientation",0
+"726","Other Medical/Trauma","Confusion/Disorientation",1
+"727","Palpitations","Confusion/Disorientation",0
+"728","Paralysis/Spinal Trauma","Confusion/Disorientation",0
+"729","Poisoning/Toxic Exposure","Confusion/Disorientation",0
+"730","Resp. Arrest","Confusion/Disorientation",0
+"731","Resp. Disease","Confusion/Disorientation",0
+"732","Resp. Distress","Confusion/Disorientation",1
+"733","Seizure/Post Ictal","Confusion/Disorientation",2
+"734","Sepsis (Prev. Dx)","Confusion/Disorientation",0
+"735","Stroke/TIA","Confusion/Disorientation",7
+"736","Syncope","Confusion/Disorientation",0
+"737","Trauma Unknown (Dispatch Only)","Confusion/Disorientation",1
+"738","Traumatic Arrest","Confusion/Disorientation",0
+"739","Treatment - Diagnostic/Return","Confusion/Disorientation",0
+"740","Unconscious","Confusion/Disorientation",7
+"741","Unknown (Dispatch Only)","Confusion/Disorientation",0
+"742","","Convalescent/Invalid/Return Home",1
+"743","Abdominal Pain NYD","Convalescent/Invalid/Return Home",0
+"744","Abdominal Trauma","Convalescent/Invalid/Return Home",0
+"745","Airway Trauma","Convalescent/Invalid/Return Home",0
+"746","Alcohol Intoxication","Convalescent/Invalid/Return Home",0
+"747","Altered LOC","Convalescent/Invalid/Return Home",0
+"748","Anaphylaxis","Convalescent/Invalid/Return Home",0
+"749","Back Pain","Convalescent/Invalid/Return Home",0
+"750","Behaviour/Psychiatric","Convalescent/Invalid/Return Home",0
+"751","Cardiac Trauma","Convalescent/Invalid/Return Home",0
+"752","Cardiac/Medical Arrest","Convalescent/Invalid/Return Home",0
+"753","Chest Trauma","Convalescent/Invalid/Return Home",0
+"754","CHF","Convalescent/Invalid/Return Home",0
+"755","Confusion/Disorientation","Convalescent/Invalid/Return Home",0
+"756","Convalescent/Invalid/Return Home","Convalescent/Invalid/Return Home",0
+"757","Diabetic Emergency","Convalescent/Invalid/Return Home",0
+"758","Drug Overdose","Convalescent/Invalid/Return Home",0
+"759","Exposure","Convalescent/Invalid/Return Home",0
+"760","General Illness/Weakness","Convalescent/Invalid/Return Home",0
+"761","GI Problems/Pain/Vomiting/Nausea","Convalescent/Invalid/Return Home",0
+"762","GU Problem/Pain","Convalescent/Invalid/Return Home",0
+"763","Gynecological Emergency","Convalescent/Invalid/Return Home",0
+"764","Head/Brain Trauma","Convalescent/Invalid/Return Home",0
+"765","Headache","Convalescent/Invalid/Return Home",0
+"766","Hemorrhage Minor","Convalescent/Invalid/Return Home",0
+"767","Hemorrhage/Hypovolemia Major","Convalescent/Invalid/Return Home",0
+"768","Hypotension Non-Traumatic","Convalescent/Invalid/Return Home",0
+"769","Inhalation Injury","Convalescent/Invalid/Return Home",0
+"770","Ischemic Chest Pain","Convalescent/Invalid/Return Home",0
+"771","Lift Assist (Dispatch Only)","Convalescent/Invalid/Return Home",0
+"772","Local Allergic Reaction","Convalescent/Invalid/Return Home",0
+"773","Musk/Skel Trauma","Convalescent/Invalid/Return Home",0
+"774","MVC (Dispatch Only)","Convalescent/Invalid/Return Home",0
+"775","Myocardial Infarction(Dx)","Convalescent/Invalid/Return Home",0
+"776","Newborn/Neonatal","Convalescent/Invalid/Return Home",0
+"777","Obstetrical Emergency","Convalescent/Invalid/Return Home",0
+"778","Obstruc./Anatomical/Med/Other","Convalescent/Invalid/Return Home",0
+"779","Obstruc./Foreign Body","Convalescent/Invalid/Return Home",0
+"780","Organ Donor","Convalescent/Invalid/Return Home",0
+"781","Organ Retrieval","Convalescent/Invalid/Return Home",0
+"782","Other Cardiac","Convalescent/Invalid/Return Home",0
+"783","Other Medical/Trauma","Convalescent/Invalid/Return Home",0
+"784","Palpitations","Convalescent/Invalid/Return Home",0
+"785","Paralysis/Spinal Trauma","Convalescent/Invalid/Return Home",0
+"786","Poisoning/Toxic Exposure","Convalescent/Invalid/Return Home",0
+"787","Resp. Arrest","Convalescent/Invalid/Return Home",0
+"788","Resp. Disease","Convalescent/Invalid/Return Home",0
+"789","Resp. Distress","Convalescent/Invalid/Return Home",0
+"790","Seizure/Post Ictal","Convalescent/Invalid/Return Home",0
+"791","Sepsis (Prev. Dx)","Convalescent/Invalid/Return Home",0
+"792","Stroke/TIA","Convalescent/Invalid/Return Home",0
+"793","Syncope","Convalescent/Invalid/Return Home",0
+"794","Trauma Unknown (Dispatch Only)","Convalescent/Invalid/Return Home",0
+"795","Traumatic Arrest","Convalescent/Invalid/Return Home",0
+"796","Treatment - Diagnostic/Return","Convalescent/Invalid/Return Home",0
+"797","Unconscious","Convalescent/Invalid/Return Home",0
+"798","Unknown (Dispatch Only)","Convalescent/Invalid/Return Home",0
+"799","","Diabetic Emergency",54
+"800","Abdominal Pain NYD","Diabetic Emergency",0
+"801","Abdominal Trauma","Diabetic Emergency",0
+"802","Airway Trauma","Diabetic Emergency",0
+"803","Alcohol Intoxication","Diabetic Emergency",0
+"804","Altered LOC","Diabetic Emergency",4
+"805","Anaphylaxis","Diabetic Emergency",0
+"806","Back Pain","Diabetic Emergency",0
+"807","Behaviour/Psychiatric","Diabetic Emergency",0
+"808","Cardiac Trauma","Diabetic Emergency",0
+"809","Cardiac/Medical Arrest","Diabetic Emergency",0
+"810","Chest Trauma","Diabetic Emergency",0
+"811","CHF","Diabetic Emergency",0
+"812","Confusion/Disorientation","Diabetic Emergency",8
+"813","Convalescent/Invalid/Return Home","Diabetic Emergency",0
+"814","Diabetic Emergency","Diabetic Emergency",240
+"815","Drug Overdose","Diabetic Emergency",1
+"816","Exposure","Diabetic Emergency",0
+"817","General Illness/Weakness","Diabetic Emergency",2
+"818","GI Problems/Pain/Vomiting/Nausea","Diabetic Emergency",3
+"819","GU Problem/Pain","Diabetic Emergency",0
+"820","Gynecological Emergency","Diabetic Emergency",0
+"821","Head/Brain Trauma","Diabetic Emergency",1
+"822","Headache","Diabetic Emergency",0
+"823","Hemorrhage Minor","Diabetic Emergency",0
+"824","Hemorrhage/Hypovolemia Major","Diabetic Emergency",0
+"825","Hypotension Non-Traumatic","Diabetic Emergency",0
+"826","Inhalation Injury","Diabetic Emergency",0
+"827","Ischemic Chest Pain","Diabetic Emergency",4
+"828","Lift Assist (Dispatch Only)","Diabetic Emergency",0
+"829","Local Allergic Reaction","Diabetic Emergency",0
+"830","Musk/Skel Trauma","Diabetic Emergency",2
+"831","MVC (Dispatch Only)","Diabetic Emergency",1
+"832","Myocardial Infarction(Dx)","Diabetic Emergency",0
+"833","Newborn/Neonatal","Diabetic Emergency",0
+"834","Obstetrical Emergency","Diabetic Emergency",0
+"835","Obstruc./Anatomical/Med/Other","Diabetic Emergency",0
+"836","Obstruc./Foreign Body","Diabetic Emergency",0
+"837","Organ Donor","Diabetic Emergency",0
+"838","Organ Retrieval","Diabetic Emergency",0
+"839","Other Cardiac","Diabetic Emergency",0
+"840","Other Medical/Trauma","Diabetic Emergency",8
+"841","Palpitations","Diabetic Emergency",1
+"842","Paralysis/Spinal Trauma","Diabetic Emergency",0
+"843","Poisoning/Toxic Exposure","Diabetic Emergency",0
+"844","Resp. Arrest","Diabetic Emergency",0
+"845","Resp. Disease","Diabetic Emergency",0
+"846","Resp. Distress","Diabetic Emergency",12
+"847","Seizure/Post Ictal","Diabetic Emergency",8
+"848","Sepsis (Prev. Dx)","Diabetic Emergency",0
+"849","Stroke/TIA","Diabetic Emergency",18
+"850","Syncope","Diabetic Emergency",2
+"851","Trauma Unknown (Dispatch Only)","Diabetic Emergency",0
+"852","Traumatic Arrest","Diabetic Emergency",0
+"853","Treatment - Diagnostic/Return","Diabetic Emergency",0
+"854","Unconscious","Diabetic Emergency",32
+"855","Unknown (Dispatch Only)","Diabetic Emergency",2
+"856","","Drowning",0
+"857","Abdominal Pain NYD","Drowning",0
+"858","Abdominal Trauma","Drowning",0
+"859","Airway Trauma","Drowning",0
+"860","Alcohol Intoxication","Drowning",0
+"861","Altered LOC","Drowning",0
+"862","Anaphylaxis","Drowning",0
+"863","Back Pain","Drowning",0
+"864","Behaviour/Psychiatric","Drowning",0
+"865","Cardiac Trauma","Drowning",0
+"866","Cardiac/Medical Arrest","Drowning",0
+"867","Chest Trauma","Drowning",0
+"868","CHF","Drowning",0
+"869","Confusion/Disorientation","Drowning",0
+"870","Convalescent/Invalid/Return Home","Drowning",0
+"871","Diabetic Emergency","Drowning",0
+"872","Drug Overdose","Drowning",0
+"873","Exposure","Drowning",0
+"874","General Illness/Weakness","Drowning",0
+"875","GI Problems/Pain/Vomiting/Nausea","Drowning",0
+"876","GU Problem/Pain","Drowning",0
+"877","Gynecological Emergency","Drowning",0
+"878","Head/Brain Trauma","Drowning",0
+"879","Headache","Drowning",0
+"880","Hemorrhage Minor","Drowning",0
+"881","Hemorrhage/Hypovolemia Major","Drowning",0
+"882","Hypotension Non-Traumatic","Drowning",0
+"883","Inhalation Injury","Drowning",0
+"884","Ischemic Chest Pain","Drowning",0
+"885","Lift Assist (Dispatch Only)","Drowning",0
+"886","Local Allergic Reaction","Drowning",0
+"887","Musk/Skel Trauma","Drowning",0
+"888","MVC (Dispatch Only)","Drowning",0
+"889","Myocardial Infarction(Dx)","Drowning",0
+"890","Newborn/Neonatal","Drowning",0
+"891","Obstetrical Emergency","Drowning",0
+"892","Obstruc./Anatomical/Med/Other","Drowning",0
+"893","Obstruc./Foreign Body","Drowning",0
+"894","Organ Donor","Drowning",0
+"895","Organ Retrieval","Drowning",0
+"896","Other Cardiac","Drowning",0
+"897","Other Medical/Trauma","Drowning",0
+"898","Palpitations","Drowning",0
+"899","Paralysis/Spinal Trauma","Drowning",0
+"900","Poisoning/Toxic Exposure","Drowning",1
+"901","Resp. Arrest","Drowning",0
+"902","Resp. Disease","Drowning",0
+"903","Resp. Distress","Drowning",0
+"904","Seizure/Post Ictal","Drowning",0
+"905","Sepsis (Prev. Dx)","Drowning",0
+"906","Stroke/TIA","Drowning",0
+"907","Syncope","Drowning",0
+"908","Trauma Unknown (Dispatch Only)","Drowning",0
+"909","Traumatic Arrest","Drowning",0
+"910","Treatment - Diagnostic/Return","Drowning",0
+"911","Unconscious","Drowning",0
+"912","Unknown (Dispatch Only)","Drowning",0
+"913","","Drug Overdose",17
+"914","Abdominal Pain NYD","Drug Overdose",0
+"915","Abdominal Trauma","Drug Overdose",0
+"916","Airway Trauma","Drug Overdose",0
+"917","Alcohol Intoxication","Drug Overdose",2
+"918","Altered LOC","Drug Overdose",0
+"919","Anaphylaxis","Drug Overdose",0
+"920","Back Pain","Drug Overdose",0
+"921","Behaviour/Psychiatric","Drug Overdose",3
+"922","Cardiac Trauma","Drug Overdose",0
+"923","Cardiac/Medical Arrest","Drug Overdose",2
+"924","Chest Trauma","Drug Overdose",0
+"925","CHF","Drug Overdose",0
+"926","Confusion/Disorientation","Drug Overdose",1
+"927","Convalescent/Invalid/Return Home","Drug Overdose",0
+"928","Diabetic Emergency","Drug Overdose",2
+"929","Drug Overdose","Drug Overdose",70
+"930","Exposure","Drug Overdose",0
+"931","General Illness/Weakness","Drug Overdose",0
+"932","GI Problems/Pain/Vomiting/Nausea","Drug Overdose",1
+"933","GU Problem/Pain","Drug Overdose",0
+"934","Gynecological Emergency","Drug Overdose",0
+"935","Head/Brain Trauma","Drug Overdose",0
+"936","Headache","Drug Overdose",0
+"937","Hemorrhage Minor","Drug Overdose",0
+"938","Hemorrhage/Hypovolemia Major","Drug Overdose",0
+"939","Hypotension Non-Traumatic","Drug Overdose",0
+"940","Inhalation Injury","Drug Overdose",0
+"941","Ischemic Chest Pain","Drug Overdose",0
+"942","Lift Assist (Dispatch Only)","Drug Overdose",0
+"943","Local Allergic Reaction","Drug Overdose",0
+"944","Musk/Skel Trauma","Drug Overdose",0
+"945","MVC (Dispatch Only)","Drug Overdose",0
+"946","Myocardial Infarction(Dx)","Drug Overdose",0
+"947","Newborn/Neonatal","Drug Overdose",0
+"948","Obstetrical Emergency","Drug Overdose",0
+"949","Obstruc./Anatomical/Med/Other","Drug Overdose",0
+"950","Obstruc./Foreign Body","Drug Overdose",1
+"951","Organ Donor","Drug Overdose",0
+"952","Organ Retrieval","Drug Overdose",0
+"953","Other Cardiac","Drug Overdose",0
+"954","Other Medical/Trauma","Drug Overdose",0
+"955","Palpitations","Drug Overdose",0
+"956","Paralysis/Spinal Trauma","Drug Overdose",0
+"957","Poisoning/Toxic Exposure","Drug Overdose",0
+"958","Resp. Arrest","Drug Overdose",0
+"959","Resp. Disease","Drug Overdose",0
+"960","Resp. Distress","Drug Overdose",7
+"961","Seizure/Post Ictal","Drug Overdose",1
+"962","Sepsis (Prev. Dx)","Drug Overdose",0
+"963","Stroke/TIA","Drug Overdose",0
+"964","Syncope","Drug Overdose",0
+"965","Trauma Unknown (Dispatch Only)","Drug Overdose",0
+"966","Traumatic Arrest","Drug Overdose",0
+"967","Treatment - Diagnostic/Return","Drug Overdose",0
+"968","Unconscious","Drug Overdose",10
+"969","Unknown (Dispatch Only)","Drug Overdose",0
+"970","","Exposure",1
+"971","Abdominal Pain NYD","Exposure",0
+"972","Abdominal Trauma","Exposure",0
+"973","Airway Trauma","Exposure",0
+"974","Alcohol Intoxication","Exposure",1
+"975","Altered LOC","Exposure",0
+"976","Anaphylaxis","Exposure",0
+"977","Back Pain","Exposure",0
+"978","Behaviour/Psychiatric","Exposure",0
+"979","Cardiac Trauma","Exposure",0
+"980","Cardiac/Medical Arrest","Exposure",1
+"981","Chest Trauma","Exposure",0
+"982","CHF","Exposure",0
+"983","Confusion/Disorientation","Exposure",0
+"984","Convalescent/Invalid/Return Home","Exposure",0
+"985","Diabetic Emergency","Exposure",0
+"986","Drug Overdose","Exposure",0
+"987","Exposure","Exposure",6
+"988","General Illness/Weakness","Exposure",0
+"989","GI Problems/Pain/Vomiting/Nausea","Exposure",0
+"990","GU Problem/Pain","Exposure",0
+"991","Gynecological Emergency","Exposure",0
+"992","Head/Brain Trauma","Exposure",0
+"993","Headache","Exposure",0
+"994","Hemorrhage Minor","Exposure",0
+"995","Hemorrhage/Hypovolemia Major","Exposure",0
+"996","Hypotension Non-Traumatic","Exposure",0
+"997","Inhalation Injury","Exposure",0
+"998","Ischemic Chest Pain","Exposure",2
+"999","Lift Assist (Dispatch Only)","Exposure",1
+"1000","Local Allergic Reaction","Exposure",0
+"1001","Musk/Skel Trauma","Exposure",0
+"1002","MVC (Dispatch Only)","Exposure",0
+"1003","Myocardial Infarction(Dx)","Exposure",0
+"1004","Newborn/Neonatal","Exposure",0
+"1005","Obstetrical Emergency","Exposure",0
+"1006","Obstruc./Anatomical/Med/Other","Exposure",0
+"1007","Obstruc./Foreign Body","Exposure",0
+"1008","Organ Donor","Exposure",0
+"1009","Organ Retrieval","Exposure",0
+"1010","Other Cardiac","Exposure",0
+"1011","Other Medical/Trauma","Exposure",1
+"1012","Palpitations","Exposure",0
+"1013","Paralysis/Spinal Trauma","Exposure",0
+"1014","Poisoning/Toxic Exposure","Exposure",0
+"1015","Resp. Arrest","Exposure",0
+"1016","Resp. Disease","Exposure",0
+"1017","Resp. Distress","Exposure",0
+"1018","Seizure/Post Ictal","Exposure",0
+"1019","Sepsis (Prev. Dx)","Exposure",0
+"1020","Stroke/TIA","Exposure",0
+"1021","Syncope","Exposure",1
+"1022","Trauma Unknown (Dispatch Only)","Exposure",0
+"1023","Traumatic Arrest","Exposure",0
+"1024","Treatment - Diagnostic/Return","Exposure",0
+"1025","Unconscious","Exposure",1
+"1026","Unknown (Dispatch Only)","Exposure",0
+"1027","","General Illness/Weakness",45
+"1028","Abdominal Pain NYD","General Illness/Weakness",8
+"1029","Abdominal Trauma","General Illness/Weakness",0
+"1030","Airway Trauma","General Illness/Weakness",0
+"1031","Alcohol Intoxication","General Illness/Weakness",0
+"1032","Altered LOC","General Illness/Weakness",6
+"1033","Anaphylaxis","General Illness/Weakness",3
+"1034","Back Pain","General Illness/Weakness",1
+"1035","Behaviour/Psychiatric","General Illness/Weakness",1
+"1036","Cardiac Trauma","General Illness/Weakness",0
+"1037","Cardiac/Medical Arrest","General Illness/Weakness",0
+"1038","Chest Trauma","General Illness/Weakness",0
+"1039","CHF","General Illness/Weakness",0
+"1040","Confusion/Disorientation","General Illness/Weakness",6
+"1041","Convalescent/Invalid/Return Home","General Illness/Weakness",0
+"1042","Diabetic Emergency","General Illness/Weakness",14
+"1043","Drug Overdose","General Illness/Weakness",2
+"1044","Exposure","General Illness/Weakness",1
+"1045","General Illness/Weakness","General Illness/Weakness",197
+"1046","GI Problems/Pain/Vomiting/Nausea","General Illness/Weakness",2
+"1047","GU Problem/Pain","General Illness/Weakness",0
+"1048","Gynecological Emergency","General Illness/Weakness",0
+"1049","Head/Brain Trauma","General Illness/Weakness",1
+"1050","Headache","General Illness/Weakness",3
+"1051","Hemorrhage Minor","General Illness/Weakness",1
+"1052","Hemorrhage/Hypovolemia Major","General Illness/Weakness",1
+"1053","Hypotension Non-Traumatic","General Illness/Weakness",3
+"1054","Inhalation Injury","General Illness/Weakness",0
+"1055","Ischemic Chest Pain","General Illness/Weakness",23
+"1056","Lift Assist (Dispatch Only)","General Illness/Weakness",3
+"1057","Local Allergic Reaction","General Illness/Weakness",1
+"1058","Musk/Skel Trauma","General Illness/Weakness",3
+"1059","MVC (Dispatch Only)","General Illness/Weakness",0
+"1060","Myocardial Infarction(Dx)","General Illness/Weakness",0
+"1061","Newborn/Neonatal","General Illness/Weakness",0
+"1062","Obstetrical Emergency","General Illness/Weakness",0
+"1063","Obstruc./Anatomical/Med/Other","General Illness/Weakness",0
+"1064","Obstruc./Foreign Body","General Illness/Weakness",0
+"1065","Organ Donor","General Illness/Weakness",0
+"1066","Organ Retrieval","General Illness/Weakness",0
+"1067","Other Cardiac","General Illness/Weakness",4
+"1068","Other Medical/Trauma","General Illness/Weakness",20
+"1069","Palpitations","General Illness/Weakness",2
+"1070","Paralysis/Spinal Trauma","General Illness/Weakness",1
+"1071","Poisoning/Toxic Exposure","General Illness/Weakness",0
+"1072","Resp. Arrest","General Illness/Weakness",0
+"1073","Resp. Disease","General Illness/Weakness",1
+"1074","Resp. Distress","General Illness/Weakness",58
+"1075","Seizure/Post Ictal","General Illness/Weakness",3
+"1076","Sepsis (Prev. Dx)","General Illness/Weakness",1
+"1077","Stroke/TIA","General Illness/Weakness",27
+"1078","Syncope","General Illness/Weakness",4
+"1079","Trauma Unknown (Dispatch Only)","General Illness/Weakness",1
+"1080","Traumatic Arrest","General Illness/Weakness",0
+"1081","Treatment - Diagnostic/Return","General Illness/Weakness",0
+"1082","Unconscious","General Illness/Weakness",13
+"1083","Unknown (Dispatch Only)","General Illness/Weakness",7
+"1084","","GI Problems/Pain/Vomiting/Nausea",15
+"1085","Abdominal Pain NYD","GI Problems/Pain/Vomiting/Nausea",18
+"1086","Abdominal Trauma","GI Problems/Pain/Vomiting/Nausea",1
+"1087","Airway Trauma","GI Problems/Pain/Vomiting/Nausea",0
+"1088","Alcohol Intoxication","GI Problems/Pain/Vomiting/Nausea",0
+"1089","Altered LOC","GI Problems/Pain/Vomiting/Nausea",0
+"1090","Anaphylaxis","GI Problems/Pain/Vomiting/Nausea",2
+"1091","Back Pain","GI Problems/Pain/Vomiting/Nausea",0
+"1092","Behaviour/Psychiatric","GI Problems/Pain/Vomiting/Nausea",0
+"1093","Cardiac Trauma","GI Problems/Pain/Vomiting/Nausea",0
+"1094","Cardiac/Medical Arrest","GI Problems/Pain/Vomiting/Nausea",1
+"1095","Chest Trauma","GI Problems/Pain/Vomiting/Nausea",0
+"1096","CHF","GI Problems/Pain/Vomiting/Nausea",0
+"1097","Confusion/Disorientation","GI Problems/Pain/Vomiting/Nausea",2
+"1098","Convalescent/Invalid/Return Home","GI Problems/Pain/Vomiting/Nausea",0
+"1099","Diabetic Emergency","GI Problems/Pain/Vomiting/Nausea",1
+"1100","Drug Overdose","GI Problems/Pain/Vomiting/Nausea",0
+"1101","Exposure","GI Problems/Pain/Vomiting/Nausea",0
+"1102","General Illness/Weakness","GI Problems/Pain/Vomiting/Nausea",6
+"1103","GI Problems/Pain/Vomiting/Nausea","GI Problems/Pain/Vomiting/Nausea",104
+"1104","GU Problem/Pain","GI Problems/Pain/Vomiting/Nausea",0
+"1105","Gynecological Emergency","GI Problems/Pain/Vomiting/Nausea",0
+"1106","Head/Brain Trauma","GI Problems/Pain/Vomiting/Nausea",0
+"1107","Headache","GI Problems/Pain/Vomiting/Nausea",1
+"1108","Hemorrhage Minor","GI Problems/Pain/Vomiting/Nausea",1
+"1109","Hemorrhage/Hypovolemia Major","GI Problems/Pain/Vomiting/Nausea",0
+"1110","Hypotension Non-Traumatic","GI Problems/Pain/Vomiting/Nausea",0
+"1111","Inhalation Injury","GI Problems/Pain/Vomiting/Nausea",0
+"1112","Ischemic Chest Pain","GI Problems/Pain/Vomiting/Nausea",19
+"1113","Lift Assist (Dispatch Only)","GI Problems/Pain/Vomiting/Nausea",0
+"1114","Local Allergic Reaction","GI Problems/Pain/Vomiting/Nausea",0
+"1115","Musk/Skel Trauma","GI Problems/Pain/Vomiting/Nausea",1
+"1116","MVC (Dispatch Only)","GI Problems/Pain/Vomiting/Nausea",0
+"1117","Myocardial Infarction(Dx)","GI Problems/Pain/Vomiting/Nausea",0
+"1118","Newborn/Neonatal","GI Problems/Pain/Vomiting/Nausea",0
+"1119","Obstetrical Emergency","GI Problems/Pain/Vomiting/Nausea",0
+"1120","Obstruc./Anatomical/Med/Other","GI Problems/Pain/Vomiting/Nausea",0
+"1121","Obstruc./Foreign Body","GI Problems/Pain/Vomiting/Nausea",1
+"1122","Organ Donor","GI Problems/Pain/Vomiting/Nausea",0
+"1123","Organ Retrieval","GI Problems/Pain/Vomiting/Nausea",0
+"1124","Other Cardiac","GI Problems/Pain/Vomiting/Nausea",1
+"1125","Other Medical/Trauma","GI Problems/Pain/Vomiting/Nausea",13
+"1126","Palpitations","GI Problems/Pain/Vomiting/Nausea",0
+"1127","Paralysis/Spinal Trauma","GI Problems/Pain/Vomiting/Nausea",0
+"1128","Poisoning/Toxic Exposure","GI Problems/Pain/Vomiting/Nausea",0
+"1129","Resp. Arrest","GI Problems/Pain/Vomiting/Nausea",0
+"1130","Resp. Disease","GI Problems/Pain/Vomiting/Nausea",0
+"1131","Resp. Distress","GI Problems/Pain/Vomiting/Nausea",26
+"1132","Seizure/Post Ictal","GI Problems/Pain/Vomiting/Nausea",1
+"1133","Sepsis (Prev. Dx)","GI Problems/Pain/Vomiting/Nausea",0
+"1134","Stroke/TIA","GI Problems/Pain/Vomiting/Nausea",5
+"1135","Syncope","GI Problems/Pain/Vomiting/Nausea",0
+"1136","Trauma Unknown (Dispatch Only)","GI Problems/Pain/Vomiting/Nausea",0
+"1137","Traumatic Arrest","GI Problems/Pain/Vomiting/Nausea",0
+"1138","Treatment - Diagnostic/Return","GI Problems/Pain/Vomiting/Nausea",0
+"1139","Unconscious","GI Problems/Pain/Vomiting/Nausea",3
+"1140","Unknown (Dispatch Only)","GI Problems/Pain/Vomiting/Nausea",2
+"1141","","GU Problem/Pain",2
+"1142","Abdominal Pain NYD","GU Problem/Pain",3
+"1143","Abdominal Trauma","GU Problem/Pain",0
+"1144","Airway Trauma","GU Problem/Pain",0
+"1145","Alcohol Intoxication","GU Problem/Pain",0
+"1146","Altered LOC","GU Problem/Pain",0
+"1147","Anaphylaxis","GU Problem/Pain",0
+"1148","Back Pain","GU Problem/Pain",0
+"1149","Behaviour/Psychiatric","GU Problem/Pain",0
+"1150","Cardiac Trauma","GU Problem/Pain",0
+"1151","Cardiac/Medical Arrest","GU Problem/Pain",0
+"1152","Chest Trauma","GU Problem/Pain",0
+"1153","CHF","GU Problem/Pain",0
+"1154","Confusion/Disorientation","GU Problem/Pain",0
+"1155","Convalescent/Invalid/Return Home","GU Problem/Pain",0
+"1156","Diabetic Emergency","GU Problem/Pain",0
+"1157","Drug Overdose","GU Problem/Pain",0
+"1158","Exposure","GU Problem/Pain",0
+"1159","General Illness/Weakness","GU Problem/Pain",1
+"1160","GI Problems/Pain/Vomiting/Nausea","GU Problem/Pain",2
+"1161","GU Problem/Pain","GU Problem/Pain",6
+"1162","Gynecological Emergency","GU Problem/Pain",0
+"1163","Head/Brain Trauma","GU Problem/Pain",0
+"1164","Headache","GU Problem/Pain",0
+"1165","Hemorrhage Minor","GU Problem/Pain",0
+"1166","Hemorrhage/Hypovolemia Major","GU Problem/Pain",0
+"1167","Hypotension Non-Traumatic","GU Problem/Pain",0
+"1168","Inhalation Injury","GU Problem/Pain",0
+"1169","Ischemic Chest Pain","GU Problem/Pain",2
+"1170","Lift Assist (Dispatch Only)","GU Problem/Pain",0
+"1171","Local Allergic Reaction","GU Problem/Pain",0
+"1172","Musk/Skel Trauma","GU Problem/Pain",0
+"1173","MVC (Dispatch Only)","GU Problem/Pain",0
+"1174","Myocardial Infarction(Dx)","GU Problem/Pain",0
+"1175","Newborn/Neonatal","GU Problem/Pain",0
+"1176","Obstetrical Emergency","GU Problem/Pain",0
+"1177","Obstruc./Anatomical/Med/Other","GU Problem/Pain",0
+"1178","Obstruc./Foreign Body","GU Problem/Pain",0
+"1179","Organ Donor","GU Problem/Pain",0
+"1180","Organ Retrieval","GU Problem/Pain",0
+"1181","Other Cardiac","GU Problem/Pain",0
+"1182","Other Medical/Trauma","GU Problem/Pain",1
+"1183","Palpitations","GU Problem/Pain",0
+"1184","Paralysis/Spinal Trauma","GU Problem/Pain",0
+"1185","Poisoning/Toxic Exposure","GU Problem/Pain",0
+"1186","Resp. Arrest","GU Problem/Pain",0
+"1187","Resp. Disease","GU Problem/Pain",0
+"1188","Resp. Distress","GU Problem/Pain",0
+"1189","Seizure/Post Ictal","GU Problem/Pain",0
+"1190","Sepsis (Prev. Dx)","GU Problem/Pain",0
+"1191","Stroke/TIA","GU Problem/Pain",0
+"1192","Syncope","GU Problem/Pain",0
+"1193","Trauma Unknown (Dispatch Only)","GU Problem/Pain",0
+"1194","Traumatic Arrest","GU Problem/Pain",0
+"1195","Treatment - Diagnostic/Return","GU Problem/Pain",0
+"1196","Unconscious","GU Problem/Pain",0
+"1197","Unknown (Dispatch Only)","GU Problem/Pain",0
+"1198","","Gynecological Emergency",2
+"1199","Abdominal Pain NYD","Gynecological Emergency",0
+"1200","Abdominal Trauma","Gynecological Emergency",0
+"1201","Airway Trauma","Gynecological Emergency",0
+"1202","Alcohol Intoxication","Gynecological Emergency",0
+"1203","Altered LOC","Gynecological Emergency",0
+"1204","Anaphylaxis","Gynecological Emergency",0
+"1205","Back Pain","Gynecological Emergency",0
+"1206","Behaviour/Psychiatric","Gynecological Emergency",0
+"1207","Cardiac Trauma","Gynecological Emergency",0
+"1208","Cardiac/Medical Arrest","Gynecological Emergency",0
+"1209","Chest Trauma","Gynecological Emergency",0
+"1210","CHF","Gynecological Emergency",0
+"1211","Confusion/Disorientation","Gynecological Emergency",0
+"1212","Convalescent/Invalid/Return Home","Gynecological Emergency",0
+"1213","Diabetic Emergency","Gynecological Emergency",1
+"1214","Drug Overdose","Gynecological Emergency",0
+"1215","Exposure","Gynecological Emergency",0
+"1216","General Illness/Weakness","Gynecological Emergency",0
+"1217","GI Problems/Pain/Vomiting/Nausea","Gynecological Emergency",0
+"1218","GU Problem/Pain","Gynecological Emergency",0
+"1219","Gynecological Emergency","Gynecological Emergency",9
+"1220","Head/Brain Trauma","Gynecological Emergency",0
+"1221","Headache","Gynecological Emergency",0
+"1222","Hemorrhage Minor","Gynecological Emergency",0
+"1223","Hemorrhage/Hypovolemia Major","Gynecological Emergency",0
+"1224","Hypotension Non-Traumatic","Gynecological Emergency",0
+"1225","Inhalation Injury","Gynecological Emergency",0
+"1226","Ischemic Chest Pain","Gynecological Emergency",0
+"1227","Lift Assist (Dispatch Only)","Gynecological Emergency",0
+"1228","Local Allergic Reaction","Gynecological Emergency",0
+"1229","Musk/Skel Trauma","Gynecological Emergency",0
+"1230","MVC (Dispatch Only)","Gynecological Emergency",0
+"1231","Myocardial Infarction(Dx)","Gynecological Emergency",0
+"1232","Newborn/Neonatal","Gynecological Emergency",0
+"1233","Obstetrical Emergency","Gynecological Emergency",1
+"1234","Obstruc./Anatomical/Med/Other","Gynecological Emergency",0
+"1235","Obstruc./Foreign Body","Gynecological Emergency",0
+"1236","Organ Donor","Gynecological Emergency",0
+"1237","Organ Retrieval","Gynecological Emergency",0
+"1238","Other Cardiac","Gynecological Emergency",0
+"1239","Other Medical/Trauma","Gynecological Emergency",0
+"1240","Palpitations","Gynecological Emergency",0
+"1241","Paralysis/Spinal Trauma","Gynecological Emergency",0
+"1242","Poisoning/Toxic Exposure","Gynecological Emergency",1
+"1243","Resp. Arrest","Gynecological Emergency",0
+"1244","Resp. Disease","Gynecological Emergency",0
+"1245","Resp. Distress","Gynecological Emergency",0
+"1246","Seizure/Post Ictal","Gynecological Emergency",0
+"1247","Sepsis (Prev. Dx)","Gynecological Emergency",0
+"1248","Stroke/TIA","Gynecological Emergency",0
+"1249","Syncope","Gynecological Emergency",0
+"1250","Trauma Unknown (Dispatch Only)","Gynecological Emergency",0
+"1251","Traumatic Arrest","Gynecological Emergency",0
+"1252","Treatment - Diagnostic/Return","Gynecological Emergency",0
+"1253","Unconscious","Gynecological Emergency",0
+"1254","Unknown (Dispatch Only)","Gynecological Emergency",0
+"1255","","Head/Brain Trauma",4
+"1256","Abdominal Pain NYD","Head/Brain Trauma",0
+"1257","Abdominal Trauma","Head/Brain Trauma",0
+"1258","Airway Trauma","Head/Brain Trauma",0
+"1259","Alcohol Intoxication","Head/Brain Trauma",0
+"1260","Altered LOC","Head/Brain Trauma",1
+"1261","Anaphylaxis","Head/Brain Trauma",0
+"1262","Back Pain","Head/Brain Trauma",0
+"1263","Behaviour/Psychiatric","Head/Brain Trauma",0
+"1264","Cardiac Trauma","Head/Brain Trauma",0
+"1265","Cardiac/Medical Arrest","Head/Brain Trauma",0
+"1266","Chest Trauma","Head/Brain Trauma",0
+"1267","CHF","Head/Brain Trauma",0
+"1268","Confusion/Disorientation","Head/Brain Trauma",0
+"1269","Convalescent/Invalid/Return Home","Head/Brain Trauma",0
+"1270","Diabetic Emergency","Head/Brain Trauma",0
+"1271","Drug Overdose","Head/Brain Trauma",0
+"1272","Exposure","Head/Brain Trauma",0
+"1273","General Illness/Weakness","Head/Brain Trauma",0
+"1274","GI Problems/Pain/Vomiting/Nausea","Head/Brain Trauma",0
+"1275","GU Problem/Pain","Head/Brain Trauma",0
+"1276","Gynecological Emergency","Head/Brain Trauma",0
+"1277","Head/Brain Trauma","Head/Brain Trauma",9
+"1278","Headache","Head/Brain Trauma",0
+"1279","Hemorrhage Minor","Head/Brain Trauma",0
+"1280","Hemorrhage/Hypovolemia Major","Head/Brain Trauma",1
+"1281","Hypotension Non-Traumatic","Head/Brain Trauma",0
+"1282","Inhalation Injury","Head/Brain Trauma",0
+"1283","Ischemic Chest Pain","Head/Brain Trauma",0
+"1284","Lift Assist (Dispatch Only)","Head/Brain Trauma",0
+"1285","Local Allergic Reaction","Head/Brain Trauma",0
+"1286","Musk/Skel Trauma","Head/Brain Trauma",0
+"1287","MVC (Dispatch Only)","Head/Brain Trauma",5
+"1288","Myocardial Infarction(Dx)","Head/Brain Trauma",0
+"1289","Newborn/Neonatal","Head/Brain Trauma",0
+"1290","Obstetrical Emergency","Head/Brain Trauma",0
+"1291","Obstruc./Anatomical/Med/Other","Head/Brain Trauma",0
+"1292","Obstruc./Foreign Body","Head/Brain Trauma",0
+"1293","Organ Donor","Head/Brain Trauma",0
+"1294","Organ Retrieval","Head/Brain Trauma",0
+"1295","Other Cardiac","Head/Brain Trauma",0
+"1296","Other Medical/Trauma","Head/Brain Trauma",2
+"1297","Palpitations","Head/Brain Trauma",0
+"1298","Paralysis/Spinal Trauma","Head/Brain Trauma",0
+"1299","Poisoning/Toxic Exposure","Head/Brain Trauma",0
+"1300","Resp. Arrest","Head/Brain Trauma",0
+"1301","Resp. Disease","Head/Brain Trauma",0
+"1302","Resp. Distress","Head/Brain Trauma",0
+"1303","Seizure/Post Ictal","Head/Brain Trauma",0
+"1304","Sepsis (Prev. Dx)","Head/Brain Trauma",0
+"1305","Stroke/TIA","Head/Brain Trauma",0
+"1306","Syncope","Head/Brain Trauma",0
+"1307","Trauma Unknown (Dispatch Only)","Head/Brain Trauma",4
+"1308","Traumatic Arrest","Head/Brain Trauma",0
+"1309","Treatment - Diagnostic/Return","Head/Brain Trauma",0
+"1310","Unconscious","Head/Brain Trauma",2
+"1311","Unknown (Dispatch Only)","Head/Brain Trauma",0
+"1312","","Headache",4
+"1313","Abdominal Pain NYD","Headache",0
+"1314","Abdominal Trauma","Headache",0
+"1315","Airway Trauma","Headache",0
+"1316","Alcohol Intoxication","Headache",0
+"1317","Altered LOC","Headache",1
+"1318","Anaphylaxis","Headache",0
+"1319","Back Pain","Headache",0
+"1320","Behaviour/Psychiatric","Headache",0
+"1321","Cardiac Trauma","Headache",0
+"1322","Cardiac/Medical Arrest","Headache",0
+"1323","Chest Trauma","Headache",0
+"1324","CHF","Headache",0
+"1325","Confusion/Disorientation","Headache",2
+"1326","Convalescent/Invalid/Return Home","Headache",0
+"1327","Diabetic Emergency","Headache",0
+"1328","Drug Overdose","Headache",0
+"1329","Exposure","Headache",0
+"1330","General Illness/Weakness","Headache",0
+"1331","GI Problems/Pain/Vomiting/Nausea","Headache",0
+"1332","GU Problem/Pain","Headache",0
+"1333","Gynecological Emergency","Headache",0
+"1334","Head/Brain Trauma","Headache",2
+"1335","Headache","Headache",20
+"1336","Hemorrhage Minor","Headache",0
+"1337","Hemorrhage/Hypovolemia Major","Headache",0
+"1338","Hypotension Non-Traumatic","Headache",0
+"1339","Inhalation Injury","Headache",0
+"1340","Ischemic Chest Pain","Headache",2
+"1341","Lift Assist (Dispatch Only)","Headache",0
+"1342","Local Allergic Reaction","Headache",0
+"1343","Musk/Skel Trauma","Headache",0
+"1344","MVC (Dispatch Only)","Headache",0
+"1345","Myocardial Infarction(Dx)","Headache",0
+"1346","Newborn/Neonatal","Headache",0
+"1347","Obstetrical Emergency","Headache",1
+"1348","Obstruc./Anatomical/Med/Other","Headache",0
+"1349","Obstruc./Foreign Body","Headache",0
+"1350","Organ Donor","Headache",0
+"1351","Organ Retrieval","Headache",0
+"1352","Other Cardiac","Headache",1
+"1353","Other Medical/Trauma","Headache",1
+"1354","Palpitations","Headache",0
+"1355","Paralysis/Spinal Trauma","Headache",0
+"1356","Poisoning/Toxic Exposure","Headache",0
+"1357","Resp. Arrest","Headache",0
+"1358","Resp. Disease","Headache",0
+"1359","Resp. Distress","Headache",4
+"1360","Seizure/Post Ictal","Headache",1
+"1361","Sepsis (Prev. Dx)","Headache",0
+"1362","Stroke/TIA","Headache",8
+"1363","Syncope","Headache",0
+"1364","Trauma Unknown (Dispatch Only)","Headache",0
+"1365","Traumatic Arrest","Headache",0
+"1366","Treatment - Diagnostic/Return","Headache",0
+"1367","Unconscious","Headache",1
+"1368","Unknown (Dispatch Only)","Headache",1
+"1369","","Hemorrhage Minor",7
+"1370","Abdominal Pain NYD","Hemorrhage Minor",0
+"1371","Abdominal Trauma","Hemorrhage Minor",0
+"1372","Airway Trauma","Hemorrhage Minor",0
+"1373","Alcohol Intoxication","Hemorrhage Minor",0
+"1374","Altered LOC","Hemorrhage Minor",0
+"1375","Anaphylaxis","Hemorrhage Minor",0
+"1376","Back Pain","Hemorrhage Minor",0
+"1377","Behaviour/Psychiatric","Hemorrhage Minor",0
+"1378","Cardiac Trauma","Hemorrhage Minor",0
+"1379","Cardiac/Medical Arrest","Hemorrhage Minor",0
+"1380","Chest Trauma","Hemorrhage Minor",0
+"1381","CHF","Hemorrhage Minor",0
+"1382","Confusion/Disorientation","Hemorrhage Minor",0
+"1383","Convalescent/Invalid/Return Home","Hemorrhage Minor",0
+"1384","Diabetic Emergency","Hemorrhage Minor",0
+"1385","Drug Overdose","Hemorrhage Minor",0
+"1386","Exposure","Hemorrhage Minor",0
+"1387","General Illness/Weakness","Hemorrhage Minor",0
+"1388","GI Problems/Pain/Vomiting/Nausea","Hemorrhage Minor",0
+"1389","GU Problem/Pain","Hemorrhage Minor",0
+"1390","Gynecological Emergency","Hemorrhage Minor",0
+"1391","Head/Brain Trauma","Hemorrhage Minor",0
+"1392","Headache","Hemorrhage Minor",0
+"1393","Hemorrhage Minor","Hemorrhage Minor",22
+"1394","Hemorrhage/Hypovolemia Major","Hemorrhage Minor",5
+"1395","Hypotension Non-Traumatic","Hemorrhage Minor",1
+"1396","Inhalation Injury","Hemorrhage Minor",0
+"1397","Ischemic Chest Pain","Hemorrhage Minor",1
+"1398","Lift Assist (Dispatch Only)","Hemorrhage Minor",0
+"1399","Local Allergic Reaction","Hemorrhage Minor",0
+"1400","Musk/Skel Trauma","Hemorrhage Minor",0
+"1401","MVC (Dispatch Only)","Hemorrhage Minor",0
+"1402","Myocardial Infarction(Dx)","Hemorrhage Minor",0
+"1403","Newborn/Neonatal","Hemorrhage Minor",0
+"1404","Obstetrical Emergency","Hemorrhage Minor",0
+"1405","Obstruc./Anatomical/Med/Other","Hemorrhage Minor",0
+"1406","Obstruc./Foreign Body","Hemorrhage Minor",0
+"1407","Organ Donor","Hemorrhage Minor",0
+"1408","Organ Retrieval","Hemorrhage Minor",0
+"1409","Other Cardiac","Hemorrhage Minor",1
+"1410","Other Medical/Trauma","Hemorrhage Minor",0
+"1411","Palpitations","Hemorrhage Minor",0
+"1412","Paralysis/Spinal Trauma","Hemorrhage Minor",0
+"1413","Poisoning/Toxic Exposure","Hemorrhage Minor",0
+"1414","Resp. Arrest","Hemorrhage Minor",0
+"1415","Resp. Disease","Hemorrhage Minor",0
+"1416","Resp. Distress","Hemorrhage Minor",1
+"1417","Seizure/Post Ictal","Hemorrhage Minor",2
+"1418","Sepsis (Prev. Dx)","Hemorrhage Minor",0
+"1419","Stroke/TIA","Hemorrhage Minor",1
+"1420","Syncope","Hemorrhage Minor",1
+"1421","Trauma Unknown (Dispatch Only)","Hemorrhage Minor",1
+"1422","Traumatic Arrest","Hemorrhage Minor",1
+"1423","Treatment - Diagnostic/Return","Hemorrhage Minor",0
+"1424","Unconscious","Hemorrhage Minor",2
+"1425","Unknown (Dispatch Only)","Hemorrhage Minor",1
+"1426","","Hemorrhage/Hypovolemia Major",4
+"1427","Abdominal Pain NYD","Hemorrhage/Hypovolemia Major",0
+"1428","Abdominal Trauma","Hemorrhage/Hypovolemia Major",0
+"1429","Airway Trauma","Hemorrhage/Hypovolemia Major",0
+"1430","Alcohol Intoxication","Hemorrhage/Hypovolemia Major",0
+"1431","Altered LOC","Hemorrhage/Hypovolemia Major",0
+"1432","Anaphylaxis","Hemorrhage/Hypovolemia Major",0
+"1433","Back Pain","Hemorrhage/Hypovolemia Major",0
+"1434","Behaviour/Psychiatric","Hemorrhage/Hypovolemia Major",0
+"1435","Cardiac Trauma","Hemorrhage/Hypovolemia Major",0
+"1436","Cardiac/Medical Arrest","Hemorrhage/Hypovolemia Major",0
+"1437","Chest Trauma","Hemorrhage/Hypovolemia Major",0
+"1438","CHF","Hemorrhage/Hypovolemia Major",0
+"1439","Confusion/Disorientation","Hemorrhage/Hypovolemia Major",0
+"1440","Convalescent/Invalid/Return Home","Hemorrhage/Hypovolemia Major",0
+"1441","Diabetic Emergency","Hemorrhage/Hypovolemia Major",1
+"1442","Drug Overdose","Hemorrhage/Hypovolemia Major",0
+"1443","Exposure","Hemorrhage/Hypovolemia Major",0
+"1444","General Illness/Weakness","Hemorrhage/Hypovolemia Major",0
+"1445","GI Problems/Pain/Vomiting/Nausea","Hemorrhage/Hypovolemia Major",1
+"1446","GU Problem/Pain","Hemorrhage/Hypovolemia Major",0
+"1447","Gynecological Emergency","Hemorrhage/Hypovolemia Major",0
+"1448","Head/Brain Trauma","Hemorrhage/Hypovolemia Major",0
+"1449","Headache","Hemorrhage/Hypovolemia Major",0
+"1450","Hemorrhage Minor","Hemorrhage/Hypovolemia Major",1
+"1451","Hemorrhage/Hypovolemia Major","Hemorrhage/Hypovolemia Major",11
+"1452","Hypotension Non-Traumatic","Hemorrhage/Hypovolemia Major",0
+"1453","Inhalation Injury","Hemorrhage/Hypovolemia Major",0
+"1454","Ischemic Chest Pain","Hemorrhage/Hypovolemia Major",0
+"1455","Lift Assist (Dispatch Only)","Hemorrhage/Hypovolemia Major",0
+"1456","Local Allergic Reaction","Hemorrhage/Hypovolemia Major",0
+"1457","Musk/Skel Trauma","Hemorrhage/Hypovolemia Major",0
+"1458","MVC (Dispatch Only)","Hemorrhage/Hypovolemia Major",0
+"1459","Myocardial Infarction(Dx)","Hemorrhage/Hypovolemia Major",0
+"1460","Newborn/Neonatal","Hemorrhage/Hypovolemia Major",0
+"1461","Obstetrical Emergency","Hemorrhage/Hypovolemia Major",2
+"1462","Obstruc./Anatomical/Med/Other","Hemorrhage/Hypovolemia Major",0
+"1463","Obstruc./Foreign Body","Hemorrhage/Hypovolemia Major",0
+"1464","Organ Donor","Hemorrhage/Hypovolemia Major",0
+"1465","Organ Retrieval","Hemorrhage/Hypovolemia Major",0
+"1466","Other Cardiac","Hemorrhage/Hypovolemia Major",0
+"1467","Other Medical/Trauma","Hemorrhage/Hypovolemia Major",2
+"1468","Palpitations","Hemorrhage/Hypovolemia Major",0
+"1469","Paralysis/Spinal Trauma","Hemorrhage/Hypovolemia Major",0
+"1470","Poisoning/Toxic Exposure","Hemorrhage/Hypovolemia Major",0
+"1471","Resp. Arrest","Hemorrhage/Hypovolemia Major",0
+"1472","Resp. Disease","Hemorrhage/Hypovolemia Major",0
+"1473","Resp. Distress","Hemorrhage/Hypovolemia Major",1
+"1474","Seizure/Post Ictal","Hemorrhage/Hypovolemia Major",1
+"1475","Sepsis (Prev. Dx)","Hemorrhage/Hypovolemia Major",0
+"1476","Stroke/TIA","Hemorrhage/Hypovolemia Major",0
+"1477","Syncope","Hemorrhage/Hypovolemia Major",0
+"1478","Trauma Unknown (Dispatch Only)","Hemorrhage/Hypovolemia Major",4
+"1479","Traumatic Arrest","Hemorrhage/Hypovolemia Major",0
+"1480","Treatment - Diagnostic/Return","Hemorrhage/Hypovolemia Major",0
+"1481","Unconscious","Hemorrhage/Hypovolemia Major",0
+"1482","Unknown (Dispatch Only)","Hemorrhage/Hypovolemia Major",0
+"1483","","Hypotension Non-Traumatic",12
+"1484","Abdominal Pain NYD","Hypotension Non-Traumatic",0
+"1485","Abdominal Trauma","Hypotension Non-Traumatic",0
+"1486","Airway Trauma","Hypotension Non-Traumatic",0
+"1487","Alcohol Intoxication","Hypotension Non-Traumatic",0
+"1488","Altered LOC","Hypotension Non-Traumatic",2
+"1489","Anaphylaxis","Hypotension Non-Traumatic",0
+"1490","Back Pain","Hypotension Non-Traumatic",0
+"1491","Behaviour/Psychiatric","Hypotension Non-Traumatic",0
+"1492","Cardiac Trauma","Hypotension Non-Traumatic",0
+"1493","Cardiac/Medical Arrest","Hypotension Non-Traumatic",0
+"1494","Chest Trauma","Hypotension Non-Traumatic",0
+"1495","CHF","Hypotension Non-Traumatic",1
+"1496","Confusion/Disorientation","Hypotension Non-Traumatic",4
+"1497","Convalescent/Invalid/Return Home","Hypotension Non-Traumatic",0
+"1498","Diabetic Emergency","Hypotension Non-Traumatic",4
+"1499","Drug Overdose","Hypotension Non-Traumatic",0
+"1500","Exposure","Hypotension Non-Traumatic",0
+"1501","General Illness/Weakness","Hypotension Non-Traumatic",9
+"1502","GI Problems/Pain/Vomiting/Nausea","Hypotension Non-Traumatic",2
+"1503","GU Problem/Pain","Hypotension Non-Traumatic",0
+"1504","Gynecological Emergency","Hypotension Non-Traumatic",0
+"1505","Head/Brain Trauma","Hypotension Non-Traumatic",2
+"1506","Headache","Hypotension Non-Traumatic",0
+"1507","Hemorrhage Minor","Hypotension Non-Traumatic",0
+"1508","Hemorrhage/Hypovolemia Major","Hypotension Non-Traumatic",0
+"1509","Hypotension Non-Traumatic","Hypotension Non-Traumatic",23
+"1510","Inhalation Injury","Hypotension Non-Traumatic",0
+"1511","Ischemic Chest Pain","Hypotension Non-Traumatic",4
+"1512","Lift Assist (Dispatch Only)","Hypotension Non-Traumatic",0
+"1513","Local Allergic Reaction","Hypotension Non-Traumatic",0
+"1514","Musk/Skel Trauma","Hypotension Non-Traumatic",2
+"1515","MVC (Dispatch Only)","Hypotension Non-Traumatic",0
+"1516","Myocardial Infarction(Dx)","Hypotension Non-Traumatic",0
+"1517","Newborn/Neonatal","Hypotension Non-Traumatic",0
+"1518","Obstetrical Emergency","Hypotension Non-Traumatic",0
+"1519","Obstruc./Anatomical/Med/Other","Hypotension Non-Traumatic",0
+"1520","Obstruc./Foreign Body","Hypotension Non-Traumatic",0
+"1521","Organ Donor","Hypotension Non-Traumatic",0
+"1522","Organ Retrieval","Hypotension Non-Traumatic",0
+"1523","Other Cardiac","Hypotension Non-Traumatic",1
+"1524","Other Medical/Trauma","Hypotension Non-Traumatic",6
+"1525","Palpitations","Hypotension Non-Traumatic",0
+"1526","Paralysis/Spinal Trauma","Hypotension Non-Traumatic",0
+"1527","Poisoning/Toxic Exposure","Hypotension Non-Traumatic",0
+"1528","Resp. Arrest","Hypotension Non-Traumatic",0
+"1529","Resp. Disease","Hypotension Non-Traumatic",0
+"1530","Resp. Distress","Hypotension Non-Traumatic",5
+"1531","Seizure/Post Ictal","Hypotension Non-Traumatic",1
+"1532","Sepsis (Prev. Dx)","Hypotension Non-Traumatic",0
+"1533","Stroke/TIA","Hypotension Non-Traumatic",6
+"1534","Syncope","Hypotension Non-Traumatic",6
+"1535","Trauma Unknown (Dispatch Only)","Hypotension Non-Traumatic",1
+"1536","Traumatic Arrest","Hypotension Non-Traumatic",0
+"1537","Treatment - Diagnostic/Return","Hypotension Non-Traumatic",0
+"1538","Unconscious","Hypotension Non-Traumatic",5
+"1539","Unknown (Dispatch Only)","Hypotension Non-Traumatic",1
+"1540","","Infectious Disease",0
+"1541","Abdominal Pain NYD","Infectious Disease",1
+"1542","Abdominal Trauma","Infectious Disease",0
+"1543","Airway Trauma","Infectious Disease",0
+"1544","Alcohol Intoxication","Infectious Disease",0
+"1545","Altered LOC","Infectious Disease",0
+"1546","Anaphylaxis","Infectious Disease",0
+"1547","Back Pain","Infectious Disease",0
+"1548","Behaviour/Psychiatric","Infectious Disease",0
+"1549","Cardiac Trauma","Infectious Disease",0
+"1550","Cardiac/Medical Arrest","Infectious Disease",0
+"1551","Chest Trauma","Infectious Disease",0
+"1552","CHF","Infectious Disease",0
+"1553","Confusion/Disorientation","Infectious Disease",0
+"1554","Convalescent/Invalid/Return Home","Infectious Disease",0
+"1555","Diabetic Emergency","Infectious Disease",0
+"1556","Drug Overdose","Infectious Disease",0
+"1557","Exposure","Infectious Disease",0
+"1558","General Illness/Weakness","Infectious Disease",0
+"1559","GI Problems/Pain/Vomiting/Nausea","Infectious Disease",0
+"1560","GU Problem/Pain","Infectious Disease",0
+"1561","Gynecological Emergency","Infectious Disease",0
+"1562","Head/Brain Trauma","Infectious Disease",0
+"1563","Headache","Infectious Disease",0
+"1564","Hemorrhage Minor","Infectious Disease",0
+"1565","Hemorrhage/Hypovolemia Major","Infectious Disease",0
+"1566","Hypotension Non-Traumatic","Infectious Disease",0
+"1567","Inhalation Injury","Infectious Disease",0
+"1568","Ischemic Chest Pain","Infectious Disease",0
+"1569","Lift Assist (Dispatch Only)","Infectious Disease",0
+"1570","Local Allergic Reaction","Infectious Disease",0
+"1571","Musk/Skel Trauma","Infectious Disease",0
+"1572","MVC (Dispatch Only)","Infectious Disease",0
+"1573","Myocardial Infarction(Dx)","Infectious Disease",0
+"1574","Newborn/Neonatal","Infectious Disease",0
+"1575","Obstetrical Emergency","Infectious Disease",0
+"1576","Obstruc./Anatomical/Med/Other","Infectious Disease",0
+"1577","Obstruc./Foreign Body","Infectious Disease",0
+"1578","Organ Donor","Infectious Disease",0
+"1579","Organ Retrieval","Infectious Disease",0
+"1580","Other Cardiac","Infectious Disease",0
+"1581","Other Medical/Trauma","Infectious Disease",1
+"1582","Palpitations","Infectious Disease",0
+"1583","Paralysis/Spinal Trauma","Infectious Disease",0
+"1584","Poisoning/Toxic Exposure","Infectious Disease",0
+"1585","Resp. Arrest","Infectious Disease",0
+"1586","Resp. Disease","Infectious Disease",0
+"1587","Resp. Distress","Infectious Disease",0
+"1588","Seizure/Post Ictal","Infectious Disease",0
+"1589","Sepsis (Prev. Dx)","Infectious Disease",0
+"1590","Stroke/TIA","Infectious Disease",0
+"1591","Syncope","Infectious Disease",0
+"1592","Trauma Unknown (Dispatch Only)","Infectious Disease",0
+"1593","Traumatic Arrest","Infectious Disease",0
+"1594","Treatment - Diagnostic/Return","Infectious Disease",0
+"1595","Unconscious","Infectious Disease",0
+"1596","Unknown (Dispatch Only)","Infectious Disease",1
+"1597","","Inhalation Injury",0
+"1598","Abdominal Pain NYD","Inhalation Injury",0
+"1599","Abdominal Trauma","Inhalation Injury",0
+"1600","Airway Trauma","Inhalation Injury",0
+"1601","Alcohol Intoxication","Inhalation Injury",0
+"1602","Altered LOC","Inhalation Injury",0
+"1603","Anaphylaxis","Inhalation Injury",0
+"1604","Back Pain","Inhalation Injury",0
+"1605","Behaviour/Psychiatric","Inhalation Injury",0
+"1606","Cardiac Trauma","Inhalation Injury",0
+"1607","Cardiac/Medical Arrest","Inhalation Injury",0
+"1608","Chest Trauma","Inhalation Injury",0
+"1609","CHF","Inhalation Injury",0
+"1610","Confusion/Disorientation","Inhalation Injury",0
+"1611","Convalescent/Invalid/Return Home","Inhalation Injury",0
+"1612","Diabetic Emergency","Inhalation Injury",0
+"1613","Drug Overdose","Inhalation Injury",0
+"1614","Exposure","Inhalation Injury",0
+"1615","General Illness/Weakness","Inhalation Injury",0
+"1616","GI Problems/Pain/Vomiting/Nausea","Inhalation Injury",0
+"1617","GU Problem/Pain","Inhalation Injury",0
+"1618","Gynecological Emergency","Inhalation Injury",0
+"1619","Head/Brain Trauma","Inhalation Injury",0
+"1620","Headache","Inhalation Injury",0
+"1621","Hemorrhage Minor","Inhalation Injury",0
+"1622","Hemorrhage/Hypovolemia Major","Inhalation Injury",0
+"1623","Hypotension Non-Traumatic","Inhalation Injury",0
+"1624","Inhalation Injury","Inhalation Injury",1
+"1625","Ischemic Chest Pain","Inhalation Injury",0
+"1626","Lift Assist (Dispatch Only)","Inhalation Injury",0
+"1627","Local Allergic Reaction","Inhalation Injury",0
+"1628","Musk/Skel Trauma","Inhalation Injury",0
+"1629","MVC (Dispatch Only)","Inhalation Injury",0
+"1630","Myocardial Infarction(Dx)","Inhalation Injury",0
+"1631","Newborn/Neonatal","Inhalation Injury",0
+"1632","Obstetrical Emergency","Inhalation Injury",0
+"1633","Obstruc./Anatomical/Med/Other","Inhalation Injury",0
+"1634","Obstruc./Foreign Body","Inhalation Injury",0
+"1635","Organ Donor","Inhalation Injury",0
+"1636","Organ Retrieval","Inhalation Injury",0
+"1637","Other Cardiac","Inhalation Injury",0
+"1638","Other Medical/Trauma","Inhalation Injury",0
+"1639","Palpitations","Inhalation Injury",0
+"1640","Paralysis/Spinal Trauma","Inhalation Injury",0
+"1641","Poisoning/Toxic Exposure","Inhalation Injury",0
+"1642","Resp. Arrest","Inhalation Injury",0
+"1643","Resp. Disease","Inhalation Injury",0
+"1644","Resp. Distress","Inhalation Injury",0
+"1645","Seizure/Post Ictal","Inhalation Injury",0
+"1646","Sepsis (Prev. Dx)","Inhalation Injury",0
+"1647","Stroke/TIA","Inhalation Injury",0
+"1648","Syncope","Inhalation Injury",0
+"1649","Trauma Unknown (Dispatch Only)","Inhalation Injury",0
+"1650","Traumatic Arrest","Inhalation Injury",0
+"1651","Treatment - Diagnostic/Return","Inhalation Injury",0
+"1652","Unconscious","Inhalation Injury",0
+"1653","Unknown (Dispatch Only)","Inhalation Injury",0
+"1654","","Ischemic Chest Pain",228
+"1655","Abdominal Pain NYD","Ischemic Chest Pain",8
+"1656","Abdominal Trauma","Ischemic Chest Pain",0
+"1657","Airway Trauma","Ischemic Chest Pain",0
+"1658","Alcohol Intoxication","Ischemic Chest Pain",3
+"1659","Altered LOC","Ischemic Chest Pain",0
+"1660","Anaphylaxis","Ischemic Chest Pain",3
+"1661","Back Pain","Ischemic Chest Pain",1
+"1662","Behaviour/Psychiatric","Ischemic Chest Pain",1
+"1663","Cardiac Trauma","Ischemic Chest Pain",0
+"1664","Cardiac/Medical Arrest","Ischemic Chest Pain",3
+"1665","Chest Trauma","Ischemic Chest Pain",0
+"1666","CHF","Ischemic Chest Pain",0
+"1667","Confusion/Disorientation","Ischemic Chest Pain",0
+"1668","Convalescent/Invalid/Return Home","Ischemic Chest Pain",0
+"1669","Diabetic Emergency","Ischemic Chest Pain",3
+"1670","Drug Overdose","Ischemic Chest Pain",2
+"1671","Exposure","Ischemic Chest Pain",1
+"1672","General Illness/Weakness","Ischemic Chest Pain",4
+"1673","GI Problems/Pain/Vomiting/Nausea","Ischemic Chest Pain",3
+"1674","GU Problem/Pain","Ischemic Chest Pain",0
+"1675","Gynecological Emergency","Ischemic Chest Pain",0
+"1676","Head/Brain Trauma","Ischemic Chest Pain",0
+"1677","Headache","Ischemic Chest Pain",2
+"1678","Hemorrhage Minor","Ischemic Chest Pain",0
+"1679","Hemorrhage/Hypovolemia Major","Ischemic Chest Pain",1
+"1680","Hypotension Non-Traumatic","Ischemic Chest Pain",0
+"1681","Inhalation Injury","Ischemic Chest Pain",0
+"1682","Ischemic Chest Pain","Ischemic Chest Pain",1303
+"1683","Lift Assist (Dispatch Only)","Ischemic Chest Pain",0
+"1684","Local Allergic Reaction","Ischemic Chest Pain",0
+"1685","Musk/Skel Trauma","Ischemic Chest Pain",3
+"1686","MVC (Dispatch Only)","Ischemic Chest Pain",5
+"1687","Myocardial Infarction(Dx)","Ischemic Chest Pain",1
+"1688","Newborn/Neonatal","Ischemic Chest Pain",0
+"1689","Obstetrical Emergency","Ischemic Chest Pain",2
+"1690","Obstruc./Anatomical/Med/Other","Ischemic Chest Pain",1
+"1691","Obstruc./Foreign Body","Ischemic Chest Pain",1
+"1692","Organ Donor","Ischemic Chest Pain",0
+"1693","Organ Retrieval","Ischemic Chest Pain",0
+"1694","Other Cardiac","Ischemic Chest Pain",4
+"1695","Other Medical/Trauma","Ischemic Chest Pain",13
+"1696","Palpitations","Ischemic Chest Pain",2
+"1697","Paralysis/Spinal Trauma","Ischemic Chest Pain",0
+"1698","Poisoning/Toxic Exposure","Ischemic Chest Pain",0
+"1699","Resp. Arrest","Ischemic Chest Pain",0
+"1700","Resp. Disease","Ischemic Chest Pain",0
+"1701","Resp. Distress","Ischemic Chest Pain",150
+"1702","Seizure/Post Ictal","Ischemic Chest Pain",2
+"1703","Sepsis (Prev. Dx)","Ischemic Chest Pain",0
+"1704","Stroke/TIA","Ischemic Chest Pain",10
+"1705","Syncope","Ischemic Chest Pain",3
+"1706","Trauma Unknown (Dispatch Only)","Ischemic Chest Pain",0
+"1707","Traumatic Arrest","Ischemic Chest Pain",0
+"1708","Treatment - Diagnostic/Return","Ischemic Chest Pain",1
+"1709","Unconscious","Ischemic Chest Pain",2
+"1710","Unknown (Dispatch Only)","Ischemic Chest Pain",8
+"1711","","Local Allergic Reaction",4
+"1712","Abdominal Pain NYD","Local Allergic Reaction",0
+"1713","Abdominal Trauma","Local Allergic Reaction",0
+"1714","Airway Trauma","Local Allergic Reaction",0
+"1715","Alcohol Intoxication","Local Allergic Reaction",0
+"1716","Altered LOC","Local Allergic Reaction",0
+"1717","Anaphylaxis","Local Allergic Reaction",4
+"1718","Back Pain","Local Allergic Reaction",0
+"1719","Behaviour/Psychiatric","Local Allergic Reaction",0
+"1720","Cardiac Trauma","Local Allergic Reaction",0
+"1721","Cardiac/Medical Arrest","Local Allergic Reaction",0
+"1722","Chest Trauma","Local Allergic Reaction",0
+"1723","CHF","Local Allergic Reaction",0
+"1724","Confusion/Disorientation","Local Allergic Reaction",0
+"1725","Convalescent/Invalid/Return Home","Local Allergic Reaction",0
+"1726","Diabetic Emergency","Local Allergic Reaction",0
+"1727","Drug Overdose","Local Allergic Reaction",0
+"1728","Exposure","Local Allergic Reaction",0
+"1729","General Illness/Weakness","Local Allergic Reaction",0
+"1730","GI Problems/Pain/Vomiting/Nausea","Local Allergic Reaction",0
+"1731","GU Problem/Pain","Local Allergic Reaction",0
+"1732","Gynecological Emergency","Local Allergic Reaction",0
+"1733","Head/Brain Trauma","Local Allergic Reaction",0
+"1734","Headache","Local Allergic Reaction",0
+"1735","Hemorrhage Minor","Local Allergic Reaction",0
+"1736","Hemorrhage/Hypovolemia Major","Local Allergic Reaction",0
+"1737","Hypotension Non-Traumatic","Local Allergic Reaction",0
+"1738","Inhalation Injury","Local Allergic Reaction",0
+"1739","Ischemic Chest Pain","Local Allergic Reaction",1
+"1740","Lift Assist (Dispatch Only)","Local Allergic Reaction",0
+"1741","Local Allergic Reaction","Local Allergic Reaction",7
+"1742","Musk/Skel Trauma","Local Allergic Reaction",0
+"1743","MVC (Dispatch Only)","Local Allergic Reaction",0
+"1744","Myocardial Infarction(Dx)","Local Allergic Reaction",0
+"1745","Newborn/Neonatal","Local Allergic Reaction",0
+"1746","Obstetrical Emergency","Local Allergic Reaction",0
+"1747","Obstruc./Anatomical/Med/Other","Local Allergic Reaction",0
+"1748","Obstruc./Foreign Body","Local Allergic Reaction",0
+"1749","Organ Donor","Local Allergic Reaction",0
+"1750","Organ Retrieval","Local Allergic Reaction",0
+"1751","Other Cardiac","Local Allergic Reaction",0
+"1752","Other Medical/Trauma","Local Allergic Reaction",1
+"1753","Palpitations","Local Allergic Reaction",0
+"1754","Paralysis/Spinal Trauma","Local Allergic Reaction",0
+"1755","Poisoning/Toxic Exposure","Local Allergic Reaction",0
+"1756","Resp. Arrest","Local Allergic Reaction",0
+"1757","Resp. Disease","Local Allergic Reaction",0
+"1758","Resp. Distress","Local Allergic Reaction",1
+"1759","Seizure/Post Ictal","Local Allergic Reaction",0
+"1760","Sepsis (Prev. Dx)","Local Allergic Reaction",0
+"1761","Stroke/TIA","Local Allergic Reaction",0
+"1762","Syncope","Local Allergic Reaction",1
+"1763","Trauma Unknown (Dispatch Only)","Local Allergic Reaction",0
+"1764","Traumatic Arrest","Local Allergic Reaction",0
+"1765","Treatment - Diagnostic/Return","Local Allergic Reaction",0
+"1766","Unconscious","Local Allergic Reaction",0
+"1767","Unknown (Dispatch Only)","Local Allergic Reaction",0
+"1768","","Musk/Skel Trauma",26
+"1769","Abdominal Pain NYD","Musk/Skel Trauma",2
+"1770","Abdominal Trauma","Musk/Skel Trauma",0
+"1771","Airway Trauma","Musk/Skel Trauma",0
+"1772","Alcohol Intoxication","Musk/Skel Trauma",0
+"1773","Altered LOC","Musk/Skel Trauma",0
+"1774","Anaphylaxis","Musk/Skel Trauma",0
+"1775","Back Pain","Musk/Skel Trauma",0
+"1776","Behaviour/Psychiatric","Musk/Skel Trauma",1
+"1777","Cardiac Trauma","Musk/Skel Trauma",0
+"1778","Cardiac/Medical Arrest","Musk/Skel Trauma",0
+"1779","Chest Trauma","Musk/Skel Trauma",0
+"1780","CHF","Musk/Skel Trauma",0
+"1781","Confusion/Disorientation","Musk/Skel Trauma",1
+"1782","Convalescent/Invalid/Return Home","Musk/Skel Trauma",0
+"1783","Diabetic Emergency","Musk/Skel Trauma",0
+"1784","Drug Overdose","Musk/Skel Trauma",0
+"1785","Exposure","Musk/Skel Trauma",0
+"1786","General Illness/Weakness","Musk/Skel Trauma",1
+"1787","GI Problems/Pain/Vomiting/Nausea","Musk/Skel Trauma",0
+"1788","GU Problem/Pain","Musk/Skel Trauma",0
+"1789","Gynecological Emergency","Musk/Skel Trauma",0
+"1790","Head/Brain Trauma","Musk/Skel Trauma",2
+"1791","Headache","Musk/Skel Trauma",0
+"1792","Hemorrhage Minor","Musk/Skel Trauma",1
+"1793","Hemorrhage/Hypovolemia Major","Musk/Skel Trauma",1
+"1794","Hypotension Non-Traumatic","Musk/Skel Trauma",0
+"1795","Inhalation Injury","Musk/Skel Trauma",0
+"1796","Ischemic Chest Pain","Musk/Skel Trauma",11
+"1797","Lift Assist (Dispatch Only)","Musk/Skel Trauma",0
+"1798","Local Allergic Reaction","Musk/Skel Trauma",0
+"1799","Musk/Skel Trauma","Musk/Skel Trauma",144
+"1800","MVC (Dispatch Only)","Musk/Skel Trauma",32
+"1801","Myocardial Infarction(Dx)","Musk/Skel Trauma",0
+"1802","Newborn/Neonatal","Musk/Skel Trauma",0
+"1803","Obstetrical Emergency","Musk/Skel Trauma",0
+"1804","Obstruc./Anatomical/Med/Other","Musk/Skel Trauma",0
+"1805","Obstruc./Foreign Body","Musk/Skel Trauma",0
+"1806","Organ Donor","Musk/Skel Trauma",0
+"1807","Organ Retrieval","Musk/Skel Trauma",0
+"1808","Other Cardiac","Musk/Skel Trauma",2
+"1809","Other Medical/Trauma","Musk/Skel Trauma",9
+"1810","Palpitations","Musk/Skel Trauma",0
+"1811","Paralysis/Spinal Trauma","Musk/Skel Trauma",0
+"1812","Poisoning/Toxic Exposure","Musk/Skel Trauma",0
+"1813","Resp. Arrest","Musk/Skel Trauma",0
+"1814","Resp. Disease","Musk/Skel Trauma",0
+"1815","Resp. Distress","Musk/Skel Trauma",4
+"1816","Seizure/Post Ictal","Musk/Skel Trauma",1
+"1817","Sepsis (Prev. Dx)","Musk/Skel Trauma",0
+"1818","Stroke/TIA","Musk/Skel Trauma",0
+"1819","Syncope","Musk/Skel Trauma",0
+"1820","Trauma Unknown (Dispatch Only)","Musk/Skel Trauma",17
+"1821","Traumatic Arrest","Musk/Skel Trauma",0
+"1822","Treatment - Diagnostic/Return","Musk/Skel Trauma",0
+"1823","Unconscious","Musk/Skel Trauma",1
+"1824","Unknown (Dispatch Only)","Musk/Skel Trauma",1
+"1825","","Myocardial Infarction(Dx)",3
+"1826","Abdominal Pain NYD","Myocardial Infarction(Dx)",0
+"1827","Abdominal Trauma","Myocardial Infarction(Dx)",0
+"1828","Airway Trauma","Myocardial Infarction(Dx)",0
+"1829","Alcohol Intoxication","Myocardial Infarction(Dx)",0
+"1830","Altered LOC","Myocardial Infarction(Dx)",0
+"1831","Anaphylaxis","Myocardial Infarction(Dx)",0
+"1832","Back Pain","Myocardial Infarction(Dx)",0
+"1833","Behaviour/Psychiatric","Myocardial Infarction(Dx)",0
+"1834","Cardiac Trauma","Myocardial Infarction(Dx)",0
+"1835","Cardiac/Medical Arrest","Myocardial Infarction(Dx)",0
+"1836","Chest Trauma","Myocardial Infarction(Dx)",0
+"1837","CHF","Myocardial Infarction(Dx)",0
+"1838","Confusion/Disorientation","Myocardial Infarction(Dx)",0
+"1839","Convalescent/Invalid/Return Home","Myocardial Infarction(Dx)",0
+"1840","Diabetic Emergency","Myocardial Infarction(Dx)",0
+"1841","Drug Overdose","Myocardial Infarction(Dx)",0
+"1842","Exposure","Myocardial Infarction(Dx)",0
+"1843","General Illness/Weakness","Myocardial Infarction(Dx)",0
+"1844","GI Problems/Pain/Vomiting/Nausea","Myocardial Infarction(Dx)",0
+"1845","GU Problem/Pain","Myocardial Infarction(Dx)",0
+"1846","Gynecological Emergency","Myocardial Infarction(Dx)",0
+"1847","Head/Brain Trauma","Myocardial Infarction(Dx)",0
+"1848","Headache","Myocardial Infarction(Dx)",0
+"1849","Hemorrhage Minor","Myocardial Infarction(Dx)",0
+"1850","Hemorrhage/Hypovolemia Major","Myocardial Infarction(Dx)",0
+"1851","Hypotension Non-Traumatic","Myocardial Infarction(Dx)",0
+"1852","Inhalation Injury","Myocardial Infarction(Dx)",0
+"1853","Ischemic Chest Pain","Myocardial Infarction(Dx)",6
+"1854","Lift Assist (Dispatch Only)","Myocardial Infarction(Dx)",0
+"1855","Local Allergic Reaction","Myocardial Infarction(Dx)",0
+"1856","Musk/Skel Trauma","Myocardial Infarction(Dx)",0
+"1857","MVC (Dispatch Only)","Myocardial Infarction(Dx)",0
+"1858","Myocardial Infarction(Dx)","Myocardial Infarction(Dx)",4
+"1859","Newborn/Neonatal","Myocardial Infarction(Dx)",0
+"1860","Obstetrical Emergency","Myocardial Infarction(Dx)",0
+"1861","Obstruc./Anatomical/Med/Other","Myocardial Infarction(Dx)",0
+"1862","Obstruc./Foreign Body","Myocardial Infarction(Dx)",0
+"1863","Organ Donor","Myocardial Infarction(Dx)",0
+"1864","Organ Retrieval","Myocardial Infarction(Dx)",0
+"1865","Other Cardiac","Myocardial Infarction(Dx)",0
+"1866","Other Medical/Trauma","Myocardial Infarction(Dx)",0
+"1867","Palpitations","Myocardial Infarction(Dx)",0
+"1868","Paralysis/Spinal Trauma","Myocardial Infarction(Dx)",0
+"1869","Poisoning/Toxic Exposure","Myocardial Infarction(Dx)",0
+"1870","Resp. Arrest","Myocardial Infarction(Dx)",0
+"1871","Resp. Disease","Myocardial Infarction(Dx)",0
+"1872","Resp. Distress","Myocardial Infarction(Dx)",3
+"1873","Seizure/Post Ictal","Myocardial Infarction(Dx)",0
+"1874","Sepsis (Prev. Dx)","Myocardial Infarction(Dx)",0
+"1875","Stroke/TIA","Myocardial Infarction(Dx)",1
+"1876","Syncope","Myocardial Infarction(Dx)",0
+"1877","Trauma Unknown (Dispatch Only)","Myocardial Infarction(Dx)",0
+"1878","Traumatic Arrest","Myocardial Infarction(Dx)",0
+"1879","Treatment - Diagnostic/Return","Myocardial Infarction(Dx)",0
+"1880","Unconscious","Myocardial Infarction(Dx)",0
+"1881","Unknown (Dispatch Only)","Myocardial Infarction(Dx)",0
+"1882","","Near Drowning",0
+"1883","Abdominal Pain NYD","Near Drowning",0
+"1884","Abdominal Trauma","Near Drowning",0
+"1885","Airway Trauma","Near Drowning",0
+"1886","Alcohol Intoxication","Near Drowning",0
+"1887","Altered LOC","Near Drowning",0
+"1888","Anaphylaxis","Near Drowning",0
+"1889","Back Pain","Near Drowning",0
+"1890","Behaviour/Psychiatric","Near Drowning",0
+"1891","Cardiac Trauma","Near Drowning",0
+"1892","Cardiac/Medical Arrest","Near Drowning",1
+"1893","Chest Trauma","Near Drowning",0
+"1894","CHF","Near Drowning",0
+"1895","Confusion/Disorientation","Near Drowning",0
+"1896","Convalescent/Invalid/Return Home","Near Drowning",0
+"1897","Diabetic Emergency","Near Drowning",0
+"1898","Drug Overdose","Near Drowning",0
+"1899","Exposure","Near Drowning",0
+"1900","General Illness/Weakness","Near Drowning",0
+"1901","GI Problems/Pain/Vomiting/Nausea","Near Drowning",0
+"1902","GU Problem/Pain","Near Drowning",0
+"1903","Gynecological Emergency","Near Drowning",0
+"1904","Head/Brain Trauma","Near Drowning",0
+"1905","Headache","Near Drowning",0
+"1906","Hemorrhage Minor","Near Drowning",0
+"1907","Hemorrhage/Hypovolemia Major","Near Drowning",0
+"1908","Hypotension Non-Traumatic","Near Drowning",0
+"1909","Inhalation Injury","Near Drowning",0
+"1910","Ischemic Chest Pain","Near Drowning",0
+"1911","Lift Assist (Dispatch Only)","Near Drowning",0
+"1912","Local Allergic Reaction","Near Drowning",0
+"1913","Musk/Skel Trauma","Near Drowning",0
+"1914","MVC (Dispatch Only)","Near Drowning",0
+"1915","Myocardial Infarction(Dx)","Near Drowning",0
+"1916","Newborn/Neonatal","Near Drowning",0
+"1917","Obstetrical Emergency","Near Drowning",0
+"1918","Obstruc./Anatomical/Med/Other","Near Drowning",0
+"1919","Obstruc./Foreign Body","Near Drowning",0
+"1920","Organ Donor","Near Drowning",0
+"1921","Organ Retrieval","Near Drowning",0
+"1922","Other Cardiac","Near Drowning",0
+"1923","Other Medical/Trauma","Near Drowning",0
+"1924","Palpitations","Near Drowning",0
+"1925","Paralysis/Spinal Trauma","Near Drowning",0
+"1926","Poisoning/Toxic Exposure","Near Drowning",0
+"1927","Resp. Arrest","Near Drowning",0
+"1928","Resp. Disease","Near Drowning",0
+"1929","Resp. Distress","Near Drowning",0
+"1930","Seizure/Post Ictal","Near Drowning",0
+"1931","Sepsis (Prev. Dx)","Near Drowning",0
+"1932","Stroke/TIA","Near Drowning",0
+"1933","Syncope","Near Drowning",0
+"1934","Trauma Unknown (Dispatch Only)","Near Drowning",0
+"1935","Traumatic Arrest","Near Drowning",0
+"1936","Treatment - Diagnostic/Return","Near Drowning",0
+"1937","Unconscious","Near Drowning",0
+"1938","Unknown (Dispatch Only)","Near Drowning",0
+"1939","","Newborn/Neonatal",0
+"1940","Abdominal Pain NYD","Newborn/Neonatal",0
+"1941","Abdominal Trauma","Newborn/Neonatal",0
+"1942","Airway Trauma","Newborn/Neonatal",0
+"1943","Alcohol Intoxication","Newborn/Neonatal",0
+"1944","Altered LOC","Newborn/Neonatal",0
+"1945","Anaphylaxis","Newborn/Neonatal",0
+"1946","Back Pain","Newborn/Neonatal",0
+"1947","Behaviour/Psychiatric","Newborn/Neonatal",0
+"1948","Cardiac Trauma","Newborn/Neonatal",0
+"1949","Cardiac/Medical Arrest","Newborn/Neonatal",0
+"1950","Chest Trauma","Newborn/Neonatal",0
+"1951","CHF","Newborn/Neonatal",0
+"1952","Confusion/Disorientation","Newborn/Neonatal",0
+"1953","Convalescent/Invalid/Return Home","Newborn/Neonatal",0
+"1954","Diabetic Emergency","Newborn/Neonatal",0
+"1955","Drug Overdose","Newborn/Neonatal",0
+"1956","Exposure","Newborn/Neonatal",0
+"1957","General Illness/Weakness","Newborn/Neonatal",0
+"1958","GI Problems/Pain/Vomiting/Nausea","Newborn/Neonatal",0
+"1959","GU Problem/Pain","Newborn/Neonatal",0
+"1960","Gynecological Emergency","Newborn/Neonatal",0
+"1961","Head/Brain Trauma","Newborn/Neonatal",0
+"1962","Headache","Newborn/Neonatal",0
+"1963","Hemorrhage Minor","Newborn/Neonatal",0
+"1964","Hemorrhage/Hypovolemia Major","Newborn/Neonatal",0
+"1965","Hypotension Non-Traumatic","Newborn/Neonatal",0
+"1966","Inhalation Injury","Newborn/Neonatal",0
+"1967","Ischemic Chest Pain","Newborn/Neonatal",0
+"1968","Lift Assist (Dispatch Only)","Newborn/Neonatal",0
+"1969","Local Allergic Reaction","Newborn/Neonatal",0
+"1970","Musk/Skel Trauma","Newborn/Neonatal",0
+"1971","MVC (Dispatch Only)","Newborn/Neonatal",0
+"1972","Myocardial Infarction(Dx)","Newborn/Neonatal",0
+"1973","Newborn/Neonatal","Newborn/Neonatal",1
+"1974","Obstetrical Emergency","Newborn/Neonatal",1
+"1975","Obstruc./Anatomical/Med/Other","Newborn/Neonatal",0
+"1976","Obstruc./Foreign Body","Newborn/Neonatal",0
+"1977","Organ Donor","Newborn/Neonatal",0
+"1978","Organ Retrieval","Newborn/Neonatal",0
+"1979","Other Cardiac","Newborn/Neonatal",0
+"1980","Other Medical/Trauma","Newborn/Neonatal",0
+"1981","Palpitations","Newborn/Neonatal",0
+"1982","Paralysis/Spinal Trauma","Newborn/Neonatal",0
+"1983","Poisoning/Toxic Exposure","Newborn/Neonatal",0
+"1984","Resp. Arrest","Newborn/Neonatal",0
+"1985","Resp. Disease","Newborn/Neonatal",0
+"1986","Resp. Distress","Newborn/Neonatal",0
+"1987","Seizure/Post Ictal","Newborn/Neonatal",0
+"1988","Sepsis (Prev. Dx)","Newborn/Neonatal",0
+"1989","Stroke/TIA","Newborn/Neonatal",0
+"1990","Syncope","Newborn/Neonatal",0
+"1991","Trauma Unknown (Dispatch Only)","Newborn/Neonatal",0
+"1992","Traumatic Arrest","Newborn/Neonatal",0
+"1993","Treatment - Diagnostic/Return","Newborn/Neonatal",0
+"1994","Unconscious","Newborn/Neonatal",0
+"1995","Unknown (Dispatch Only)","Newborn/Neonatal",0
+"1996","","Obstetrical Emergency",12
+"1997","Abdominal Pain NYD","Obstetrical Emergency",2
+"1998","Abdominal Trauma","Obstetrical Emergency",0
+"1999","Airway Trauma","Obstetrical Emergency",0
+"2000","Alcohol Intoxication","Obstetrical Emergency",0
+"2001","Altered LOC","Obstetrical Emergency",0
+"2002","Anaphylaxis","Obstetrical Emergency",0
+"2003","Back Pain","Obstetrical Emergency",0
+"2004","Behaviour/Psychiatric","Obstetrical Emergency",0
+"2005","Cardiac Trauma","Obstetrical Emergency",0
+"2006","Cardiac/Medical Arrest","Obstetrical Emergency",0
+"2007","Chest Trauma","Obstetrical Emergency",0
+"2008","CHF","Obstetrical Emergency",0
+"2009","Confusion/Disorientation","Obstetrical Emergency",0
+"2010","Convalescent/Invalid/Return Home","Obstetrical Emergency",0
+"2011","Diabetic Emergency","Obstetrical Emergency",0
+"2012","Drug Overdose","Obstetrical Emergency",0
+"2013","Exposure","Obstetrical Emergency",0
+"2014","General Illness/Weakness","Obstetrical Emergency",0
+"2015","GI Problems/Pain/Vomiting/Nausea","Obstetrical Emergency",0
+"2016","GU Problem/Pain","Obstetrical Emergency",0
+"2017","Gynecological Emergency","Obstetrical Emergency",0
+"2018","Head/Brain Trauma","Obstetrical Emergency",0
+"2019","Headache","Obstetrical Emergency",0
+"2020","Hemorrhage Minor","Obstetrical Emergency",0
+"2021","Hemorrhage/Hypovolemia Major","Obstetrical Emergency",0
+"2022","Hypotension Non-Traumatic","Obstetrical Emergency",0
+"2023","Inhalation Injury","Obstetrical Emergency",0
+"2024","Ischemic Chest Pain","Obstetrical Emergency",0
+"2025","Lift Assist (Dispatch Only)","Obstetrical Emergency",0
+"2026","Local Allergic Reaction","Obstetrical Emergency",0
+"2027","Musk/Skel Trauma","Obstetrical Emergency",0
+"2028","MVC (Dispatch Only)","Obstetrical Emergency",0
+"2029","Myocardial Infarction(Dx)","Obstetrical Emergency",0
+"2030","Newborn/Neonatal","Obstetrical Emergency",0
+"2031","Obstetrical Emergency","Obstetrical Emergency",30
+"2032","Obstruc./Anatomical/Med/Other","Obstetrical Emergency",0
+"2033","Obstruc./Foreign Body","Obstetrical Emergency",0
+"2034","Organ Donor","Obstetrical Emergency",0
+"2035","Organ Retrieval","Obstetrical Emergency",0
+"2036","Other Cardiac","Obstetrical Emergency",0
+"2037","Other Medical/Trauma","Obstetrical Emergency",0
+"2038","Palpitations","Obstetrical Emergency",0
+"2039","Paralysis/Spinal Trauma","Obstetrical Emergency",0
+"2040","Poisoning/Toxic Exposure","Obstetrical Emergency",0
+"2041","Resp. Arrest","Obstetrical Emergency",0
+"2042","Resp. Disease","Obstetrical Emergency",0
+"2043","Resp. Distress","Obstetrical Emergency",1
+"2044","Seizure/Post Ictal","Obstetrical Emergency",0
+"2045","Sepsis (Prev. Dx)","Obstetrical Emergency",0
+"2046","Stroke/TIA","Obstetrical Emergency",0
+"2047","Syncope","Obstetrical Emergency",0
+"2048","Trauma Unknown (Dispatch Only)","Obstetrical Emergency",0
+"2049","Traumatic Arrest","Obstetrical Emergency",0
+"2050","Treatment - Diagnostic/Return","Obstetrical Emergency",0
+"2051","Unconscious","Obstetrical Emergency",0
+"2052","Unknown (Dispatch Only)","Obstetrical Emergency",0
+"2053","","Obstruc./Anatomical/Med/Other",0
+"2054","Abdominal Pain NYD","Obstruc./Anatomical/Med/Other",0
+"2055","Abdominal Trauma","Obstruc./Anatomical/Med/Other",0
+"2056","Airway Trauma","Obstruc./Anatomical/Med/Other",0
+"2057","Alcohol Intoxication","Obstruc./Anatomical/Med/Other",0
+"2058","Altered LOC","Obstruc./Anatomical/Med/Other",0
+"2059","Anaphylaxis","Obstruc./Anatomical/Med/Other",0
+"2060","Back Pain","Obstruc./Anatomical/Med/Other",0
+"2061","Behaviour/Psychiatric","Obstruc./Anatomical/Med/Other",0
+"2062","Cardiac Trauma","Obstruc./Anatomical/Med/Other",0
+"2063","Cardiac/Medical Arrest","Obstruc./Anatomical/Med/Other",0
+"2064","Chest Trauma","Obstruc./Anatomical/Med/Other",0
+"2065","CHF","Obstruc./Anatomical/Med/Other",0
+"2066","Confusion/Disorientation","Obstruc./Anatomical/Med/Other",0
+"2067","Convalescent/Invalid/Return Home","Obstruc./Anatomical/Med/Other",0
+"2068","Diabetic Emergency","Obstruc./Anatomical/Med/Other",0
+"2069","Drug Overdose","Obstruc./Anatomical/Med/Other",0
+"2070","Exposure","Obstruc./Anatomical/Med/Other",0
+"2071","General Illness/Weakness","Obstruc./Anatomical/Med/Other",0
+"2072","GI Problems/Pain/Vomiting/Nausea","Obstruc./Anatomical/Med/Other",0
+"2073","GU Problem/Pain","Obstruc./Anatomical/Med/Other",0
+"2074","Gynecological Emergency","Obstruc./Anatomical/Med/Other",0
+"2075","Head/Brain Trauma","Obstruc./Anatomical/Med/Other",0
+"2076","Headache","Obstruc./Anatomical/Med/Other",0
+"2077","Hemorrhage Minor","Obstruc./Anatomical/Med/Other",0
+"2078","Hemorrhage/Hypovolemia Major","Obstruc./Anatomical/Med/Other",0
+"2079","Hypotension Non-Traumatic","Obstruc./Anatomical/Med/Other",0
+"2080","Inhalation Injury","Obstruc./Anatomical/Med/Other",0
+"2081","Ischemic Chest Pain","Obstruc./Anatomical/Med/Other",1
+"2082","Lift Assist (Dispatch Only)","Obstruc./Anatomical/Med/Other",0
+"2083","Local Allergic Reaction","Obstruc./Anatomical/Med/Other",0
+"2084","Musk/Skel Trauma","Obstruc./Anatomical/Med/Other",0
+"2085","MVC (Dispatch Only)","Obstruc./Anatomical/Med/Other",0
+"2086","Myocardial Infarction(Dx)","Obstruc./Anatomical/Med/Other",0
+"2087","Newborn/Neonatal","Obstruc./Anatomical/Med/Other",0
+"2088","Obstetrical Emergency","Obstruc./Anatomical/Med/Other",0
+"2089","Obstruc./Anatomical/Med/Other","Obstruc./Anatomical/Med/Other",1
+"2090","Obstruc./Foreign Body","Obstruc./Anatomical/Med/Other",0
+"2091","Organ Donor","Obstruc./Anatomical/Med/Other",0
+"2092","Organ Retrieval","Obstruc./Anatomical/Med/Other",0
+"2093","Other Cardiac","Obstruc./Anatomical/Med/Other",0
+"2094","Other Medical/Trauma","Obstruc./Anatomical/Med/Other",0
+"2095","Palpitations","Obstruc./Anatomical/Med/Other",0
+"2096","Paralysis/Spinal Trauma","Obstruc./Anatomical/Med/Other",0
+"2097","Poisoning/Toxic Exposure","Obstruc./Anatomical/Med/Other",0
+"2098","Resp. Arrest","Obstruc./Anatomical/Med/Other",0
+"2099","Resp. Disease","Obstruc./Anatomical/Med/Other",0
+"2100","Resp. Distress","Obstruc./Anatomical/Med/Other",0
+"2101","Seizure/Post Ictal","Obstruc./Anatomical/Med/Other",0
+"2102","Sepsis (Prev. Dx)","Obstruc./Anatomical/Med/Other",0
+"2103","Stroke/TIA","Obstruc./Anatomical/Med/Other",0
+"2104","Syncope","Obstruc./Anatomical/Med/Other",0
+"2105","Trauma Unknown (Dispatch Only)","Obstruc./Anatomical/Med/Other",0
+"2106","Traumatic Arrest","Obstruc./Anatomical/Med/Other",0
+"2107","Treatment - Diagnostic/Return","Obstruc./Anatomical/Med/Other",0
+"2108","Unconscious","Obstruc./Anatomical/Med/Other",0
+"2109","Unknown (Dispatch Only)","Obstruc./Anatomical/Med/Other",0
+"2110","","Obstruc./Foreign Body",0
+"2111","Abdominal Pain NYD","Obstruc./Foreign Body",0
+"2112","Abdominal Trauma","Obstruc./Foreign Body",0
+"2113","Airway Trauma","Obstruc./Foreign Body",0
+"2114","Alcohol Intoxication","Obstruc./Foreign Body",0
+"2115","Altered LOC","Obstruc./Foreign Body",0
+"2116","Anaphylaxis","Obstruc./Foreign Body",0
+"2117","Back Pain","Obstruc./Foreign Body",0
+"2118","Behaviour/Psychiatric","Obstruc./Foreign Body",0
+"2119","Cardiac Trauma","Obstruc./Foreign Body",0
+"2120","Cardiac/Medical Arrest","Obstruc./Foreign Body",0
+"2121","Chest Trauma","Obstruc./Foreign Body",0
+"2122","CHF","Obstruc./Foreign Body",0
+"2123","Confusion/Disorientation","Obstruc./Foreign Body",0
+"2124","Convalescent/Invalid/Return Home","Obstruc./Foreign Body",0
+"2125","Diabetic Emergency","Obstruc./Foreign Body",0
+"2126","Drug Overdose","Obstruc./Foreign Body",0
+"2127","Exposure","Obstruc./Foreign Body",0
+"2128","General Illness/Weakness","Obstruc./Foreign Body",0
+"2129","GI Problems/Pain/Vomiting/Nausea","Obstruc./Foreign Body",0
+"2130","GU Problem/Pain","Obstruc./Foreign Body",0
+"2131","Gynecological Emergency","Obstruc./Foreign Body",0
+"2132","Head/Brain Trauma","Obstruc./Foreign Body",0
+"2133","Headache","Obstruc./Foreign Body",0
+"2134","Hemorrhage Minor","Obstruc./Foreign Body",0
+"2135","Hemorrhage/Hypovolemia Major","Obstruc./Foreign Body",0
+"2136","Hypotension Non-Traumatic","Obstruc./Foreign Body",0
+"2137","Inhalation Injury","Obstruc./Foreign Body",0
+"2138","Ischemic Chest Pain","Obstruc./Foreign Body",0
+"2139","Lift Assist (Dispatch Only)","Obstruc./Foreign Body",0
+"2140","Local Allergic Reaction","Obstruc./Foreign Body",0
+"2141","Musk/Skel Trauma","Obstruc./Foreign Body",0
+"2142","MVC (Dispatch Only)","Obstruc./Foreign Body",0
+"2143","Myocardial Infarction(Dx)","Obstruc./Foreign Body",0
+"2144","Newborn/Neonatal","Obstruc./Foreign Body",0
+"2145","Obstetrical Emergency","Obstruc./Foreign Body",0
+"2146","Obstruc./Anatomical/Med/Other","Obstruc./Foreign Body",0
+"2147","Obstruc./Foreign Body","Obstruc./Foreign Body",2
+"2148","Organ Donor","Obstruc./Foreign Body",0
+"2149","Organ Retrieval","Obstruc./Foreign Body",0
+"2150","Other Cardiac","Obstruc./Foreign Body",0
+"2151","Other Medical/Trauma","Obstruc./Foreign Body",0
+"2152","Palpitations","Obstruc./Foreign Body",0
+"2153","Paralysis/Spinal Trauma","Obstruc./Foreign Body",0
+"2154","Poisoning/Toxic Exposure","Obstruc./Foreign Body",0
+"2155","Resp. Arrest","Obstruc./Foreign Body",1
+"2156","Resp. Disease","Obstruc./Foreign Body",0
+"2157","Resp. Distress","Obstruc./Foreign Body",0
+"2158","Seizure/Post Ictal","Obstruc./Foreign Body",0
+"2159","Sepsis (Prev. Dx)","Obstruc./Foreign Body",0
+"2160","Stroke/TIA","Obstruc./Foreign Body",0
+"2161","Syncope","Obstruc./Foreign Body",1
+"2162","Trauma Unknown (Dispatch Only)","Obstruc./Foreign Body",0
+"2163","Traumatic Arrest","Obstruc./Foreign Body",0
+"2164","Treatment - Diagnostic/Return","Obstruc./Foreign Body",0
+"2165","Unconscious","Obstruc./Foreign Body",1
+"2166","Unknown (Dispatch Only)","Obstruc./Foreign Body",0
+"2167","","Organ Recipient",0
+"2168","Abdominal Pain NYD","Organ Recipient",0
+"2169","Abdominal Trauma","Organ Recipient",0
+"2170","Airway Trauma","Organ Recipient",0
+"2171","Alcohol Intoxication","Organ Recipient",0
+"2172","Altered LOC","Organ Recipient",0
+"2173","Anaphylaxis","Organ Recipient",0
+"2174","Back Pain","Organ Recipient",0
+"2175","Behaviour/Psychiatric","Organ Recipient",0
+"2176","Cardiac Trauma","Organ Recipient",0
+"2177","Cardiac/Medical Arrest","Organ Recipient",0
+"2178","Chest Trauma","Organ Recipient",0
+"2179","CHF","Organ Recipient",0
+"2180","Confusion/Disorientation","Organ Recipient",0
+"2181","Convalescent/Invalid/Return Home","Organ Recipient",0
+"2182","Diabetic Emergency","Organ Recipient",0
+"2183","Drug Overdose","Organ Recipient",0
+"2184","Exposure","Organ Recipient",0
+"2185","General Illness/Weakness","Organ Recipient",0
+"2186","GI Problems/Pain/Vomiting/Nausea","Organ Recipient",0
+"2187","GU Problem/Pain","Organ Recipient",0
+"2188","Gynecological Emergency","Organ Recipient",0
+"2189","Head/Brain Trauma","Organ Recipient",0
+"2190","Headache","Organ Recipient",0
+"2191","Hemorrhage Minor","Organ Recipient",0
+"2192","Hemorrhage/Hypovolemia Major","Organ Recipient",0
+"2193","Hypotension Non-Traumatic","Organ Recipient",0
+"2194","Inhalation Injury","Organ Recipient",0
+"2195","Ischemic Chest Pain","Organ Recipient",0
+"2196","Lift Assist (Dispatch Only)","Organ Recipient",0
+"2197","Local Allergic Reaction","Organ Recipient",0
+"2198","Musk/Skel Trauma","Organ Recipient",0
+"2199","MVC (Dispatch Only)","Organ Recipient",0
+"2200","Myocardial Infarction(Dx)","Organ Recipient",0
+"2201","Newborn/Neonatal","Organ Recipient",0
+"2202","Obstetrical Emergency","Organ Recipient",0
+"2203","Obstruc./Anatomical/Med/Other","Organ Recipient",0
+"2204","Obstruc./Foreign Body","Organ Recipient",0
+"2205","Organ Donor","Organ Recipient",0
+"2206","Organ Retrieval","Organ Recipient",0
+"2207","Other Cardiac","Organ Recipient",0
+"2208","Other Medical/Trauma","Organ Recipient",1
+"2209","Palpitations","Organ Recipient",0
+"2210","Paralysis/Spinal Trauma","Organ Recipient",0
+"2211","Poisoning/Toxic Exposure","Organ Recipient",0
+"2212","Resp. Arrest","Organ Recipient",0
+"2213","Resp. Disease","Organ Recipient",0
+"2214","Resp. Distress","Organ Recipient",0
+"2215","Seizure/Post Ictal","Organ Recipient",0
+"2216","Sepsis (Prev. Dx)","Organ Recipient",0
+"2217","Stroke/TIA","Organ Recipient",1
+"2218","Syncope","Organ Recipient",0
+"2219","Trauma Unknown (Dispatch Only)","Organ Recipient",0
+"2220","Traumatic Arrest","Organ Recipient",0
+"2221","Treatment - Diagnostic/Return","Organ Recipient",0
+"2222","Unconscious","Organ Recipient",0
+"2223","Unknown (Dispatch Only)","Organ Recipient",0
+"2224","","Organ Retrieval",1
+"2225","Abdominal Pain NYD","Organ Retrieval",0
+"2226","Abdominal Trauma","Organ Retrieval",0
+"2227","Airway Trauma","Organ Retrieval",0
+"2228","Alcohol Intoxication","Organ Retrieval",0
+"2229","Altered LOC","Organ Retrieval",0
+"2230","Anaphylaxis","Organ Retrieval",0
+"2231","Back Pain","Organ Retrieval",0
+"2232","Behaviour/Psychiatric","Organ Retrieval",0
+"2233","Cardiac Trauma","Organ Retrieval",0
+"2234","Cardiac/Medical Arrest","Organ Retrieval",0
+"2235","Chest Trauma","Organ Retrieval",0
+"2236","CHF","Organ Retrieval",0
+"2237","Confusion/Disorientation","Organ Retrieval",0
+"2238","Convalescent/Invalid/Return Home","Organ Retrieval",0
+"2239","Diabetic Emergency","Organ Retrieval",0
+"2240","Drug Overdose","Organ Retrieval",0
+"2241","Exposure","Organ Retrieval",0
+"2242","General Illness/Weakness","Organ Retrieval",0
+"2243","GI Problems/Pain/Vomiting/Nausea","Organ Retrieval",0
+"2244","GU Problem/Pain","Organ Retrieval",0
+"2245","Gynecological Emergency","Organ Retrieval",0
+"2246","Head/Brain Trauma","Organ Retrieval",0
+"2247","Headache","Organ Retrieval",0
+"2248","Hemorrhage Minor","Organ Retrieval",0
+"2249","Hemorrhage/Hypovolemia Major","Organ Retrieval",0
+"2250","Hypotension Non-Traumatic","Organ Retrieval",0
+"2251","Inhalation Injury","Organ Retrieval",0
+"2252","Ischemic Chest Pain","Organ Retrieval",0
+"2253","Lift Assist (Dispatch Only)","Organ Retrieval",0
+"2254","Local Allergic Reaction","Organ Retrieval",0
+"2255","Musk/Skel Trauma","Organ Retrieval",0
+"2256","MVC (Dispatch Only)","Organ Retrieval",0
+"2257","Myocardial Infarction(Dx)","Organ Retrieval",0
+"2258","Newborn/Neonatal","Organ Retrieval",0
+"2259","Obstetrical Emergency","Organ Retrieval",0
+"2260","Obstruc./Anatomical/Med/Other","Organ Retrieval",0
+"2261","Obstruc./Foreign Body","Organ Retrieval",0
+"2262","Organ Donor","Organ Retrieval",0
+"2263","Organ Retrieval","Organ Retrieval",0
+"2264","Other Cardiac","Organ Retrieval",0
+"2265","Other Medical/Trauma","Organ Retrieval",0
+"2266","Palpitations","Organ Retrieval",0
+"2267","Paralysis/Spinal Trauma","Organ Retrieval",0
+"2268","Poisoning/Toxic Exposure","Organ Retrieval",0
+"2269","Resp. Arrest","Organ Retrieval",0
+"2270","Resp. Disease","Organ Retrieval",0
+"2271","Resp. Distress","Organ Retrieval",0
+"2272","Seizure/Post Ictal","Organ Retrieval",0
+"2273","Sepsis (Prev. Dx)","Organ Retrieval",0
+"2274","Stroke/TIA","Organ Retrieval",0
+"2275","Syncope","Organ Retrieval",0
+"2276","Trauma Unknown (Dispatch Only)","Organ Retrieval",0
+"2277","Traumatic Arrest","Organ Retrieval",0
+"2278","Treatment - Diagnostic/Return","Organ Retrieval",0
+"2279","Unconscious","Organ Retrieval",0
+"2280","Unknown (Dispatch Only)","Organ Retrieval",0
+"2281","","Other Cardiac",32
+"2282","Abdominal Pain NYD","Other Cardiac",0
+"2283","Abdominal Trauma","Other Cardiac",0
+"2284","Airway Trauma","Other Cardiac",0
+"2285","Alcohol Intoxication","Other Cardiac",0
+"2286","Altered LOC","Other Cardiac",1
+"2287","Anaphylaxis","Other Cardiac",0
+"2288","Back Pain","Other Cardiac",0
+"2289","Behaviour/Psychiatric","Other Cardiac",0
+"2290","Cardiac Trauma","Other Cardiac",1
+"2291","Cardiac/Medical Arrest","Other Cardiac",1
+"2292","Chest Trauma","Other Cardiac",0
+"2293","CHF","Other Cardiac",0
+"2294","Confusion/Disorientation","Other Cardiac",0
+"2295","Convalescent/Invalid/Return Home","Other Cardiac",0
+"2296","Diabetic Emergency","Other Cardiac",1
+"2297","Drug Overdose","Other Cardiac",0
+"2298","Exposure","Other Cardiac",0
+"2299","General Illness/Weakness","Other Cardiac",0
+"2300","GI Problems/Pain/Vomiting/Nausea","Other Cardiac",0
+"2301","GU Problem/Pain","Other Cardiac",0
+"2302","Gynecological Emergency","Other Cardiac",1
+"2303","Head/Brain Trauma","Other Cardiac",0
+"2304","Headache","Other Cardiac",0
+"2305","Hemorrhage Minor","Other Cardiac",0
+"2306","Hemorrhage/Hypovolemia Major","Other Cardiac",0
+"2307","Hypotension Non-Traumatic","Other Cardiac",1
+"2308","Inhalation Injury","Other Cardiac",0
+"2309","Ischemic Chest Pain","Other Cardiac",43
+"2310","Lift Assist (Dispatch Only)","Other Cardiac",0
+"2311","Local Allergic Reaction","Other Cardiac",0
+"2312","Musk/Skel Trauma","Other Cardiac",0
+"2313","MVC (Dispatch Only)","Other Cardiac",0
+"2314","Myocardial Infarction(Dx)","Other Cardiac",0
+"2315","Newborn/Neonatal","Other Cardiac",0
+"2316","Obstetrical Emergency","Other Cardiac",0
+"2317","Obstruc./Anatomical/Med/Other","Other Cardiac",0
+"2318","Obstruc./Foreign Body","Other Cardiac",0
+"2319","Organ Donor","Other Cardiac",0
+"2320","Organ Retrieval","Other Cardiac",0
+"2321","Other Cardiac","Other Cardiac",68
+"2322","Other Medical/Trauma","Other Cardiac",6
+"2323","Palpitations","Other Cardiac",3
+"2324","Paralysis/Spinal Trauma","Other Cardiac",0
+"2325","Poisoning/Toxic Exposure","Other Cardiac",0
+"2326","Resp. Arrest","Other Cardiac",0
+"2327","Resp. Disease","Other Cardiac",0
+"2328","Resp. Distress","Other Cardiac",14
+"2329","Seizure/Post Ictal","Other Cardiac",0
+"2330","Sepsis (Prev. Dx)","Other Cardiac",0
+"2331","Stroke/TIA","Other Cardiac",2
+"2332","Syncope","Other Cardiac",4
+"2333","Trauma Unknown (Dispatch Only)","Other Cardiac",0
+"2334","Traumatic Arrest","Other Cardiac",0
+"2335","Treatment - Diagnostic/Return","Other Cardiac",1
+"2336","Unconscious","Other Cardiac",3
+"2337","Unknown (Dispatch Only)","Other Cardiac",1
+"2338","","Other Medical/Trauma",139
+"2339","Abdominal Pain NYD","Other Medical/Trauma",9
+"2340","Abdominal Trauma","Other Medical/Trauma",0
+"2341","Airway Trauma","Other Medical/Trauma",0
+"2342","Alcohol Intoxication","Other Medical/Trauma",0
+"2343","Altered LOC","Other Medical/Trauma",4
+"2344","Anaphylaxis","Other Medical/Trauma",3
+"2345","Back Pain","Other Medical/Trauma",2
+"2346","Behaviour/Psychiatric","Other Medical/Trauma",1
+"2347","Cardiac Trauma","Other Medical/Trauma",1
+"2348","Cardiac/Medical Arrest","Other Medical/Trauma",10
+"2349","Chest Trauma","Other Medical/Trauma",0
+"2350","CHF","Other Medical/Trauma",0
+"2351","Confusion/Disorientation","Other Medical/Trauma",12
+"2352","Convalescent/Invalid/Return Home","Other Medical/Trauma",0
+"2353","Diabetic Emergency","Other Medical/Trauma",6
+"2354","Drug Overdose","Other Medical/Trauma",3
+"2355","Exposure","Other Medical/Trauma",6
+"2356","General Illness/Weakness","Other Medical/Trauma",18
+"2357","GI Problems/Pain/Vomiting/Nausea","Other Medical/Trauma",4
+"2358","GU Problem/Pain","Other Medical/Trauma",0
+"2359","Gynecological Emergency","Other Medical/Trauma",0
+"2360","Head/Brain Trauma","Other Medical/Trauma",1
+"2361","Headache","Other Medical/Trauma",2
+"2362","Hemorrhage Minor","Other Medical/Trauma",2
+"2363","Hemorrhage/Hypovolemia Major","Other Medical/Trauma",1
+"2364","Hypotension Non-Traumatic","Other Medical/Trauma",3
+"2365","Inhalation Injury","Other Medical/Trauma",0
+"2366","Ischemic Chest Pain","Other Medical/Trauma",143
+"2367","Lift Assist (Dispatch Only)","Other Medical/Trauma",0
+"2368","Local Allergic Reaction","Other Medical/Trauma",0
+"2369","Musk/Skel Trauma","Other Medical/Trauma",6
+"2370","MVC (Dispatch Only)","Other Medical/Trauma",33
+"2371","Myocardial Infarction(Dx)","Other Medical/Trauma",0
+"2372","Newborn/Neonatal","Other Medical/Trauma",1
+"2373","Obstetrical Emergency","Other Medical/Trauma",0
+"2374","Obstruc./Anatomical/Med/Other","Other Medical/Trauma",0
+"2375","Obstruc./Foreign Body","Other Medical/Trauma",0
+"2376","Organ Donor","Other Medical/Trauma",1
+"2377","Organ Retrieval","Other Medical/Trauma",0
+"2378","Other Cardiac","Other Medical/Trauma",4
+"2379","Other Medical/Trauma","Other Medical/Trauma",413
+"2380","Palpitations","Other Medical/Trauma",0
+"2381","Paralysis/Spinal Trauma","Other Medical/Trauma",0
+"2382","Poisoning/Toxic Exposure","Other Medical/Trauma",0
+"2383","Resp. Arrest","Other Medical/Trauma",1
+"2384","Resp. Disease","Other Medical/Trauma",1
+"2385","Resp. Distress","Other Medical/Trauma",107
+"2386","Seizure/Post Ictal","Other Medical/Trauma",6
+"2387","Sepsis (Prev. Dx)","Other Medical/Trauma",0
+"2388","Stroke/TIA","Other Medical/Trauma",36
+"2389","Syncope","Other Medical/Trauma",7
+"2390","Trauma Unknown (Dispatch Only)","Other Medical/Trauma",17
+"2391","Traumatic Arrest","Other Medical/Trauma",0
+"2392","Treatment - Diagnostic/Return","Other Medical/Trauma",1
+"2393","Unconscious","Other Medical/Trauma",19
+"2394","Unknown (Dispatch Only)","Other Medical/Trauma",8
+"2395","","Palpitations",2
+"2396","Abdominal Pain NYD","Palpitations",0
+"2397","Abdominal Trauma","Palpitations",0
+"2398","Airway Trauma","Palpitations",0
+"2399","Alcohol Intoxication","Palpitations",0
+"2400","Altered LOC","Palpitations",0
+"2401","Anaphylaxis","Palpitations",0
+"2402","Back Pain","Palpitations",0
+"2403","Behaviour/Psychiatric","Palpitations",0
+"2404","Cardiac Trauma","Palpitations",0
+"2405","Cardiac/Medical Arrest","Palpitations",0
+"2406","Chest Trauma","Palpitations",0
+"2407","CHF","Palpitations",0
+"2408","Confusion/Disorientation","Palpitations",0
+"2409","Convalescent/Invalid/Return Home","Palpitations",0
+"2410","Diabetic Emergency","Palpitations",1
+"2411","Drug Overdose","Palpitations",0
+"2412","Exposure","Palpitations",0
+"2413","General Illness/Weakness","Palpitations",0
+"2414","GI Problems/Pain/Vomiting/Nausea","Palpitations",0
+"2415","GU Problem/Pain","Palpitations",0
+"2416","Gynecological Emergency","Palpitations",0
+"2417","Head/Brain Trauma","Palpitations",0
+"2418","Headache","Palpitations",0
+"2419","Hemorrhage Minor","Palpitations",0
+"2420","Hemorrhage/Hypovolemia Major","Palpitations",0
+"2421","Hypotension Non-Traumatic","Palpitations",1
+"2422","Inhalation Injury","Palpitations",0
+"2423","Ischemic Chest Pain","Palpitations",31
+"2424","Lift Assist (Dispatch Only)","Palpitations",0
+"2425","Local Allergic Reaction","Palpitations",0
+"2426","Musk/Skel Trauma","Palpitations",0
+"2427","MVC (Dispatch Only)","Palpitations",0
+"2428","Myocardial Infarction(Dx)","Palpitations",0
+"2429","Newborn/Neonatal","Palpitations",0
+"2430","Obstetrical Emergency","Palpitations",0
+"2431","Obstruc./Anatomical/Med/Other","Palpitations",0
+"2432","Obstruc./Foreign Body","Palpitations",0
+"2433","Organ Donor","Palpitations",0
+"2434","Organ Retrieval","Palpitations",0
+"2435","Other Cardiac","Palpitations",1
+"2436","Other Medical/Trauma","Palpitations",3
+"2437","Palpitations","Palpitations",17
+"2438","Paralysis/Spinal Trauma","Palpitations",0
+"2439","Poisoning/Toxic Exposure","Palpitations",0
+"2440","Resp. Arrest","Palpitations",0
+"2441","Resp. Disease","Palpitations",0
+"2442","Resp. Distress","Palpitations",3
+"2443","Seizure/Post Ictal","Palpitations",0
+"2444","Sepsis (Prev. Dx)","Palpitations",0
+"2445","Stroke/TIA","Palpitations",1
+"2446","Syncope","Palpitations",0
+"2447","Trauma Unknown (Dispatch Only)","Palpitations",0
+"2448","Traumatic Arrest","Palpitations",0
+"2449","Treatment - Diagnostic/Return","Palpitations",0
+"2450","Unconscious","Palpitations",0
+"2451","Unknown (Dispatch Only)","Palpitations",0
+"2452","","Paralysis/Spinal Trauma",0
+"2453","Abdominal Pain NYD","Paralysis/Spinal Trauma",0
+"2454","Abdominal Trauma","Paralysis/Spinal Trauma",0
+"2455","Airway Trauma","Paralysis/Spinal Trauma",0
+"2456","Alcohol Intoxication","Paralysis/Spinal Trauma",0
+"2457","Altered LOC","Paralysis/Spinal Trauma",0
+"2458","Anaphylaxis","Paralysis/Spinal Trauma",0
+"2459","Back Pain","Paralysis/Spinal Trauma",0
+"2460","Behaviour/Psychiatric","Paralysis/Spinal Trauma",0
+"2461","Cardiac Trauma","Paralysis/Spinal Trauma",0
+"2462","Cardiac/Medical Arrest","Paralysis/Spinal Trauma",0
+"2463","Chest Trauma","Paralysis/Spinal Trauma",0
+"2464","CHF","Paralysis/Spinal Trauma",0
+"2465","Confusion/Disorientation","Paralysis/Spinal Trauma",0
+"2466","Convalescent/Invalid/Return Home","Paralysis/Spinal Trauma",0
+"2467","Diabetic Emergency","Paralysis/Spinal Trauma",0
+"2468","Drug Overdose","Paralysis/Spinal Trauma",0
+"2469","Exposure","Paralysis/Spinal Trauma",0
+"2470","General Illness/Weakness","Paralysis/Spinal Trauma",0
+"2471","GI Problems/Pain/Vomiting/Nausea","Paralysis/Spinal Trauma",0
+"2472","GU Problem/Pain","Paralysis/Spinal Trauma",0
+"2473","Gynecological Emergency","Paralysis/Spinal Trauma",0
+"2474","Head/Brain Trauma","Paralysis/Spinal Trauma",0
+"2475","Headache","Paralysis/Spinal Trauma",0
+"2476","Hemorrhage Minor","Paralysis/Spinal Trauma",0
+"2477","Hemorrhage/Hypovolemia Major","Paralysis/Spinal Trauma",0
+"2478","Hypotension Non-Traumatic","Paralysis/Spinal Trauma",0
+"2479","Inhalation Injury","Paralysis/Spinal Trauma",0
+"2480","Ischemic Chest Pain","Paralysis/Spinal Trauma",0
+"2481","Lift Assist (Dispatch Only)","Paralysis/Spinal Trauma",0
+"2482","Local Allergic Reaction","Paralysis/Spinal Trauma",0
+"2483","Musk/Skel Trauma","Paralysis/Spinal Trauma",0
+"2484","MVC (Dispatch Only)","Paralysis/Spinal Trauma",2
+"2485","Myocardial Infarction(Dx)","Paralysis/Spinal Trauma",0
+"2486","Newborn/Neonatal","Paralysis/Spinal Trauma",0
+"2487","Obstetrical Emergency","Paralysis/Spinal Trauma",0
+"2488","Obstruc./Anatomical/Med/Other","Paralysis/Spinal Trauma",0
+"2489","Obstruc./Foreign Body","Paralysis/Spinal Trauma",0
+"2490","Organ Donor","Paralysis/Spinal Trauma",0
+"2491","Organ Retrieval","Paralysis/Spinal Trauma",0
+"2492","Other Cardiac","Paralysis/Spinal Trauma",0
+"2493","Other Medical/Trauma","Paralysis/Spinal Trauma",0
+"2494","Palpitations","Paralysis/Spinal Trauma",0
+"2495","Paralysis/Spinal Trauma","Paralysis/Spinal Trauma",0
+"2496","Poisoning/Toxic Exposure","Paralysis/Spinal Trauma",0
+"2497","Resp. Arrest","Paralysis/Spinal Trauma",0
+"2498","Resp. Disease","Paralysis/Spinal Trauma",0
+"2499","Resp. Distress","Paralysis/Spinal Trauma",0
+"2500","Seizure/Post Ictal","Paralysis/Spinal Trauma",0
+"2501","Sepsis (Prev. Dx)","Paralysis/Spinal Trauma",0
+"2502","Stroke/TIA","Paralysis/Spinal Trauma",0
+"2503","Syncope","Paralysis/Spinal Trauma",0
+"2504","Trauma Unknown (Dispatch Only)","Paralysis/Spinal Trauma",0
+"2505","Traumatic Arrest","Paralysis/Spinal Trauma",0
+"2506","Treatment - Diagnostic/Return","Paralysis/Spinal Trauma",0
+"2507","Unconscious","Paralysis/Spinal Trauma",0
+"2508","Unknown (Dispatch Only)","Paralysis/Spinal Trauma",0
+"2509","","Poisoning/Toxic Exposure",2
+"2510","Abdominal Pain NYD","Poisoning/Toxic Exposure",0
+"2511","Abdominal Trauma","Poisoning/Toxic Exposure",0
+"2512","Airway Trauma","Poisoning/Toxic Exposure",0
+"2513","Alcohol Intoxication","Poisoning/Toxic Exposure",0
+"2514","Altered LOC","Poisoning/Toxic Exposure",0
+"2515","Anaphylaxis","Poisoning/Toxic Exposure",0
+"2516","Back Pain","Poisoning/Toxic Exposure",0
+"2517","Behaviour/Psychiatric","Poisoning/Toxic Exposure",0
+"2518","Cardiac Trauma","Poisoning/Toxic Exposure",0
+"2519","Cardiac/Medical Arrest","Poisoning/Toxic Exposure",0
+"2520","Chest Trauma","Poisoning/Toxic Exposure",0
+"2521","CHF","Poisoning/Toxic Exposure",0
+"2522","Confusion/Disorientation","Poisoning/Toxic Exposure",0
+"2523","Convalescent/Invalid/Return Home","Poisoning/Toxic Exposure",0
+"2524","Diabetic Emergency","Poisoning/Toxic Exposure",1
+"2525","Drug Overdose","Poisoning/Toxic Exposure",0
+"2526","Exposure","Poisoning/Toxic Exposure",0
+"2527","General Illness/Weakness","Poisoning/Toxic Exposure",0
+"2528","GI Problems/Pain/Vomiting/Nausea","Poisoning/Toxic Exposure",0
+"2529","GU Problem/Pain","Poisoning/Toxic Exposure",0
+"2530","Gynecological Emergency","Poisoning/Toxic Exposure",0
+"2531","Head/Brain Trauma","Poisoning/Toxic Exposure",0
+"2532","Headache","Poisoning/Toxic Exposure",0
+"2533","Hemorrhage Minor","Poisoning/Toxic Exposure",0
+"2534","Hemorrhage/Hypovolemia Major","Poisoning/Toxic Exposure",0
+"2535","Hypotension Non-Traumatic","Poisoning/Toxic Exposure",0
+"2536","Inhalation Injury","Poisoning/Toxic Exposure",0
+"2537","Ischemic Chest Pain","Poisoning/Toxic Exposure",0
+"2538","Lift Assist (Dispatch Only)","Poisoning/Toxic Exposure",0
+"2539","Local Allergic Reaction","Poisoning/Toxic Exposure",0
+"2540","Musk/Skel Trauma","Poisoning/Toxic Exposure",0
+"2541","MVC (Dispatch Only)","Poisoning/Toxic Exposure",0
+"2542","Myocardial Infarction(Dx)","Poisoning/Toxic Exposure",0
+"2543","Newborn/Neonatal","Poisoning/Toxic Exposure",0
+"2544","Obstetrical Emergency","Poisoning/Toxic Exposure",0
+"2545","Obstruc./Anatomical/Med/Other","Poisoning/Toxic Exposure",0
+"2546","Obstruc./Foreign Body","Poisoning/Toxic Exposure",0
+"2547","Organ Donor","Poisoning/Toxic Exposure",0
+"2548","Organ Retrieval","Poisoning/Toxic Exposure",0
+"2549","Other Cardiac","Poisoning/Toxic Exposure",0
+"2550","Other Medical/Trauma","Poisoning/Toxic Exposure",0
+"2551","Palpitations","Poisoning/Toxic Exposure",0
+"2552","Paralysis/Spinal Trauma","Poisoning/Toxic Exposure",0
+"2553","Poisoning/Toxic Exposure","Poisoning/Toxic Exposure",5
+"2554","Resp. Arrest","Poisoning/Toxic Exposure",0
+"2555","Resp. Disease","Poisoning/Toxic Exposure",0
+"2556","Resp. Distress","Poisoning/Toxic Exposure",1
+"2557","Seizure/Post Ictal","Poisoning/Toxic Exposure",0
+"2558","Sepsis (Prev. Dx)","Poisoning/Toxic Exposure",0
+"2559","Stroke/TIA","Poisoning/Toxic Exposure",0
+"2560","Syncope","Poisoning/Toxic Exposure",0
+"2561","Trauma Unknown (Dispatch Only)","Poisoning/Toxic Exposure",0
+"2562","Traumatic Arrest","Poisoning/Toxic Exposure",0
+"2563","Treatment - Diagnostic/Return","Poisoning/Toxic Exposure",0
+"2564","Unconscious","Poisoning/Toxic Exposure",0
+"2565","Unknown (Dispatch Only)","Poisoning/Toxic Exposure",0
+"2566","","Resp. Arrest",0
+"2567","Abdominal Pain NYD","Resp. Arrest",0
+"2568","Abdominal Trauma","Resp. Arrest",0
+"2569","Airway Trauma","Resp. Arrest",0
+"2570","Alcohol Intoxication","Resp. Arrest",0
+"2571","Altered LOC","Resp. Arrest",0
+"2572","Anaphylaxis","Resp. Arrest",1
+"2573","Back Pain","Resp. Arrest",0
+"2574","Behaviour/Psychiatric","Resp. Arrest",0
+"2575","Cardiac Trauma","Resp. Arrest",0
+"2576","Cardiac/Medical Arrest","Resp. Arrest",0
+"2577","Chest Trauma","Resp. Arrest",0
+"2578","CHF","Resp. Arrest",0
+"2579","Confusion/Disorientation","Resp. Arrest",0
+"2580","Convalescent/Invalid/Return Home","Resp. Arrest",0
+"2581","Diabetic Emergency","Resp. Arrest",0
+"2582","Drug Overdose","Resp. Arrest",0
+"2583","Exposure","Resp. Arrest",0
+"2584","General Illness/Weakness","Resp. Arrest",1
+"2585","GI Problems/Pain/Vomiting/Nausea","Resp. Arrest",0
+"2586","GU Problem/Pain","Resp. Arrest",0
+"2587","Gynecological Emergency","Resp. Arrest",0
+"2588","Head/Brain Trauma","Resp. Arrest",0
+"2589","Headache","Resp. Arrest",0
+"2590","Hemorrhage Minor","Resp. Arrest",0
+"2591","Hemorrhage/Hypovolemia Major","Resp. Arrest",0
+"2592","Hypotension Non-Traumatic","Resp. Arrest",0
+"2593","Inhalation Injury","Resp. Arrest",0
+"2594","Ischemic Chest Pain","Resp. Arrest",0
+"2595","Lift Assist (Dispatch Only)","Resp. Arrest",0
+"2596","Local Allergic Reaction","Resp. Arrest",0
+"2597","Musk/Skel Trauma","Resp. Arrest",0
+"2598","MVC (Dispatch Only)","Resp. Arrest",0
+"2599","Myocardial Infarction(Dx)","Resp. Arrest",0
+"2600","Newborn/Neonatal","Resp. Arrest",0
+"2601","Obstetrical Emergency","Resp. Arrest",0
+"2602","Obstruc./Anatomical/Med/Other","Resp. Arrest",0
+"2603","Obstruc./Foreign Body","Resp. Arrest",0
+"2604","Organ Donor","Resp. Arrest",0
+"2605","Organ Retrieval","Resp. Arrest",0
+"2606","Other Cardiac","Resp. Arrest",0
+"2607","Other Medical/Trauma","Resp. Arrest",0
+"2608","Palpitations","Resp. Arrest",0
+"2609","Paralysis/Spinal Trauma","Resp. Arrest",0
+"2610","Poisoning/Toxic Exposure","Resp. Arrest",0
+"2611","Resp. Arrest","Resp. Arrest",2
+"2612","Resp. Disease","Resp. Arrest",0
+"2613","Resp. Distress","Resp. Arrest",0
+"2614","Seizure/Post Ictal","Resp. Arrest",0
+"2615","Sepsis (Prev. Dx)","Resp. Arrest",0
+"2616","Stroke/TIA","Resp. Arrest",0
+"2617","Syncope","Resp. Arrest",0
+"2618","Trauma Unknown (Dispatch Only)","Resp. Arrest",0
+"2619","Traumatic Arrest","Resp. Arrest",0
+"2620","Treatment - Diagnostic/Return","Resp. Arrest",0
+"2621","Unconscious","Resp. Arrest",1
+"2622","Unknown (Dispatch Only)","Resp. Arrest",0
+"2623","","Resp. Disease",35
+"2624","Abdominal Pain NYD","Resp. Disease",0
+"2625","Abdominal Trauma","Resp. Disease",0
+"2626","Airway Trauma","Resp. Disease",0
+"2627","Alcohol Intoxication","Resp. Disease",0
+"2628","Altered LOC","Resp. Disease",0
+"2629","Anaphylaxis","Resp. Disease",0
+"2630","Back Pain","Resp. Disease",0
+"2631","Behaviour/Psychiatric","Resp. Disease",0
+"2632","Cardiac Trauma","Resp. Disease",0
+"2633","Cardiac/Medical Arrest","Resp. Disease",0
+"2634","Chest Trauma","Resp. Disease",0
+"2635","CHF","Resp. Disease",0
+"2636","Confusion/Disorientation","Resp. Disease",0
+"2637","Convalescent/Invalid/Return Home","Resp. Disease",0
+"2638","Diabetic Emergency","Resp. Disease",1
+"2639","Drug Overdose","Resp. Disease",0
+"2640","Exposure","Resp. Disease",0
+"2641","General Illness/Weakness","Resp. Disease",2
+"2642","GI Problems/Pain/Vomiting/Nausea","Resp. Disease",0
+"2643","GU Problem/Pain","Resp. Disease",0
+"2644","Gynecological Emergency","Resp. Disease",0
+"2645","Head/Brain Trauma","Resp. Disease",0
+"2646","Headache","Resp. Disease",0
+"2647","Hemorrhage Minor","Resp. Disease",0
+"2648","Hemorrhage/Hypovolemia Major","Resp. Disease",1
+"2649","Hypotension Non-Traumatic","Resp. Disease",0
+"2650","Inhalation Injury","Resp. Disease",0
+"2651","Ischemic Chest Pain","Resp. Disease",5
+"2652","Lift Assist (Dispatch Only)","Resp. Disease",0
+"2653","Local Allergic Reaction","Resp. Disease",0
+"2654","Musk/Skel Trauma","Resp. Disease",0
+"2655","MVC (Dispatch Only)","Resp. Disease",0
+"2656","Myocardial Infarction(Dx)","Resp. Disease",0
+"2657","Newborn/Neonatal","Resp. Disease",0
+"2658","Obstetrical Emergency","Resp. Disease",0
+"2659","Obstruc./Anatomical/Med/Other","Resp. Disease",0
+"2660","Obstruc./Foreign Body","Resp. Disease",0
+"2661","Organ Donor","Resp. Disease",0
+"2662","Organ Retrieval","Resp. Disease",0
+"2663","Other Cardiac","Resp. Disease",0
+"2664","Other Medical/Trauma","Resp. Disease",3
+"2665","Palpitations","Resp. Disease",0
+"2666","Paralysis/Spinal Trauma","Resp. Disease",0
+"2667","Poisoning/Toxic Exposure","Resp. Disease",0
+"2668","Resp. Arrest","Resp. Disease",0
+"2669","Resp. Disease","Resp. Disease",79
+"2670","Resp. Distress","Resp. Disease",68
+"2671","Seizure/Post Ictal","Resp. Disease",0
+"2672","Sepsis (Prev. Dx)","Resp. Disease",0
+"2673","Stroke/TIA","Resp. Disease",1
+"2674","Syncope","Resp. Disease",0
+"2675","Trauma Unknown (Dispatch Only)","Resp. Disease",0
+"2676","Traumatic Arrest","Resp. Disease",0
+"2677","Treatment - Diagnostic/Return","Resp. Disease",0
+"2678","Unconscious","Resp. Disease",0
+"2679","Unknown (Dispatch Only)","Resp. Disease",0
+"2680","","Resp. Distress",140
+"2681","Abdominal Pain NYD","Resp. Distress",3
+"2682","Abdominal Trauma","Resp. Distress",0
+"2683","Airway Trauma","Resp. Distress",0
+"2684","Alcohol Intoxication","Resp. Distress",0
+"2685","Altered LOC","Resp. Distress",0
+"2686","Anaphylaxis","Resp. Distress",0
+"2687","Back Pain","Resp. Distress",0
+"2688","Behaviour/Psychiatric","Resp. Distress",0
+"2689","Cardiac Trauma","Resp. Distress",1
+"2690","Cardiac/Medical Arrest","Resp. Distress",0
+"2691","Chest Trauma","Resp. Distress",0
+"2692","CHF","Resp. Distress",2
+"2693","Confusion/Disorientation","Resp. Distress",1
+"2694","Convalescent/Invalid/Return Home","Resp. Distress",1
+"2695","Diabetic Emergency","Resp. Distress",1
+"2696","Drug Overdose","Resp. Distress",1
+"2697","Exposure","Resp. Distress",0
+"2698","General Illness/Weakness","Resp. Distress",4
+"2699","GI Problems/Pain/Vomiting/Nausea","Resp. Distress",3
+"2700","GU Problem/Pain","Resp. Distress",0
+"2701","Gynecological Emergency","Resp. Distress",0
+"2702","Head/Brain Trauma","Resp. Distress",0
+"2703","Headache","Resp. Distress",2
+"2704","Hemorrhage Minor","Resp. Distress",0
+"2705","Hemorrhage/Hypovolemia Major","Resp. Distress",0
+"2706","Hypotension Non-Traumatic","Resp. Distress",0
+"2707","Inhalation Injury","Resp. Distress",0
+"2708","Ischemic Chest Pain","Resp. Distress",48
+"2709","Lift Assist (Dispatch Only)","Resp. Distress",0
+"2710","Local Allergic Reaction","Resp. Distress",0
+"2711","Musk/Skel Trauma","Resp. Distress",1
+"2712","MVC (Dispatch Only)","Resp. Distress",0
+"2713","Myocardial Infarction(Dx)","Resp. Distress",0
+"2714","Newborn/Neonatal","Resp. Distress",0
+"2715","Obstetrical Emergency","Resp. Distress",0
+"2716","Obstruc./Anatomical/Med/Other","Resp. Distress",0
+"2717","Obstruc./Foreign Body","Resp. Distress",1
+"2718","Organ Donor","Resp. Distress",0
+"2719","Organ Retrieval","Resp. Distress",0
+"2720","Other Cardiac","Resp. Distress",0
+"2721","Other Medical/Trauma","Resp. Distress",7
+"2722","Palpitations","Resp. Distress",0
+"2723","Paralysis/Spinal Trauma","Resp. Distress",0
+"2724","Poisoning/Toxic Exposure","Resp. Distress",0
+"2725","Resp. Arrest","Resp. Distress",1
+"2726","Resp. Disease","Resp. Distress",6
+"2727","Resp. Distress","Resp. Distress",860
+"2728","Seizure/Post Ictal","Resp. Distress",3
+"2729","Sepsis (Prev. Dx)","Resp. Distress",0
+"2730","Stroke/TIA","Resp. Distress",3
+"2731","Syncope","Resp. Distress",1
+"2732","Trauma Unknown (Dispatch Only)","Resp. Distress",0
+"2733","Traumatic Arrest","Resp. Distress",0
+"2734","Treatment - Diagnostic/Return","Resp. Distress",0
+"2735","Unconscious","Resp. Distress",7
+"2736","Unknown (Dispatch Only)","Resp. Distress",4
+"2737","","Seizure/Post Ictal",44
+"2738","Abdominal Pain NYD","Seizure/Post Ictal",0
+"2739","Abdominal Trauma","Seizure/Post Ictal",0
+"2740","Airway Trauma","Seizure/Post Ictal",0
+"2741","Alcohol Intoxication","Seizure/Post Ictal",0
+"2742","Altered LOC","Seizure/Post Ictal",2
+"2743","Anaphylaxis","Seizure/Post Ictal",0
+"2744","Back Pain","Seizure/Post Ictal",0
+"2745","Behaviour/Psychiatric","Seizure/Post Ictal",1
+"2746","Cardiac Trauma","Seizure/Post Ictal",0
+"2747","Cardiac/Medical Arrest","Seizure/Post Ictal",2
+"2748","Chest Trauma","Seizure/Post Ictal",0
+"2749","CHF","Seizure/Post Ictal",0
+"2750","Confusion/Disorientation","Seizure/Post Ictal",0
+"2751","Convalescent/Invalid/Return Home","Seizure/Post Ictal",0
+"2752","Diabetic Emergency","Seizure/Post Ictal",2
+"2753","Drug Overdose","Seizure/Post Ictal",0
+"2754","Exposure","Seizure/Post Ictal",0
+"2755","General Illness/Weakness","Seizure/Post Ictal",0
+"2756","GI Problems/Pain/Vomiting/Nausea","Seizure/Post Ictal",0
+"2757","GU Problem/Pain","Seizure/Post Ictal",0
+"2758","Gynecological Emergency","Seizure/Post Ictal",0
+"2759","Head/Brain Trauma","Seizure/Post Ictal",0
+"2760","Headache","Seizure/Post Ictal",0
+"2761","Hemorrhage Minor","Seizure/Post Ictal",0
+"2762","Hemorrhage/Hypovolemia Major","Seizure/Post Ictal",0
+"2763","Hypotension Non-Traumatic","Seizure/Post Ictal",0
+"2764","Inhalation Injury","Seizure/Post Ictal",0
+"2765","Ischemic Chest Pain","Seizure/Post Ictal",4
+"2766","Lift Assist (Dispatch Only)","Seizure/Post Ictal",0
+"2767","Local Allergic Reaction","Seizure/Post Ictal",0
+"2768","Musk/Skel Trauma","Seizure/Post Ictal",1
+"2769","MVC (Dispatch Only)","Seizure/Post Ictal",1
+"2770","Myocardial Infarction(Dx)","Seizure/Post Ictal",0
+"2771","Newborn/Neonatal","Seizure/Post Ictal",0
+"2772","Obstetrical Emergency","Seizure/Post Ictal",0
+"2773","Obstruc./Anatomical/Med/Other","Seizure/Post Ictal",0
+"2774","Obstruc./Foreign Body","Seizure/Post Ictal",0
+"2775","Organ Donor","Seizure/Post Ictal",0
+"2776","Organ Retrieval","Seizure/Post Ictal",1
+"2777","Other Cardiac","Seizure/Post Ictal",1
+"2778","Other Medical/Trauma","Seizure/Post Ictal",4
+"2779","Palpitations","Seizure/Post Ictal",0
+"2780","Paralysis/Spinal Trauma","Seizure/Post Ictal",0
+"2781","Poisoning/Toxic Exposure","Seizure/Post Ictal",0
+"2782","Resp. Arrest","Seizure/Post Ictal",0
+"2783","Resp. Disease","Seizure/Post Ictal",0
+"2784","Resp. Distress","Seizure/Post Ictal",4
+"2785","Seizure/Post Ictal","Seizure/Post Ictal",212
+"2786","Sepsis (Prev. Dx)","Seizure/Post Ictal",0
+"2787","Stroke/TIA","Seizure/Post Ictal",2
+"2788","Syncope","Seizure/Post Ictal",5
+"2789","Trauma Unknown (Dispatch Only)","Seizure/Post Ictal",0
+"2790","Traumatic Arrest","Seizure/Post Ictal",0
+"2791","Treatment - Diagnostic/Return","Seizure/Post Ictal",0
+"2792","Unconscious","Seizure/Post Ictal",16
+"2793","Unknown (Dispatch Only)","Seizure/Post Ictal",3
+"2794","","Stroke/TIA",24
+"2795","Abdominal Pain NYD","Stroke/TIA",0
+"2796","Abdominal Trauma","Stroke/TIA",0
+"2797","Airway Trauma","Stroke/TIA",0
+"2798","Alcohol Intoxication","Stroke/TIA",0
+"2799","Altered LOC","Stroke/TIA",2
+"2800","Anaphylaxis","Stroke/TIA",0
+"2801","Back Pain","Stroke/TIA",0
+"2802","Behaviour/Psychiatric","Stroke/TIA",0
+"2803","Cardiac Trauma","Stroke/TIA",0
+"2804","Cardiac/Medical Arrest","Stroke/TIA",0
+"2805","Chest Trauma","Stroke/TIA",0
+"2806","CHF","Stroke/TIA",0
+"2807","Confusion/Disorientation","Stroke/TIA",5
+"2808","Convalescent/Invalid/Return Home","Stroke/TIA",0
+"2809","Diabetic Emergency","Stroke/TIA",1
+"2810","Drug Overdose","Stroke/TIA",1
+"2811","Exposure","Stroke/TIA",0
+"2812","General Illness/Weakness","Stroke/TIA",3
+"2813","GI Problems/Pain/Vomiting/Nausea","Stroke/TIA",0
+"2814","GU Problem/Pain","Stroke/TIA",0
+"2815","Gynecological Emergency","Stroke/TIA",0
+"2816","Head/Brain Trauma","Stroke/TIA",0
+"2817","Headache","Stroke/TIA",1
+"2818","Hemorrhage Minor","Stroke/TIA",0
+"2819","Hemorrhage/Hypovolemia Major","Stroke/TIA",0
+"2820","Hypotension Non-Traumatic","Stroke/TIA",0
+"2821","Inhalation Injury","Stroke/TIA",0
+"2822","Ischemic Chest Pain","Stroke/TIA",2
+"2823","Lift Assist (Dispatch Only)","Stroke/TIA",0
+"2824","Local Allergic Reaction","Stroke/TIA",0
+"2825","Musk/Skel Trauma","Stroke/TIA",0
+"2826","MVC (Dispatch Only)","Stroke/TIA",0
+"2827","Myocardial Infarction(Dx)","Stroke/TIA",0
+"2828","Newborn/Neonatal","Stroke/TIA",0
+"2829","Obstetrical Emergency","Stroke/TIA",0
+"2830","Obstruc./Anatomical/Med/Other","Stroke/TIA",0
+"2831","Obstruc./Foreign Body","Stroke/TIA",0
+"2832","Organ Donor","Stroke/TIA",0
+"2833","Organ Retrieval","Stroke/TIA",0
+"2834","Other Cardiac","Stroke/TIA",1
+"2835","Other Medical/Trauma","Stroke/TIA",6
+"2836","Palpitations","Stroke/TIA",0
+"2837","Paralysis/Spinal Trauma","Stroke/TIA",0
+"2838","Poisoning/Toxic Exposure","Stroke/TIA",0
+"2839","Resp. Arrest","Stroke/TIA",0
+"2840","Resp. Disease","Stroke/TIA",0
+"2841","Resp. Distress","Stroke/TIA",7
+"2842","Seizure/Post Ictal","Stroke/TIA",5
+"2843","Sepsis (Prev. Dx)","Stroke/TIA",0
+"2844","Stroke/TIA","Stroke/TIA",109
+"2845","Syncope","Stroke/TIA",1
+"2846","Trauma Unknown (Dispatch Only)","Stroke/TIA",1
+"2847","Traumatic Arrest","Stroke/TIA",0
+"2848","Treatment - Diagnostic/Return","Stroke/TIA",0
+"2849","Unconscious","Stroke/TIA",11
+"2850","Unknown (Dispatch Only)","Stroke/TIA",1
+"2851","","Syncope",34
+"2852","Abdominal Pain NYD","Syncope",1
+"2853","Abdominal Trauma","Syncope",0
+"2854","Airway Trauma","Syncope",0
+"2855","Alcohol Intoxication","Syncope",0
+"2856","Altered LOC","Syncope",2
+"2857","Anaphylaxis","Syncope",1
+"2858","Back Pain","Syncope",0
+"2859","Behaviour/Psychiatric","Syncope",0
+"2860","Cardiac Trauma","Syncope",0
+"2861","Cardiac/Medical Arrest","Syncope",5
+"2862","Chest Trauma","Syncope",0
+"2863","CHF","Syncope",0
+"2864","Confusion/Disorientation","Syncope",1
+"2865","Convalescent/Invalid/Return Home","Syncope",0
+"2866","Diabetic Emergency","Syncope",0
+"2867","Drug Overdose","Syncope",0
+"2868","Exposure","Syncope",1
+"2869","General Illness/Weakness","Syncope",3
+"2870","GI Problems/Pain/Vomiting/Nausea","Syncope",0
+"2871","GU Problem/Pain","Syncope",0
+"2872","Gynecological Emergency","Syncope",0
+"2873","Head/Brain Trauma","Syncope",0
+"2874","Headache","Syncope",0
+"2875","Hemorrhage Minor","Syncope",1
+"2876","Hemorrhage/Hypovolemia Major","Syncope",1
+"2877","Hypotension Non-Traumatic","Syncope",0
+"2878","Inhalation Injury","Syncope",0
+"2879","Ischemic Chest Pain","Syncope",11
+"2880","Lift Assist (Dispatch Only)","Syncope",1
+"2881","Local Allergic Reaction","Syncope",0
+"2882","Musk/Skel Trauma","Syncope",1
+"2883","MVC (Dispatch Only)","Syncope",0
+"2884","Myocardial Infarction(Dx)","Syncope",0
+"2885","Newborn/Neonatal","Syncope",0
+"2886","Obstetrical Emergency","Syncope",1
+"2887","Obstruc./Anatomical/Med/Other","Syncope",0
+"2888","Obstruc./Foreign Body","Syncope",0
+"2889","Organ Donor","Syncope",0
+"2890","Organ Retrieval","Syncope",0
+"2891","Other Cardiac","Syncope",1
+"2892","Other Medical/Trauma","Syncope",13
+"2893","Palpitations","Syncope",0
+"2894","Paralysis/Spinal Trauma","Syncope",0
+"2895","Poisoning/Toxic Exposure","Syncope",0
+"2896","Resp. Arrest","Syncope",0
+"2897","Resp. Disease","Syncope",0
+"2898","Resp. Distress","Syncope",5
+"2899","Seizure/Post Ictal","Syncope",6
+"2900","Sepsis (Prev. Dx)","Syncope",0
+"2901","Stroke/TIA","Syncope",9
+"2902","Syncope","Syncope",109
+"2903","Trauma Unknown (Dispatch Only)","Syncope",1
+"2904","Traumatic Arrest","Syncope",0
+"2905","Treatment - Diagnostic/Return","Syncope",0
+"2906","Unconscious","Syncope",45
+"2907","Unknown (Dispatch Only)","Syncope",4
+"2908","","Traumatic Arrest",1
+"2909","Abdominal Pain NYD","Traumatic Arrest",0
+"2910","Abdominal Trauma","Traumatic Arrest",0
+"2911","Airway Trauma","Traumatic Arrest",0
+"2912","Alcohol Intoxication","Traumatic Arrest",0
+"2913","Altered LOC","Traumatic Arrest",0
+"2914","Anaphylaxis","Traumatic Arrest",0
+"2915","Back Pain","Traumatic Arrest",0
+"2916","Behaviour/Psychiatric","Traumatic Arrest",0
+"2917","Cardiac Trauma","Traumatic Arrest",0
+"2918","Cardiac/Medical Arrest","Traumatic Arrest",0
+"2919","Chest Trauma","Traumatic Arrest",0
+"2920","CHF","Traumatic Arrest",0
+"2921","Confusion/Disorientation","Traumatic Arrest",0
+"2922","Convalescent/Invalid/Return Home","Traumatic Arrest",0
+"2923","Diabetic Emergency","Traumatic Arrest",0
+"2924","Drug Overdose","Traumatic Arrest",0
+"2925","Exposure","Traumatic Arrest",0
+"2926","General Illness/Weakness","Traumatic Arrest",0
+"2927","GI Problems/Pain/Vomiting/Nausea","Traumatic Arrest",0
+"2928","GU Problem/Pain","Traumatic Arrest",0
+"2929","Gynecological Emergency","Traumatic Arrest",0
+"2930","Head/Brain Trauma","Traumatic Arrest",0
+"2931","Headache","Traumatic Arrest",0
+"2932","Hemorrhage Minor","Traumatic Arrest",0
+"2933","Hemorrhage/Hypovolemia Major","Traumatic Arrest",0
+"2934","Hypotension Non-Traumatic","Traumatic Arrest",0
+"2935","Inhalation Injury","Traumatic Arrest",0
+"2936","Ischemic Chest Pain","Traumatic Arrest",0
+"2937","Lift Assist (Dispatch Only)","Traumatic Arrest",0
+"2938","Local Allergic Reaction","Traumatic Arrest",0
+"2939","Musk/Skel Trauma","Traumatic Arrest",0
+"2940","MVC (Dispatch Only)","Traumatic Arrest",2
+"2941","Myocardial Infarction(Dx)","Traumatic Arrest",0
+"2942","Newborn/Neonatal","Traumatic Arrest",0
+"2943","Obstetrical Emergency","Traumatic Arrest",0
+"2944","Obstruc./Anatomical/Med/Other","Traumatic Arrest",0
+"2945","Obstruc./Foreign Body","Traumatic Arrest",0
+"2946","Organ Donor","Traumatic Arrest",0
+"2947","Organ Retrieval","Traumatic Arrest",0
+"2948","Other Cardiac","Traumatic Arrest",0
+"2949","Other Medical/Trauma","Traumatic Arrest",1
+"2950","Palpitations","Traumatic Arrest",0
+"2951","Paralysis/Spinal Trauma","Traumatic Arrest",0
+"2952","Poisoning/Toxic Exposure","Traumatic Arrest",0
+"2953","Resp. Arrest","Traumatic Arrest",0
+"2954","Resp. Disease","Traumatic Arrest",0
+"2955","Resp. Distress","Traumatic Arrest",0
+"2956","Seizure/Post Ictal","Traumatic Arrest",0
+"2957","Sepsis (Prev. Dx)","Traumatic Arrest",0
+"2958","Stroke/TIA","Traumatic Arrest",0
+"2959","Syncope","Traumatic Arrest",0
+"2960","Trauma Unknown (Dispatch Only)","Traumatic Arrest",0
+"2961","Traumatic Arrest","Traumatic Arrest",6
+"2962","Treatment - Diagnostic/Return","Traumatic Arrest",0
+"2963","Unconscious","Traumatic Arrest",0
+"2964","Unknown (Dispatch Only)","Traumatic Arrest",0
+"2965","","Treatment - Diagnostic/Return",5
+"2966","Abdominal Pain NYD","Treatment - Diagnostic/Return",0
+"2967","Abdominal Trauma","Treatment - Diagnostic/Return",0
+"2968","Airway Trauma","Treatment - Diagnostic/Return",0
+"2969","Alcohol Intoxication","Treatment - Diagnostic/Return",0
+"2970","Altered LOC","Treatment - Diagnostic/Return",1
+"2971","Anaphylaxis","Treatment - Diagnostic/Return",0
+"2972","Back Pain","Treatment - Diagnostic/Return",0
+"2973","Behaviour/Psychiatric","Treatment - Diagnostic/Return",0
+"2974","Cardiac Trauma","Treatment - Diagnostic/Return",0
+"2975","Cardiac/Medical Arrest","Treatment - Diagnostic/Return",0
+"2976","Chest Trauma","Treatment - Diagnostic/Return",0
+"2977","CHF","Treatment - Diagnostic/Return",0
+"2978","Confusion/Disorientation","Treatment - Diagnostic/Return",0
+"2979","Convalescent/Invalid/Return Home","Treatment - Diagnostic/Return",0
+"2980","Diabetic Emergency","Treatment - Diagnostic/Return",0
+"2981","Drug Overdose","Treatment - Diagnostic/Return",0
+"2982","Exposure","Treatment - Diagnostic/Return",0
+"2983","General Illness/Weakness","Treatment - Diagnostic/Return",0
+"2984","GI Problems/Pain/Vomiting/Nausea","Treatment - Diagnostic/Return",0
+"2985","GU Problem/Pain","Treatment - Diagnostic/Return",0
+"2986","Gynecological Emergency","Treatment - Diagnostic/Return",0
+"2987","Head/Brain Trauma","Treatment - Diagnostic/Return",0
+"2988","Headache","Treatment - Diagnostic/Return",0
+"2989","Hemorrhage Minor","Treatment - Diagnostic/Return",0
+"2990","Hemorrhage/Hypovolemia Major","Treatment - Diagnostic/Return",0
+"2991","Hypotension Non-Traumatic","Treatment - Diagnostic/Return",0
+"2992","Inhalation Injury","Treatment - Diagnostic/Return",0
+"2993","Ischemic Chest Pain","Treatment - Diagnostic/Return",2
+"2994","Lift Assist (Dispatch Only)","Treatment - Diagnostic/Return",0
+"2995","Local Allergic Reaction","Treatment - Diagnostic/Return",0
+"2996","Musk/Skel Trauma","Treatment - Diagnostic/Return",0
+"2997","MVC (Dispatch Only)","Treatment - Diagnostic/Return",0
+"2998","Myocardial Infarction(Dx)","Treatment - Diagnostic/Return",0
+"2999","Newborn/Neonatal","Treatment - Diagnostic/Return",0
+"3000","Obstetrical Emergency","Treatment - Diagnostic/Return",0
+"3001","Obstruc./Anatomical/Med/Other","Treatment - Diagnostic/Return",0
+"3002","Obstruc./Foreign Body","Treatment - Diagnostic/Return",0
+"3003","Organ Donor","Treatment - Diagnostic/Return",0
+"3004","Organ Retrieval","Treatment - Diagnostic/Return",0
+"3005","Other Cardiac","Treatment - Diagnostic/Return",0
+"3006","Other Medical/Trauma","Treatment - Diagnostic/Return",0
+"3007","Palpitations","Treatment - Diagnostic/Return",0
+"3008","Paralysis/Spinal Trauma","Treatment - Diagnostic/Return",0
+"3009","Poisoning/Toxic Exposure","Treatment - Diagnostic/Return",0
+"3010","Resp. Arrest","Treatment - Diagnostic/Return",0
+"3011","Resp. Disease","Treatment - Diagnostic/Return",0
+"3012","Resp. Distress","Treatment - Diagnostic/Return",2
+"3013","Seizure/Post Ictal","Treatment - Diagnostic/Return",0
+"3014","Sepsis (Prev. Dx)","Treatment - Diagnostic/Return",0
+"3015","Stroke/TIA","Treatment - Diagnostic/Return",0
+"3016","Syncope","Treatment - Diagnostic/Return",0
+"3017","Trauma Unknown (Dispatch Only)","Treatment - Diagnostic/Return",0
+"3018","Traumatic Arrest","Treatment - Diagnostic/Return",0
+"3019","Treatment - Diagnostic/Return","Treatment - Diagnostic/Return",16
+"3020","Unconscious","Treatment - Diagnostic/Return",0
+"3021","Unknown (Dispatch Only)","Treatment - Diagnostic/Return",0
+"3022","","Unconscious",13
+"3023","Abdominal Pain NYD","Unconscious",0
+"3024","Abdominal Trauma","Unconscious",0
+"3025","Airway Trauma","Unconscious",0
+"3026","Alcohol Intoxication","Unconscious",0
+"3027","Altered LOC","Unconscious",0
+"3028","Anaphylaxis","Unconscious",0
+"3029","Back Pain","Unconscious",0
+"3030","Behaviour/Psychiatric","Unconscious",0
+"3031","Cardiac Trauma","Unconscious",0
+"3032","Cardiac/Medical Arrest","Unconscious",2
+"3033","Chest Trauma","Unconscious",0
+"3034","CHF","Unconscious",0
+"3035","Confusion/Disorientation","Unconscious",0
+"3036","Convalescent/Invalid/Return Home","Unconscious",0
+"3037","Diabetic Emergency","Unconscious",1
+"3038","Drug Overdose","Unconscious",1
+"3039","Exposure","Unconscious",0
+"3040","General Illness/Weakness","Unconscious",0
+"3041","GI Problems/Pain/Vomiting/Nausea","Unconscious",1
+"3042","GU Problem/Pain","Unconscious",0
+"3043","Gynecological Emergency","Unconscious",0
+"3044","Head/Brain Trauma","Unconscious",0
+"3045","Headache","Unconscious",0
+"3046","Hemorrhage Minor","Unconscious",0
+"3047","Hemorrhage/Hypovolemia Major","Unconscious",0
+"3048","Hypotension Non-Traumatic","Unconscious",0
+"3049","Inhalation Injury","Unconscious",0
+"3050","Ischemic Chest Pain","Unconscious",0
+"3051","Lift Assist (Dispatch Only)","Unconscious",0
+"3052","Local Allergic Reaction","Unconscious",0
+"3053","Musk/Skel Trauma","Unconscious",0
+"3054","MVC (Dispatch Only)","Unconscious",0
+"3055","Myocardial Infarction(Dx)","Unconscious",0
+"3056","Newborn/Neonatal","Unconscious",0
+"3057","Obstetrical Emergency","Unconscious",1
+"3058","Obstruc./Anatomical/Med/Other","Unconscious",0
+"3059","Obstruc./Foreign Body","Unconscious",0
+"3060","Organ Donor","Unconscious",0
+"3061","Organ Retrieval","Unconscious",0
+"3062","Other Cardiac","Unconscious",0
+"3063","Other Medical/Trauma","Unconscious",3
+"3064","Palpitations","Unconscious",0
+"3065","Paralysis/Spinal Trauma","Unconscious",0
+"3066","Poisoning/Toxic Exposure","Unconscious",0
+"3067","Resp. Arrest","Unconscious",0
+"3068","Resp. Disease","Unconscious",0
+"3069","Resp. Distress","Unconscious",5
+"3070","Seizure/Post Ictal","Unconscious",1
+"3071","Sepsis (Prev. Dx)","Unconscious",0
+"3072","Stroke/TIA","Unconscious",1
+"3073","Syncope","Unconscious",0
+"3074","Trauma Unknown (Dispatch Only)","Unconscious",1
+"3075","Traumatic Arrest","Unconscious",1
+"3076","Treatment - Diagnostic/Return","Unconscious",0
+"3077","Unconscious","Unconscious",66
+"3078","Unknown (Dispatch Only)","Unconscious",3

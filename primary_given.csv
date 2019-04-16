@@ -1,4 +1,4 @@
-Primary Description,COUNT(correct Dispatch Description),COUNT(wrong Dispatch Description)
+,correctdsptch,wrongdsptch
 Other Medical/Trauma,3567,5740
 Ischemic Chest Pain,14793,5426
 General Illness/Weakness,1618,2404

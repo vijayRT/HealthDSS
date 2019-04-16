@@ -1,6 +1,6 @@
 from opinion import Opinion
 from binomialoperators import BinomialOperators
-from dedabd import DedAbd
+from complex_operators import ComplexOperators
 from decimal import *
 binop = BinomialOperators()
 import pandas as pd
@@ -18,9 +18,19 @@ for index, row in data.iterrows():
         given_notgiven[row['PrimaryProbDescription']][1] += 1
 
 
-given_notgiven_df = pd.DataFrame.from_dict(given_notgiven, orient='index', columns=['COUNT(correct Dispatch Description)', 'COUNT(wrong Dispatch Description)'])
+given_notgiven_df = pd.DataFrame.from_dict(given_notgiven, orient='index', columns=['correctdsptch', 'wrongdsptch'])
 given_notgiven_df.to_csv('primary_given.csv')
-
+primaryopinions = []
+W = 2
+a = 0.5
+for index, row in given_notgiven_df.iterrows():
+    r = int(row['correctdsptch'])
+    s = int(row['wrongdsptch'])
+    t = s + r
+    b = r / (W + t)
+    d = s / (W + t)
+    u = 2 / (W + t)
+    primaryopinions.append(Opinion(b, d, u, a))
 
 # y_x = Opinion(belief=0.55, disbelief=0.15, uncertainty=0.3, baserate=0.39)
 # y_notx = Opinion(belief=0.15, disbelief=0.7, uncertainty=0.15, baserate=0.39)

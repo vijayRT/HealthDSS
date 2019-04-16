@@ -1,0 +1,58 @@
+"","Var1","Freq"
+"1","",1174
+"2","Abdominal Pain NYD",263
+"3","Abdominal Trauma",1
+"4","Airway Trauma",1
+"5","Alcohol Intoxication",33
+"6","Altered LOC",76
+"7","Anaphylaxis",43
+"8","Back Pain",25
+"9","Behaviour/Psychiatric",36
+"10","Cardiac Trauma",4
+"11","Cardiac/Medical Arrest",125
+"12","Chest Trauma",3
+"13","CHF",13
+"14","Confusion/Disorientation",74
+"15","Convalescent/Invalid/Return Home",3
+"16","Diabetic Emergency",295
+"17","Drug Overdose",89
+"18","Exposure",16
+"19","General Illness/Weakness",264
+"20","GI Problems/Pain/Vomiting/Nausea",137
+"21","GU Problem/Pain",7
+"22","Gynecological Emergency",10
+"23","Head/Brain Trauma",20
+"24","Headache",31
+"25","Hemorrhage Minor",31
+"26","Hemorrhage/Hypovolemia Major",24
+"27","Hypotension Non-Traumatic",34
+"28","Inhalation Injury",1
+"29","Ischemic Chest Pain",1747
+"30","Lift Assist (Dispatch Only)",6
+"31","Local Allergic Reaction",9
+"32","Musk/Skel Trauma",171
+"33","MVC (Dispatch Only)",106
+"34","Myocardial Infarction(Dx)",7
+"35","Newborn/Neonatal",2
+"36","Obstetrical Emergency",42
+"37","Obstruc./Anatomical/Med/Other",2
+"38","Obstruc./Foreign Body",7
+"39","Organ Donor",1
+"40","Organ Retrieval",1
+"41","Other Cardiac",94
+"42","Other Medical/Trauma",577
+"43","Palpitations",27
+"44","Paralysis/Spinal Trauma",1
+"45","Poisoning/Toxic Exposure",8
+"46","Resp. Arrest",5
+"47","Resp. Disease",90
+"48","Resp. Distress",1441
+"49","Seizure/Post Ictal",266
+"50","Sepsis (Prev. Dx)",1
+"51","Stroke/TIA",258
+"52","Syncope",151
+"53","Trauma Unknown (Dispatch Only)",58
+"54","Traumatic Arrest",10
+"55","Treatment - Diagnostic/Return",20
+"56","Unconscious",300
+"57","Unknown (Dispatch Only)",59

@@ -1,6 +1,6 @@
 from opinion import Opinion
 import math
-class DedAbd(object):
+class ComplexOperators(object):
     
     def __init__(self):
         pass
@@ -47,3 +47,24 @@ class DedAbd(object):
         uy = uIy + k
         
         return(Opinion(belief=by, disbelief=dy, uncertainty=uy, baserate=y_x.a))
+    
+    def constraintfusion(self, x, y):
+        har = x.b*y.u+y.b*x.u + x.b*y.b
+        con = x.b * y.d + y.b*x.d
+        if(con == 1):
+            return Opinion(0.5, 0.5, 0.5, 0.5)
+        u = x.u*y.u/(1-con)
+        b = har/(1-con)
+        a = (x.a*(1-x.u)+y.a*(1-y.u))/(2-x.u-y.u) if (x.u+y.u<2) else (x.a+y.a)/2
+        return Opinion(b, 1 - u - b, u, a)
+    
+    def cumulativefusion(self, x, y):
+        if(x.u!=0 or y.u!=0):
+            b=(x.b*y.u+y.b*x.u)/(x.u+y.u-x.u*y.u)
+            u=x.u*y.u/(x.u+y.u-x.u*y.u)
+            a=(x.a*y.u+y.a*x.u-(x.a+y.a)*x.u*y.u)/(x.u+y.u-2*x.u*y.u) if (x.u!=1 or y.u!=1) else (x.a+y.a)/2
+        else:
+            b=0.5*(x.b+y.b)
+            u=0
+            a=0.5*(x.a+y.a)
+        return Opinion(b, 1 - u - b, u, a)
