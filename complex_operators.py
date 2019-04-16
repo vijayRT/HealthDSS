@@ -68,3 +68,56 @@ class ComplexOperators(object):
             u=0
             a=0.5*(x.a+y.a)
         return Opinion(b, 1 - u - b, u, a)
+    
+
+    def contraposition(self, ygivenx, ygivennotx, ax):
+        Px_given_y = ax*ygivenx.p/(ax*ygivenx.p+(1-ax)*ygivennotx.p) if (ax*ygivenx.p+(1-ax)*ygivennotx.p>0) else +(ax*ygivenx.p!=0)
+        Px_given_noy = ax*(1-ygivenx.p)/(ax*(1-ygivenx.p)+(1-ax)*(1-ygivennotx.p)) if (ax*(1-ygivenx.p)+(1-ax)*(1-ygivennotx.p) > 0) else +(ax*(1-ygivenx.p)!=0)
+    
+    
+        u_maxi_xy = Px_given_y/ax if (Px_given_y<ax or ax==1) else (1-Px_given_y)/(1-ax)
+        u_maxi_xnoy = Px_given_noy/ax if (Px_given_noy<ax or ax==1) else (1-Px_given_noy)/(1-ax)
+    
+    
+        uSyX = ygivenx.u + ygivennotx.u
+        wuyx = ygivenx.u/uSyX if (uSyX>0) else +(ygivenx.u!=0)
+        wuynox = ygivennotx.u/uSyX if (uSyX>0) else +(ygivennotx.u!=0)
+    
+        u_maxiyx = ygivenx.p/ygivenx.a if (ygivenx.p<ygivenx.a or ygivenx.a==1) else (1-ygivenx.p)/(1-ygivenx.a)
+        u_maxiynox = ygivennotx.p/ygivenx.a if (ygivennotx.p<ygivenx.a or ygivenx.a==1) else (1-ygivennotx.p)/(1-ygivenx.a)
+    
+        uwyx = wuyx * ygivenx.u/u_maxiyx if (u_maxiyx!=0) else 0
+        uwynox = wuynox*ygivennotx.u/u_maxiynox if (u_maxiynox!=0) else 0 
+        uwyX = uwyx + uwynox
+        vacuous_uxy = uwyX + (1 - abs(ygivenx.p-ygivennotx.p))*(1-uwyX)
+        u_x_cp_y = u_maxi_xy*vacuous_uxy
+        u_x_cp_noy = u_maxi_xnoy*vacuous_uxy
+        b_x_cp_y = Px_given_y - ax*u_x_cp_y
+        b_x_cp_noy = Px_given_noy - ax*u_x_cp_noy
+        dr1=1-u_x_cp_y-b_x_cp_y
+        dr2=1-u_x_cp_noy-b_x_cp_noy
+        if(dr1<0):
+            b_x_cp_y+=dr1
+            dr1=0
+        elif( b_x_cp_y<0):
+            dr1+=b_x_cp_y 
+            b_x_cp_y=0
+        
+        if( dr1 + b_x_cp_y + u_x_cp_y > 1):
+            u_x_cp_y = 1-dr1-b_x_cp_y
+        
+        if(dr2<0):
+            b_x_cp_noy+=dr2
+            dr2=0
+        elif( b_x_cp_noy<0):
+            dr2+=b_x_cp_noy
+            b_x_cp_noy=0
+        
+        if( dr2 + b_x_cp_noy + u_x_cp_noy > 1):
+            u_x_cp_noy = 1-dr2-b_x_cp_noy
+        o1 = Opinion(b_x_cp_y, dr1, u_x_cp_y, ax)
+        o2 = Opinion(b_x_cp_noy, dr2, u_x_cp_noy, ax)
+        return o1, o2
+    def abduction(self, ygivenx, ygivennotx, y):
+        cpygx, cpygnx = self.contraposition(ygivenx, ygivennotx, 0.3)
+        return(self.deduction(cpygx, cpygnx, y))
